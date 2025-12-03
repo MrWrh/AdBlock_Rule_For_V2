@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2025-12-04 01:00:21 (GMT+8)
-# Total entries: 174181
+# Generated on: 2025-12-04 01:33:38 (GMT+8)
+# Total entries: 174183
 
 "0.myikas.com",
 "0.nybk.ru",
@@ -28303,6 +28303,7 @@
 "cdn-qc.coccoc.com",
 "cdn-ra.rockcontent.com",
 "cdn-redirector.glopal.com",
+"cdn-rtb.sape.ru",
 "cdn-rum.ngenix.net",
 "cdn-server.cc",
 "cdn-service.com",
@@ -126157,6 +126158,7 @@
 "static.tahoe.com",
 "static.target2sell.com",
 "static.techdoor.com",
+"static.terratraf.com",
 "static.terrhq.ru",
 "static.the-saleroom.com",
 "static.theardent.group",
