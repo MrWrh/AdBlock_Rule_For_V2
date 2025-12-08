@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2025-12-08 14:43:14 (GMT+8)
-# Total entries: 172460
+# Generated on: 2025-12-08 15:29:46 (GMT+8)
+# Total entries: 172463
 
 "0.myikas.com",
 "0.nybk.ru",
@@ -1421,6 +1421,7 @@
 "2n6w.v0rt3xlab.ru",
 "2nn7r6bh1.de",
 "2no.co",
+"2nvd5j7iv0.com",
 "2nvxn47owlp5gb5wtxv.cfd",
 "2o.b2ra.ru",
 "2o7.net",
@@ -74521,6 +74522,7 @@
 "lfelnkxiazxkx.store",
 "lfemz.campsaver.com",
 "lfercl.tcb-beauty.net",
+"lfew.cn",
 "lfffzv.xyz",
 "lfflvh.icu",
 "lfgoielaksccl.site",
@@ -145100,6 +145102,7 @@
 "vid12070hl.com",
 "vid12071hl.com",
 "vid12080hl.com",
+"vid12081hl.com",
 "vid123.net",
 "vid4u.org",
 "vidalak.com",
