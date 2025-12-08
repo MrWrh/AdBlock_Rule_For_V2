@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-08 22:44:22
+# Generated on: 2025-12-08 23:19:50
 # Generated AdBlock rules
-# Total entries: 172461
+# Total entries: 172463
 
 0.myikas.com
 0.nybk.ru
@@ -64063,6 +64063,7 @@ i9.mayoblast.com
 i90ptshd.top
 i953.greeleytribune.com
 i95jgmcw3wy2ptj5wcfbzojwkn4.cfd
+i97wqa881u.com
 i99i.org
 i9i3ko2o70.com
 i9zk5xq49plll2g.cfd
@@ -131529,6 +131530,7 @@ textureblaze.co
 texturetrick.com
 teyourmarketing.trungaleegan.com
 teyvmb.moniquelhuillier.com
+tezeoddo.com
 tezlpl.icu
 tezosceo.com
 tezoswer.com
