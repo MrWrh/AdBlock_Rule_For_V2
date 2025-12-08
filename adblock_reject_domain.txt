@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2025-12-09 06:50:26 (GMT+8)
-# Total entries: 172464
+# Generated on: 2025-12-09 07:25:29 (GMT+8)
+# Total entries: 172467
 
 "0.myikas.com",
 "0.nybk.ru",
@@ -2479,6 +2479,7 @@
 "5db016ba6b.com",
 "5df6f55408.3e63eff7bb.com",
 "5dxl24dda.com",
+"5dycay3rr.com",
 "5e.t1va.ru",
 "5e.t4mox.ru",
 "5e49fd4c08.com",
@@ -3382,6 +3383,7 @@
 "800.bolee666.com",
 "80055404.vtt",
 "80133082.xyz",
+"8052qydk7.com",
 "8053b6.aqhdbgbo.com",
 "80582834.xyz",
 "808ba9fe3d.com",
@@ -99804,6 +99806,7 @@
 "posicionamientonatural.es",
 "posifz-a.store",
 "positeasysembl.org",
+"position66.top",
 "positional-bucket.com",
 "positional.ai",
 "positiva.limpacrm.com.br",
