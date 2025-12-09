@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-09 07:46:01
+# Generated on: 2025-12-09 09:19:23
 # Generated AdBlock rules
-# Total entries: 172467
+# Total entries: 172470
 
 0.myikas.com
 0.nybk.ru
@@ -60802,6 +60802,7 @@ havetestifyharriet.com
 havetohave.com
 havingartistictastesn.org
 havjz.accessorize.com
+hawfeniku.com
 hawk.makroskop.eu
 hawk.mjsarfatti.com
 hawkabsurd.com
@@ -85120,6 +85121,7 @@ micronsofte-online.com
 micronss.com
 micronst.com
 micronsz.com
+microscope9.com
 microsite.citrix.com
 microsite.standardandpoors.com
 microsite2.dylansnoddon.com
@@ -145106,6 +145108,7 @@ vid12070hl.com
 vid12071hl.com
 vid12080hl.com
 vid12081hl.com
+vid12090hl.com
 vid123.net
 vid4u.org
 vidalak.com
