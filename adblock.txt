@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-10 06:18:54
+# Generated on: 2025-12-10 06:38:43
 # Generated AdBlock rules
-# Total entries: 173179
+# Total entries: 173181
 
 0.myikas.com
 0.nybk.ru
@@ -2604,6 +2604,7 @@
 5u2.fe7a.ru
 5u3tzh6tc.com
 5u7gwkwm9m9e5f29ygy4ej4ikzge.rest
+5u8mjz9tx0.com
 5uazcu2o1.com
 5uxmusq.cn
 5uzevbgn3ufcgg14v8ze89no7r9.cfd
@@ -3896,6 +3897,7 @@
 99194034-96-20180108171507.webstarterz.com
 993d52a9bd.com
 995be54914.com
+9992kl2wx3.com
 9996777888.com
 9999-9999-04.zfjsdj.sbs
 9999-9999-11.zfjsdj.sbs
