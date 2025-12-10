@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-10 12:48:02
+# Generated on: 2025-12-10 13:20:41
 # Generated AdBlock rules
-# Total entries: 173268
+# Total entries: 173269
 
 0.myikas.com
 0.nybk.ru
@@ -145843,6 +145843,7 @@ vid12081hl.com
 vid12090hl.com
 vid12091hl.com
 vid12100hl.com
+vid12101hl.com
 vid123.net
 vid4u.org
 vidalak.com
