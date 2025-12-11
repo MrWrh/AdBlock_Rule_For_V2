@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2025-12-11 15:29:56 (GMT+8)
-# Total entries: 173569
+# Generated on: 2025-12-11 15:50:15 (GMT+8)
+# Total entries: 173570
 
 "0.myikas.com",
 "0.nybk.ru",
@@ -90696,6 +90696,7 @@
 "next-sail.pro",
 "next.maispassagens.com.br",
 "next.minutodenoticias.com",
+"nextacdn.top",
 "nextasia.info",
 "nextbeforefollowerskean.com",
 "nextclick.pl",
