@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-13 07:33:44
+# Generated on: 2025-12-13 07:46:02
 # Generated AdBlock rules
-# Total entries: 174350
+# Total entries: 174353
 
 0.myikas.com
 0.nybk.ru
@@ -251,6 +251,7 @@
 0gw7e6s3wrao9y3q.pro
 0h.ru7x.ru
 0h9yewgei.com
+0hagz9mdc.com
 0i.a-zon.ru
 0i.frostwilder.ru
 0i.sh-cdn.com
@@ -18114,6 +18115,7 @@ appocean.media
 appodeal.com
 appodealx.com
 appoineditardwide.com
+appoint38.com
 appointeeivyspongy.com
 appollo-plus.com
 appollo.jp
@@ -145446,6 +145448,7 @@ v8.ziqa.ru
 v812.lakecountystar.com
 v81h.m0rning.ru
 v83h6.gaymale.xxx
+v84tz11w7.com
 v88yaat.xyz
 v8b9c0x1z2.sai7348.xyz
 v8gqo.p1acetit1e.ru
