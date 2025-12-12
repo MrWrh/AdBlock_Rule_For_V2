@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2025-12-13 00:53:38 (GMT+8)
-# Total entries: 174285
+# Generated on: 2025-12-13 01:25:47 (GMT+8)
+# Total entries: 174286
 
 "0.myikas.com",
 "0.nybk.ru",
@@ -56066,6 +56066,7 @@
 "glamoroustangiblematching.com",
 "glamurka.net",
 "glance-analytics.trafficmanager.net",
+"glance.inmobi.com",
 "glancedsecretion.com",
 "glanceszippersyaird.cyou",
 "glancetree.top",
