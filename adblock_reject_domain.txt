@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2025-12-12 18:53:53 (GMT+8)
-# Total entries: 173962
+# Generated on: 2025-12-12 19:25:57 (GMT+8)
+# Total entries: 173964
 
 "0.myikas.com",
 "0.nybk.ru",
@@ -93459,6 +93459,7 @@
 "odldzgdjzbksz.site",
 "odlospxkipf.com",
 "odlxepapmasej.website",
+"odmerorlzo.com",
 "odnaknopka.ru",
 "odngvujguenah.space",
 "odnpv.gwhome.com",
@@ -121093,6 +121094,7 @@
 "sonhaopaumo.com",
 "sonic-ui.highereducation.com",
 "soniccobalt.ru",
+"sonicsads.com",
 "sonkransme.com",
 "sonne.helgahilft.com",
 "sonnerie.net",
