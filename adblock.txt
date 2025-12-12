@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-12 11:13:41
+# Generated on: 2025-12-12 12:06:10
 # Generated AdBlock rules
-# Total entries: 173882
+# Total entries: 173883
 
 0.myikas.com
 0.nybk.ru
@@ -89131,6 +89131,7 @@ myship--711-tw.cc
 myship--711-tw.top
 myship-7-11-com.tw
 myship-7-11.icu
+myship-711-com-tw-yya.site
 myship-711-tw-izj.top
 myship-711-tw-nsdu.top
 myship-711-tw-vzl.top
