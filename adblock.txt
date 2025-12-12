@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-13 03:18:22
+# Generated on: 2025-12-13 03:33:04
 # Generated AdBlock rules
-# Total entries: 174304
+# Total entries: 174310
 
 0.myikas.com
 0.nybk.ru
@@ -1888,6 +1888,7 @@
 3rcld5y1dm.com
 3rd.67tf.ru
 3rdspacetech.com
+3rdupgrade.pandora.xiaomi.com
 3rj.r0en3ap.ru
 3rre9r4t2.com
 3rsppty.cn
@@ -14351,6 +14352,9 @@ analytics00.meride.tv
 analytics1.dillards.com
 analytics1.vdo.ai
 analytics16-normal-alisg.tiktok.com
+analytics16-normal-no1a.tiktokw.eu
+analytics16-normal-useast5.tiktokw.us
+analytics16-normal-useast8.tiktokw.us
 analytics16-normal-useastred.tiktokw.eu
 analytics16-normal.tiktok.com
 analytics2-3-meride-tv.akamaized.net
@@ -146489,6 +146493,7 @@ vfw-ap.amazon-adsystem.com
 vfw-eu-gamma.amazon-adsystem.com
 vfw-eu.amazon-adsystem.com
 vfw-gamma.amazon-adsystem.com
+vfw-us-gamma.amazon-adsystem.com
 vfw-us-west-gamma.amazon-adsystem.com
 vfw-us-west.amazon-adsystem.com
 vfw-us.amazon-adsystem.com
@@ -168649,6 +168654,7 @@ xlog.snssdk.com
 xlog.tiktokv.com
 xlog16-normal-c-useast1a.tiktokv.com
 xlog16-normal-c-useast2a.tiktokv.com
+xlog16-normal-no1a.tiktokv.eu
 xlog16-normal-useast8.us.tiktokv.com
 xlog16-platform-useast5.us.tiktokv.com
 xlog16-platform-ycru.tiktokv.com
