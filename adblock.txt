@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-14 07:32:25
+# Generated on: 2025-12-14 07:45:44
 # Generated AdBlock rules
-# Total entries: 174767
+# Total entries: 174769
 
 0.myikas.com
 0.nybk.ru
@@ -61642,6 +61642,7 @@ hark.tu7q.online
 harmerpand.cfd
 harmful-hire.pro
 harmful-park.com
+harmful26.top
 harmfulevery.com
 harmfullisten.pro
 harmlessshake.com
@@ -132298,6 +132299,7 @@ tarttendency.com
 tarvel.starl1ght.ru
 tas.frostmark.ru
 tasah.juiceplus.com
+tasgxk4ia6.com
 tashliknobble.qpon
 task.b-9-ku.ru
 taskagepaves.cfd
