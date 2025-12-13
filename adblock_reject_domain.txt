@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2025-12-14 06:48:41 (GMT+8)
-# Total entries: 174766
+# Generated on: 2025-12-14 07:24:00 (GMT+8)
+# Total entries: 174767
 
 "0.myikas.com",
 "0.nybk.ru",
@@ -45069,6 +45069,7 @@
 "e.q7y4s.ru",
 "e.qq.com",
 "e.r65ao.ru",
+"e.revenue.cat",
 "e.s3i1.ru",
 "e.seksohub.com",
 "e.sexbule.xxx",
