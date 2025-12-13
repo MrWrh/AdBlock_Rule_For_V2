@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-14 06:47:18
+# Generated on: 2025-12-14 07:15:52
 # Generated AdBlock rules
-# Total entries: 174766
+# Total entries: 174767
 
 0.myikas.com
 0.nybk.ru
@@ -45069,6 +45069,7 @@ e.preisapo.de
 e.q7y4s.ru
 e.qq.com
 e.r65ao.ru
+e.revenue.cat
 e.s3i1.ru
 e.seksohub.com
 e.sexbule.xxx
