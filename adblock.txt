@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-15 14:30:53
+# Generated on: 2025-12-15 15:00:22
 # Generated AdBlock rules
-# Total entries: 175317
+# Total entries: 175315
 
 0.myikas.com
 0.nybk.ru
@@ -42941,7 +42941,6 @@ dl.tspkf.top
 dl.uplnj.top
 dl.vsihe.top
 dl.y8-8.ru
-dl.zuimeitianqi.com
 dl12349.net
 dl1d2m8ri9v3j.cloudfront.net
 dl37p9e5e1vn0.cloudfront.net
@@ -48241,8 +48240,6 @@ erranddealing.com
 errandsfloes.help
 erreoawajurdj.space
 erriteolycook.qpon
-errlog.umeng.com
-errnewlog.umeng.com
 error-analytics-production.shopifysvc.com
 error-analytics-sessions-production.shopifysvc.com
 error-tracking.arvancloud.com
@@ -73478,6 +73475,7 @@ klpdk.warehouseone.com
 klpgmansuchcesu.com
 klpuqtvdxxqf.com
 klrtisidtgrgn.website
+kls24qtvc.com
 klsjxp.kyeonsadol.co.kr
 klspkjyub-n.xyz
 klsrv.footlocker.ca
@@ -112106,7 +112104,6 @@ safe-connection21.com
 safe.catiiexpress.com
 safebk.shop
 safebrowsdv.com
-safebrowsing.googleapis.com
 safebrowsing.urlsec.gg.com
 safecarecpacenter.com
 safecoinal.com
@@ -130474,6 +130471,7 @@ syfwnf.society6.com
 sygmtz.com
 sygrip.info
 syh-imp.cdnjtzy.com
+syh.zybang.com
 syhhlxnyzltmu.site
 syinga.com
 syjkcdmwgqwrm.top
