@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2025-12-15 17:03:12 (GMT+8)
-# Total entries: 175329
+# Generated on: 2025-12-15 17:50:03 (GMT+8)
+# Total entries: 175331
 
 "0.myikas.com",
 "0.nybk.ru",
@@ -11192,6 +11192,7 @@
 "afrihealthexpo.org",
 "afrikad.com",
 "afritreeject.help",
+"afrlodurf.com",
 "afrnc.firstimpressionironworks.com",
 "afrnnc.com",
 "afront.io",
@@ -69512,6 +69513,7 @@
 "ixnp.com",
 "ixnrmco.com",
 "ixoe.cn",
+"ixog.cn",
 "ixorachoregy.com",
 "ixpaecojilsoj.space",
 "ixpulukuol.com",
