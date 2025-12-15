@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2025-12-16 06:27:08 (GMT+8)
-# Total entries: 172219
+# Generated on: 2025-12-16 07:26:11 (GMT+8)
+# Total entries: 172222
 
 "0.myikas.com",
 "0.nybk.ru",
@@ -20764,6 +20764,7 @@
 "b00king-tw.com",
 "b02.black.ndmdhs.com",
 "b02byun5xc3s.com",
+"b053d0h076.com",
 "b08.fit",
 "b0e8.com",
 "b0f01ce38a.com",
@@ -52694,6 +52695,7 @@
 "fortunatelysymptom.com",
 "fortunatemark.com",
 "fortune.aeonzd.com",
+"fortune59.com",
 "fortuneindoorsinto.com",
 "fortvision.com",
 "forty.4-pytim-30-ua.ru",
@@ -132330,6 +132332,7 @@
 "tkll12141nb.com",
 "tkll12150nb.com",
 "tkll12151nb.com",
+"tkll12160nb.com",
 "tklsrzklrtyqj.website",
 "tklsxniuurtqa.online",
 "tklto.drinkag1.com",
