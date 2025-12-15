@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-15 17:00:13
+# Generated on: 2025-12-15 17:40:12
 # Generated AdBlock rules
-# Total entries: 175329
+# Total entries: 175331
 
 0.myikas.com
 0.nybk.ru
@@ -11192,6 +11192,7 @@ africawin.com
 afrihealthexpo.org
 afrikad.com
 afritreeject.help
+afrlodurf.com
 afrnc.firstimpressionironworks.com
 afrnnc.com
 afront.io
@@ -69512,6 +69513,7 @@ ixnow.xyz
 ixnp.com
 ixnrmco.com
 ixoe.cn
+ixog.cn
 ixorachoregy.com
 ixpaecojilsoj.space
 ixpulukuol.com
