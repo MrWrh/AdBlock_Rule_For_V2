@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-16 17:32:01
+# Generated on: 2025-12-16 17:53:09
 # Generated AdBlock rules
-# Total entries: 172410
+# Total entries: 172411
 
 0.myikas.com
 0.nybk.ru
@@ -169525,6 +169525,7 @@ youp05.com
 youqunjx.com
 your-local-dream.com
 your-mom-is-so-fat-we-couldnt-fit-her-in-this-doma.in
+your-name.click
 your-notice.com
 your.maas.ptvgroup.com
 your.mapandguide.ptvgroup.com
