@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2025-12-16 14:42:05 (GMT+8)
-# Total entries: 172386
+# Generated on: 2025-12-16 15:28:58 (GMT+8)
+# Total entries: 172388
 
 "0.myikas.com",
 "0.nybk.ru",
@@ -3660,6 +3660,7 @@
 "88lotte.com",
 "88p2p.com",
 "88r.cloudn0de.ru",
+"88r6s1hecp.com",
 "88u.comp0tsab3e.ru",
 "88vin.shop",
 "88win2.com",
@@ -132474,6 +132475,7 @@
 "tkll12150nb.com",
 "tkll12151nb.com",
 "tkll12160nb.com",
+"tkll12161nb.com",
 "tklsrzklrtyqj.website",
 "tklsxniuurtqa.online",
 "tklto.drinkag1.com",
