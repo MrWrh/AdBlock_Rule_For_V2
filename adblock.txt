@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-18 14:58:41
+# Generated on: 2025-12-18 15:26:46
 # Generated AdBlock rules
-# Total entries: 173217
+# Total entries: 173220
 
 0.myikas.com
 0.nybk.ru
@@ -55908,6 +55908,7 @@ gg86.pinggu.org
 gg88.bj.bcebos.com
 ggai12171cp.com
 ggai12180cp.com
+ggai12181cp.com
 ggaik.preppy.org
 ggbko.obsessedlawn.com
 ggbzqyoxkbunx.online
@@ -69706,6 +69707,7 @@ jailbreak-bsa.pages.dev
 jailbulb.com
 jailishwabbles.cfd
 jailorscoman.cfd
+jaimbai2b1.com
 jaimirozadair.net
 jaiphaugaw.net
 jaiphoudidaust.net
@@ -151806,6 +151808,7 @@ wugroansaghadry.com
 wugrorud.com
 wuhhgk.glamira.com
 wujiupic.com
+wuk1ruqhcs.com
 wukcvtbrlyrxd.store
 wukhotphbgnfq.store
 wuknh.vuwekydw.com
