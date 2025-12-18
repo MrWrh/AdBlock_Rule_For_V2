@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2025-12-19 06:51:46 (GMT+8)
-# Total entries: 173458
+# Generated on: 2025-12-19 07:25:55 (GMT+8)
+# Total entries: 173462
 
 "0.myikas.com",
 "0.nybk.ru",
@@ -313,6 +313,7 @@
 "0vtx1gfc.xyz",
 "0w.da5y.ru",
 "0w58wpq55.com",
+"0wpfe0duo.com",
 "0wq.ye-t5c.ru",
 "0wr.xf7-27.ru",
 "0x0.7-h9.ru",
@@ -44544,6 +44545,7 @@
 "dtignite.com",
 "dtindrofe.com",
 "dtiserv2.com",
+"dtjal7b1f.com",
 "dtjcvd.icu",
 "dtjpteyyxgmj.com",
 "dtjzcyjeywfaa.website",
@@ -46876,6 +46878,7 @@
 "el.qen-9.ru",
 "el.rvox.ru",
 "el.wzhy1.ru",
+"el2m3qr7v.com",
 "el4.n2vr.ru",
 "elade.mensuas.com",
 "eladies.zhmyq.cn",
@@ -120907,6 +120910,7 @@
 "speee-ad.jp",
 "spelar.org",
 "spellads.com",
+"spellbind33.com",
 "spelldeterrent.com",
 "spellingdelicatessenremove.com",
 "spellingthoughts.com",
