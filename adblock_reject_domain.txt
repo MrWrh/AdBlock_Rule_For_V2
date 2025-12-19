@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2025-12-19 15:00:20 (GMT+8)
-# Total entries: 173597
+# Generated on: 2025-12-19 15:31:31 (GMT+8)
+# Total entries: 173603
 
 "0.myikas.com",
 "0.nybk.ru",
@@ -179,6 +179,7 @@
 "092.vj4e5.ru",
 "093yuht.com",
 "0941.org",
+"094kk.com",
 "095f2fc218.com",
 "096243309f.com",
 "0963084.space",
@@ -56042,6 +56043,7 @@
 "ggai12180cp.com",
 "ggai12181cp.com",
 "ggai12190cp.com",
+"ggai12191cp.com",
 "ggaik.preppy.org",
 "ggbko.obsessedlawn.com",
 "ggbzqyoxkbunx.online",
@@ -70795,6 +70797,7 @@
 "jmnimxckinsdz.website",
 "jmnktmmkiitir.site",
 "jmnxhygjdedjy.site",
+"jmosl.com",
 "jmp-assets.com",
 "jmpbowl.space",
 "jmpgwn.miniqueen.tw",
@@ -70891,6 +70894,7 @@
 "jo2f.cheque-cadhoc.fr",
 "jo4.icu",
 "jo9p72.cyou",
+"jo9q3dhqf.com",
 "joacheglooleest.com",
 "joafsitoftfeb.com",
 "joagrafaiy.net",
@@ -90145,6 +90149,7 @@
 "n2bv.2h7-o.ru",
 "n2ch.9ha-t.ru",
 "n2d79v41a3.com",
+"n2ivsbik2.com",
 "n2jiyjk4md.vehwj.com",
 "n2major.com",
 "n2pi1.deep5ky.ru",
@@ -93007,6 +93012,7 @@
 "nsapu4d.lat",
 "nsapu4d.sbs",
 "nsaudience.pl",
+"nsb42.com",
 "nsbko.com",
 "nsbxnwfkiqqjh.space",
 "nscanzvkaxfvf.website",
