@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-19 21:20:25
+# Generated on: 2025-12-19 21:47:27
 # Generated AdBlock rules
-# Total entries: 173706
+# Total entries: 173707
 
 0.myikas.com
 0.nybk.ru
@@ -63253,6 +63253,7 @@ hitcount.dk
 hitcountersonline.com
 hitcounterstats.com
 hitcpm.com
+hitechprovider.com
 hitechvm.com
 hitelkereso.hu
 hitfewness.cfd
