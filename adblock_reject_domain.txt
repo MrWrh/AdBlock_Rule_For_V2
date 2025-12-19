@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2025-12-20 03:24:47 (GMT+8)
-# Total entries: 173777
+# Generated on: 2025-12-20 03:48:52 (GMT+8)
+# Total entries: 173776
 
 "0.myikas.com",
 "0.nybk.ru",
@@ -10106,7 +10106,6 @@
 "adsxyz.com",
 "adsy.mail.bg",
 "adsync.tech",
-"adsyndication.msn.com",
 "adsyou.pro",
 "adsyst.ru",
 "adt.com.vn",
@@ -31799,6 +31798,7 @@
 "cname-adebis.nice2meet.us",
 "cname-adebis.vcube.com",
 "cname-ali-asia-stsdk.vivoglobal.com",
+"cname-asia-comonrt-stsdk.vivoglobal.com",
 "cname-asia-st-exappupgrade.vivoglobal.com",
 "cname-asia-stsdk09.vivoglobal.com",
 "cname-asia02-stsdk.vivoglobal.com",
@@ -45170,6 +45170,7 @@
 "dyyygyg.top",
 "dyzmo.com",
 "dz.dumx.ru",
+"dz1dt3wqswdezgx4j2ryem5iad.apple.com",
 "dz3tfc2m9.com",
 "dz4ad.com",
 "dz4y1.p2rabpr0nos.ru",
@@ -85666,7 +85667,6 @@
 "metershookdash.com",
 "metheny.cn",
 "methodcash.com",
-"methodofpay-ads.web.roku.com",
 "methoxyunpaled.com",
 "metinsmaze.qpon",
 "metis.truecaller.com",
@@ -133324,8 +133324,6 @@
 "tj1.master.pt.xiaomi.com",
 "tj1.payment.pt.xiaomi.com",
 "tj1.scf.pt.xiaomi.com",
-"tj1.staging.fintech.pt.xiaomi.com",
-"tj1.staging.fund.pt.xiaomi.com",
 "tj1.staging.ins.pt.xiaomi.com",
 "tj1.staging.mifi.pt.xiaomi.com",
 "tj1.staging.nfcpay.xiaomi.com",
@@ -152314,6 +152312,7 @@
 "wttd.madeleine.fr",
 "wttd.madeleine.gr",
 "wttpwvlurczpe.rocks",
+"wttwebsiteprodapi-liveevents.trafficmanager.net",
 "wtxqkplrdszqm.space",
 "wtyatnwr.com",
 "wtyetapa.rest",
