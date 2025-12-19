@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2025-12-19 14:40:13 (GMT+8)
-# Total entries: 173595
+# Generated on: 2025-12-19 15:00:20 (GMT+8)
+# Total entries: 173597
 
 "0.myikas.com",
 "0.nybk.ru",
@@ -110740,6 +110740,7 @@
 "rulroompaulooth.net",
 "rultiltougnengo.net",
 "rulwph.xyz",
+"rum-collector.leaderint.workers.dev",
 "rum-http-intake.logs.datadoghq.eu",
 "rum-metrics.bunny.net",
 "rum-reporter-prod.exp.bn.nr",
@@ -149258,6 +149259,7 @@
 "web-tracker.smsbump.com",
 "web-trackers.com",
 "web-visor.com",
+"web-vitals-script.leaderint.workers.dev",
 "web-vitals.bfops.io",
 "web-vitals.booking.com",
 "web-walmart.org",
