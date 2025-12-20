@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-20 22:46:40
+# Generated on: 2025-12-20 23:16:19
 # Generated AdBlock rules
-# Total entries: 174089
+# Total entries: 174090
 
 0.myikas.com
 0.nybk.ru
@@ -107160,6 +107160,7 @@ ray.baowang115588.com
 ray.baowang5788.net
 ray.wib8.ru
 ray0ut.sunfold.ru
+rayjump.com
 raymondtoaster.com
 rayoncarvist.cfd
 rays-counter.com
