@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2025-12-21 05:22:11 (GMT+8)
-# Total entries: 174167
+# Generated on: 2025-12-21 05:48:41 (GMT+8)
+# Total entries: 174170
 
 "0.myikas.com",
 "0.nybk.ru",
@@ -94431,6 +94431,7 @@
 "octaplagaius.shop",
 "octavius.rocks",
 "octettealanylscaridea.cfd",
+"octillion.tv",
 "octo25.me",
 "octoberads.space",
 "octobertheatrenosy.com",
@@ -96000,6 +96001,7 @@
 "openexchange.app",
 "openfpcdn.io",
 "opengalaxyapps.monster",
+"openglass.tv",
 "openhit.com",
 "openingclutter.com",
 "openinstall.io",
@@ -152732,6 +152734,7 @@
 "wuporg.com",
 "wurfl.io",
 "wurflcloud.com",
+"wurl.com",
 "wurqaz.com",
 "wurst.hausschlachtebedarf.de",
 "wurst.leffis.de",
