@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2025-12-20 22:49:05 (GMT+8)
-# Total entries: 174089
+# Generated on: 2025-12-20 23:24:51 (GMT+8)
+# Total entries: 174090
 
 "0.myikas.com",
 "0.nybk.ru",
@@ -107160,6 +107160,7 @@
 "ray.baowang5788.net",
 "ray.wib8.ru",
 "ray0ut.sunfold.ru",
+"rayjump.com",
 "raymondtoaster.com",
 "rayoncarvist.cfd",
 "rays-counter.com",
