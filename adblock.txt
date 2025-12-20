@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-20 14:26:30
+# Generated on: 2025-12-20 14:54:46
 # Generated AdBlock rules
-# Total entries: 173966
+# Total entries: 173970
 
 0.myikas.com
 0.nybk.ru
@@ -140,6 +140,7 @@
 06969451.xyz
 06b36b4508.5813e74b18.com
 06cffaae87.com
+06cp8ypn8j.com
 06d1.93i197934.ru
 06evyxnibl.com
 06f7bf5b8f.com
@@ -56143,6 +56144,7 @@ ggai12181cp.com
 ggai12190cp.com
 ggai12191cp.com
 ggai12200cp.com
+ggai12201cp.com
 ggaik.preppy.org
 ggbko.obsessedlawn.com
 ggbzqyoxkbunx.online
@@ -74650,6 +74652,7 @@ kvysslhsbayel.online
 kvyuqphervyet.store
 kvzbonvsutara.website
 kvznoubscgeep.website
+kvzscvzk0t.com
 kvzvieyakmhfn.site
 kw.digncbe.top
 kw.h-73-n.ru
@@ -173552,6 +173555,7 @@ zsy10221yok.com
 zsy10230yok.com
 zsy10231yok.com
 zsy10240yok.com
+zsz8xljo8y.top
 zszhfffyd.ru
 zszhln.xyz
 zt-uc-baidu.cc
