@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-20 18:17:32
+# Generated on: 2025-12-20 18:39:10
 # Generated AdBlock rules
-# Total entries: 174023
+# Total entries: 174024
 
 0.myikas.com
 0.nybk.ru
@@ -52837,6 +52837,7 @@ fmlyauqjelxvy.site
 fmmnotstql.xyz
 fmnas.innovativeweaves.com
 fmnoa.rarecarat.com
+fmnoaqebhe.com
 fmouvzcbveuun.online
 fmpub.net
 fmpvj.wholesalejewelrywebsite.com
