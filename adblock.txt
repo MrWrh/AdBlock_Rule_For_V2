@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-22 06:16:54
+# Generated on: 2025-12-22 06:37:49
 # Generated AdBlock rules
-# Total entries: 174490
+# Total entries: 174492
 
 0.myikas.com
 0.nybk.ru
@@ -72674,6 +72674,7 @@ k8.wsit4.ru
 k864.orovillemr.com
 k8c2.hushdr0pper.ru
 k8jv1m2.ru
+k8mb640mta.com
 k8rq72yu3oeii6nv8o3cr8kj9o.rest
 k8u.mt3o4.ru
 k8x1.starmarkt.online
@@ -109707,6 +109708,7 @@ rkgwzfwjgk.com
 rkhovdiminatedmo.org
 rkhsl.loganix.com
 rkioyw.bedstu.com
+rkjmhv2lvh.com
 rkjtlnfhsocoz.store
 rklxjd.thegrindfitness.com
 rklzpo.com
