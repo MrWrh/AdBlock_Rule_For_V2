@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2025-12-22 00:53:22 (GMT+8)
-# Total entries: 174423
+# Generated on: 2025-12-22 01:22:33 (GMT+8)
+# Total entries: 174424
 
 "0.myikas.com",
 "0.nybk.ru",
@@ -8046,6 +8046,7 @@
 "ad.megapeer.ru",
 "ad.mi.com",
 "ad.mobiuspace.net",
+"ad.mojisead.co.kr",
 "ad.moo-mam-tai.com",
 "ad.mox.tv",
 "ad.mrab.co.kr",
