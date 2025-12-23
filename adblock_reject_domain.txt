@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2025-12-23 22:54:06 (GMT+8)
-# Total entries: 174849
+# Generated on: 2025-12-23 23:29:16 (GMT+8)
+# Total entries: 174852
 
 "0.myikas.com",
 "0.nybk.ru",
@@ -42044,6 +42044,7 @@
 "dhdarkuit.com",
 "dhddv.rarevinyl.com",
 "dhdsrgd.com",
+"dhduc.com",
 "dheear.site",
 "dheheagbmhdfk.space",
 "dheilgorsy.com",
@@ -56247,6 +56248,7 @@
 "ggai12220cp.com",
 "ggai12221cp.com",
 "ggai12230cp.com",
+"ggai12231cp.com",
 "ggaik.preppy.org",
 "ggbko.obsessedlawn.com",
 "ggbzqyoxkbunx.online",
@@ -97283,6 +97285,7 @@
 "oyykgfhqkvbyz.site",
 "oyyqan.hejoscar.dk",
 "oyysbc.xyz",
+"oyz61nhz8.com",
 "oz.horizonspur.ru",
 "oz.m2la.ru",
 "oz.opaldrift.ru",
