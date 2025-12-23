@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-23 22:42:32
+# Generated on: 2025-12-23 23:19:07
 # Generated AdBlock rules
-# Total entries: 174848
+# Total entries: 174852
 
 0.myikas.com
 0.nybk.ru
@@ -2741,6 +2741,7 @@
 5u1zleadi.com
 5u2.fe7a.ru
 5u3tzh6tc.com
+5u6ku3n9k.com
 5u7gwkwm9m9e5f29ygy4ej4ikzge.rest
 5u8mjz9tx0.com
 5uazcu2o1.com
@@ -42043,6 +42044,7 @@ dhdarkrfd.com
 dhdarkuit.com
 dhddv.rarevinyl.com
 dhdsrgd.com
+dhduc.com
 dheear.site
 dheheagbmhdfk.space
 dheilgorsy.com
@@ -56246,6 +56248,7 @@ ggai12211cp.com
 ggai12220cp.com
 ggai12221cp.com
 ggai12230cp.com
+ggai12231cp.com
 ggaik.preppy.org
 ggbko.obsessedlawn.com
 ggbzqyoxkbunx.online
@@ -97282,6 +97285,7 @@ oyxp.xyz
 oyykgfhqkvbyz.site
 oyyqan.hejoscar.dk
 oyysbc.xyz
+oyz61nhz8.com
 oz.horizonspur.ru
 oz.m2la.ru
 oz.opaldrift.ru
