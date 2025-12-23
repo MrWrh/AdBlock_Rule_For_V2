@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-23 23:19:07
+# Generated on: 2025-12-23 23:40:37
 # Generated AdBlock rules
-# Total entries: 174852
+# Total entries: 174853
 
 0.myikas.com
 0.nybk.ru
@@ -95585,6 +95585,7 @@ ondox.ondodfi.com
 ondox.ondonfi.com
 ondraits.com
 ondrizbpu.com
+ondrotnw.com
 ondyabsurds.cyou
 one-experience-database-4qma.s3.ap-northeast-2.amazonaws.com
 one-workspace.matrix42.com
