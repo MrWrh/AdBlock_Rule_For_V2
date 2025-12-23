@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2025-12-24 06:50:35 (GMT+8)
-# Total entries: 174967
+# Generated on: 2025-12-24 07:24:56 (GMT+8)
+# Total entries: 174973
 
 "0.myikas.com",
 "0.nybk.ru",
@@ -2370,6 +2370,7 @@
 "4ym.gyro-desk.ru",
 "4z.st0rmleaf.ru",
 "4z50jczq2.com",
+"4zm6p17ppr.com",
 "4zn.fun",
 "4zp4gg9hztgv67jqv56mkxz4h9.cfd",
 "4zx.paperknurl.ru",
@@ -48007,6 +48008,7 @@
 "entiremain.com",
 "entjgcr.com",
 "entlyhavebed.org",
+"entrance79.top",
 "entrandingswon.com",
 "entreatyfungusgaily.com",
 "entrecard.s3.amazonaws.com",
@@ -100522,6 +100524,7 @@
 "piperlyshelvy.qpon",
 "pipernowhizz.life",
 "pipetrec.com",
+"pipette22.top",
 "pipfarme.com",
 "pipfarmo.com",
 "pipki.r.worldssl.net",
@@ -107523,6 +107526,7 @@
 "rcgzswaqloxag.store",
 "rchkup.com",
 "rchnjyrju.net",
+"rchqtr.icu",
 "rcilgeill.com",
 "rcinksfpvdfgb.store",
 "rciokmwkjiwuw.store",
@@ -152649,6 +152653,7 @@
 "wn6x136h.xyz",
 "wn6y.cn",
 "wn80drk.shop",
+"wnacammull.com",
 "wncgesx.com",
 "wncgvax.com",
 "wncowb.miracle-woman.com",
@@ -172877,6 +172882,7 @@
 "z6.deve1ins0le.ru",
 "z6.neur0l5uptn.ru",
 "z6.wz3a7.ru",
+"z60ft9y8lj.com",
 "z680.beaumontenterprise.com",
 "z6c4p.1r55.online",
 "z6c8q.yq2r.online",
