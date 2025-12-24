@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2025-12-25 06:26:34 (GMT+8)
-# Total entries: 175304
+# Generated on: 2025-12-25 07:25:33 (GMT+8)
+# Total entries: 175310
 
 "0.myikas.com",
 "0.nybk.ru",
@@ -11941,6 +11941,7 @@
 "aimtaujaixou.com",
 "aimukreegee.net",
 "ainb12241zh.com",
+"ainb12250zh.com",
 "aincrd.champstudy.com",
 "ainesource.cloud",
 "ainestain.com",
@@ -12051,6 +12052,7 @@
 "airoboteth.vip",
 "airplanecoffee.com",
 "airplaneprosperretreat.com",
+"airport89.com",
 "airpr.com",
 "airs.adpinfo.com",
 "airshedcoart.com",
@@ -24315,6 +24317,7 @@
 "bjm.1vkx.cn",
 "bjmantis.net",
 "bjnjh.paintplot.com.au",
+"bjnyfav.xyz",
 "bjnzxo.melvita.com",
 "bjpnhroqdkexx.website",
 "bjpsuk.fray-id.com",
@@ -46402,6 +46405,7 @@
 "edeensiwaftaih.xyz",
 "edentista.com",
 "edentwithought.org",
+"edethrelhf.com",
 "edexlar011.tt23.life.cdn.cloudflare.net",
 "edexlaron.tt23.life.cdn.cloudflare.net",
 "edexlearin.tt23.life.cdn.cloudflare.net",
@@ -56386,6 +56390,7 @@
 "ggai12231cp.com",
 "ggai12240cp.com",
 "ggai12241cp.com",
+"ggai12250cp.com",
 "ggaik.preppy.org",
 "ggbko.obsessedlawn.com",
 "ggbzqyoxkbunx.online",
@@ -58497,6 +58502,7 @@
 "graciousunique.com",
 "grado.ufv.es",
 "graduate472.fun",
+"graduate59.com",
 "graduateangeles.com",
 "graduationpaltryherbal.com",
 "graeiyjcrozqi.online",
@@ -64158,7 +64164,6 @@
 "hollymediaa.biz",
 "hollysocialspuse.com",
 "holm.ru",
-"holmesmind.com",
 "holmiatsia.cyou",
 "holonimjs.com",
 "holor0701.cn",
@@ -169067,6 +169072,7 @@
 "xfbsnbrmgtpur.website",
 "xfcoinft.com",
 "xfcyeusikjp.com",
+"xfdlfj.icu",
 "xfgctg.com",
 "xfgmggfebwjtv.online",
 "xfgpxc.us-onlinestore.com",
