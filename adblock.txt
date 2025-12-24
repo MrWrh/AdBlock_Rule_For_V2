@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-25 06:39:39
+# Generated on: 2025-12-25 06:52:01
 # Generated AdBlock rules
-# Total entries: 175304
+# Total entries: 175306
 
 0.myikas.com
 0.nybk.ru
@@ -11941,6 +11941,7 @@ aimtaizoukr.net
 aimtaujaixou.com
 aimukreegee.net
 ainb12241zh.com
+ainb12250zh.com
 aincrd.champstudy.com
 ainesource.cloud
 ainestain.com
@@ -58497,6 +58498,7 @@ graciousprofit.pro
 graciousunique.com
 grado.ufv.es
 graduate472.fun
+graduate59.com
 graduateangeles.com
 graduationpaltryherbal.com
 graeiyjcrozqi.online
