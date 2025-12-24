@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-25 06:17:44
+# Generated on: 2025-12-25 06:39:39
 # Generated AdBlock rules
-# Total entries: 175301
+# Total entries: 175304
 
 0.myikas.com
 0.nybk.ru
@@ -961,6 +961,7 @@
 1paujqtq9.com
 1phrzgfqiym8.marketingtornado.ca
 1pqfa71mc.de
+1pt7wq8di.com
 1push.io
 1pzskg.cn
 1qa5x1k5v.com
@@ -2223,6 +2224,7 @@
 4d.stormblink.ru
 4d0m.cn
 4d3.f-o-9bt.ru
+4d45i6p0g.com
 4d9f09z8c.com
 4dc005d17a.com
 4dccfcf337.com
@@ -2592,6 +2594,7 @@
 5b2.fk9o0.ru
 5bb66f161d.com
 5be7319a8b.com
+5bess6df0.com
 5bf0fdacd2.apps.iocnt.de
 5bf6d94b92.com
 5br.m1xthatch.ru
