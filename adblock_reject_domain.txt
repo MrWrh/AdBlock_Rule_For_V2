@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2025-12-24 23:27:57 (GMT+8)
-# Total entries: 175201
+# Generated on: 2025-12-24 23:51:15 (GMT+8)
+# Total entries: 175200
 
 "0.myikas.com",
 "0.nybk.ru",
@@ -173085,7 +173085,6 @@
 "z4.fi0m.ru",
 "z4.hasefa.ru",
 "z492.ctinsider.com",
-"z4a.net",
 "z4cp.waver-mint.ru",
 "z4k.ykgw-2.ru",
 "z4l.sh0rtwe5ter.ru",
