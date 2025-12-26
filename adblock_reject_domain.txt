@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2025-12-27 02:56:23 (GMT+8)
-# Total entries: 176094
+# Generated on: 2025-12-27 03:22:37 (GMT+8)
+# Total entries: 176093
 
 "0.myikas.com",
 "0.www.cheetahhowevertowardsfrom.com",
@@ -108346,7 +108346,6 @@
 "rclt.xyz",
 "rcm-eu.amazon-adsystem.com",
 "rcm-fe.amazon-adsystem.com",
-"rcm-images.amazon.com",
 "rcm-it.amazon.it",
 "rcm-jp.amazon.co.jp",
 "rcm-na.amazon-adsystem.com",
