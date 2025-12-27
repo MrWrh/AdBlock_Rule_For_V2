@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-27 16:23:19
+# Generated on: 2025-12-27 16:53:41
 # Generated AdBlock rules
-# Total entries: 176203
+# Total entries: 176205
 
 0.myikas.com
 0.www.cheetahhowevertowardsfrom.com
@@ -11996,6 +11996,7 @@ ainb12251zh.com
 ainb12260zh.com
 ainb12261zh.com
 ainb12270zh.com
+ainb12271zh.com
 aincrd.champstudy.com
 ainesource.cloud
 ainestain.com
@@ -174070,6 +174071,7 @@ z4cp.waver-mint.ru
 z4k.ykgw-2.ru
 z4l.sh0rtwe5ter.ru
 z4qe.49o103159.online
+z4tnhm97b.com
 z4v.icu
 z5.ll-7-y-5.ru
 z55.winn5588.com
