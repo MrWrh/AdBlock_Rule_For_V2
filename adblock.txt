@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-28 07:17:03
+# Generated on: 2025-12-28 07:33:12
 # Generated AdBlock rules
-# Total entries: 176317
+# Total entries: 176320
 
 0.myikas.com
 0.www.cheetahhowevertowardsfrom.com
@@ -107818,6 +107818,7 @@ r4rx.plasm-about.ru
 r4t.storm-ripple.ru
 r4u.icu
 r4uj20yt2u.com
+r4uws5iu3g.com
 r4yd.1s-1n.ru
 r4yq.9r3s.online
 r5.jk-3-y-7.ru
@@ -171208,6 +171209,7 @@ xo.a8ain4unt.ru
 xo.kerryhe.buzz
 xo.prli-1.ru
 xo.y8-8.ru
+xo60kab7yv.com
 xo688oro.xyz
 xo7h4gyq9c2zoeic6yqqj5m.cfd
 xoalt.com
@@ -171339,6 +171341,7 @@ xpxqagsqezhgk.website
 xpya.cn
 xpyccf.jdsports.fi
 xpywjxtnamrdv.website
+xpzodh.icu
 xpzswr.shasa.com
 xq.2f8-2.ru
 xq.al1ah5natch.ru
