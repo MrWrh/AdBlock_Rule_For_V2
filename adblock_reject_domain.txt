@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2025-12-28 07:24:40 (GMT+8)
-# Total entries: 176317
+# Generated on: 2025-12-28 07:48:47 (GMT+8)
+# Total entries: 176320
 
 "0.myikas.com",
 "0.www.cheetahhowevertowardsfrom.com",
@@ -107818,6 +107818,7 @@
 "r4t.storm-ripple.ru",
 "r4u.icu",
 "r4uj20yt2u.com",
+"r4uws5iu3g.com",
 "r4yd.1s-1n.ru",
 "r4yq.9r3s.online",
 "r5.jk-3-y-7.ru",
@@ -171208,6 +171209,7 @@
 "xo.kerryhe.buzz",
 "xo.prli-1.ru",
 "xo.y8-8.ru",
+"xo60kab7yv.com",
 "xo688oro.xyz",
 "xo7h4gyq9c2zoeic6yqqj5m.cfd",
 "xoalt.com",
@@ -171339,6 +171341,7 @@
 "xpya.cn",
 "xpyccf.jdsports.fi",
 "xpywjxtnamrdv.website",
+"xpzodh.icu",
 "xpzswr.shasa.com",
 "xq.2f8-2.ru",
 "xq.al1ah5natch.ru",
