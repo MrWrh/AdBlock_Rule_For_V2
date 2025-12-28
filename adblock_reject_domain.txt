@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2025-12-28 22:51:09 (GMT+8)
-# Total entries: 176514
+# Generated on: 2025-12-28 23:26:09 (GMT+8)
+# Total entries: 176519
 
 "0.myikas.com",
 "0.www.cheetahhowevertowardsfrom.com",
@@ -12022,6 +12022,7 @@
 "ainb12270zh.com",
 "ainb12271zh.com",
 "ainb12280zh.com",
+"ainb12281zh.com",
 "aincrd.champstudy.com",
 "ainesource.cloud",
 "ainestain.com",
@@ -25224,6 +25225,7 @@
 "bochutoartoasu.net",
 "bockouphourgait.net",
 "bocongthuong.org",
+"bocvr4ka.xyz",
 "bodaybo.net",
 "bodbhs.sbs",
 "bodegashunlike.com",
@@ -92084,6 +92086,7 @@
 "ndct-data.video.iqiyi.com",
 "ndcuvybsahujj.online",
 "ndcywq.ullapopken.fr",
+"ndd3wvq0cw.com",
 "nddohszgbrzgw.online",
 "ndeedtheriverwas.com",
 "ndegj3peoh.com",
@@ -123321,6 +123324,7 @@
 "spmqkfodtwzit.site",
 "spmyma.moscowfresh.ru",
 "spn-twr-14.com",
+"spnuninugr.com",
 "spnx.jp",
 "spoar.org.in",
 "spoaven.top",
@@ -136337,6 +136341,7 @@
 "tnyafgzlwwk.com",
 "tnyjlo.top",
 "tnz3.carrefour-banque.fr",
+"tnze.cn",
 "tnze49.tnze.asia",
 "tnzlmhzidwjzq.fun",
 "tnzwltdwicqnw.space",
