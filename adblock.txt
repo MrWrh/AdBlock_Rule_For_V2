@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-28 16:23:24
+# Generated on: 2025-12-28 16:53:50
 # Generated AdBlock rules
-# Total entries: 176450
+# Total entries: 176453
 
 0.myikas.com
 0.www.cheetahhowevertowardsfrom.com
@@ -29238,6 +29238,7 @@ cdn.1vag.com
 cdn.234doo.com
 cdn.7nsc.cn
 cdn.9823df.com
+cdn.9gtb.com
 cdn.ad-platform.jmty.jp
 cdn.ad.page
 cdn.addscliv.com
@@ -152940,6 +152941,7 @@ wgogmr.lisamayo.pl
 wgowyqhtippwlgn.xyz
 wgp.lq8e1.ru
 wgpepw.boatoutfitters.com
+wgs.wgs-static.com
 wgsaralfncvvb.online
 wgsndjdiiofac.space
 wgtk.tw-bgdk.com
@@ -154310,6 +154312,7 @@ work-tb.com
 work.cloudn0de.ru
 work.nightm1nt.ru
 work.rubberco.co.uk
+work.selecdoo.com
 work.tw-taobao.com
 work4bit.top
 workaem.eth.limo
