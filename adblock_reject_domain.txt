@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2025-12-28 16:34:18 (GMT+8)
-# Total entries: 176451
+# Generated on: 2025-12-28 16:55:03 (GMT+8)
+# Total entries: 176453
 
 "0.myikas.com",
 "0.www.cheetahhowevertowardsfrom.com",
@@ -29238,6 +29238,7 @@
 "cdn.234doo.com",
 "cdn.7nsc.cn",
 "cdn.9823df.com",
+"cdn.9gtb.com",
 "cdn.ad-platform.jmty.jp",
 "cdn.ad.page",
 "cdn.addscliv.com",
@@ -154311,6 +154312,7 @@
 "work.cloudn0de.ru",
 "work.nightm1nt.ru",
 "work.rubberco.co.uk",
+"work.selecdoo.com",
 "work.tw-taobao.com",
 "work4bit.top",
 "workaem.eth.limo",
