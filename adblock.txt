@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-28 14:27:17
+# Generated on: 2025-12-28 14:57:08
 # Generated AdBlock rules
-# Total entries: 176428
+# Total entries: 176429
 
 0.myikas.com
 0.www.cheetahhowevertowardsfrom.com
@@ -95173,6 +95173,7 @@ obrazy.dlabiznesu.pracuj.pl
 obrdhgxncafcx.store
 obrienpigmeat.click
 obrqts.hudforeclosed.com
+obs.du89buildings.com
 obs.esnlocco.com
 obs.jollyoutdoorjogger.com
 obs.system1onesource.com
