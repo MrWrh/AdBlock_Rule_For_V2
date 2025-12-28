@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2025-12-29 06:26:19 (GMT+8)
-# Total entries: 176614
+# Generated on: 2025-12-29 07:25:34 (GMT+8)
+# Total entries: 176620
 
 "0.myikas.com",
 "0.www.cheetahhowevertowardsfrom.com",
@@ -12026,6 +12026,7 @@
 "ainb12271zh.com",
 "ainb12280zh.com",
 "ainb12281zh.com",
+"ainb12290zh.com",
 "aincrd.champstudy.com",
 "ainesource.cloud",
 "ainestain.com",
@@ -56889,6 +56890,7 @@
 "ghaistsnakier.cyou",
 "ghanaapostgh.shop",
 "ghattislid.cyou",
+"ghaudhur.com",
 "ghazallibri.help",
 "ghazismtextus.qpon",
 "ghbmzavwyznoo.space",
@@ -89970,6 +89972,7 @@
 "mslozfyqcdtxq.website",
 "msm.myshopmen.com",
 "msmetrics.ws.sonos.com",
+"msn5vg8em.com",
 "msnenkmvzkacs.site",
 "msnpurf.themjewelersny.com",
 "msntest.serving-sys.com",
@@ -109408,6 +109411,7 @@
 "register.markit.com",
 "register.xmpush.global.xiaomi.com",
 "registration.promatis.com",
+"registration09.top",
 "registration423.fun",
 "registrytodaylocked.com",
 "reglementminfin-be.help",
@@ -150390,6 +150394,7 @@
 "vstwerxerbc.top",
 "vstwm.com",
 "vsuqyu.kase3535.com",
+"vsvgpr.icu",
 "vsw.kekgd.co",
 "vsw.kekgd.live",
 "vsw.kekgy.club",
@@ -170267,6 +170272,7 @@
 "xembaxtrwytlq.site",
 "xemhang.vn",
 "xemwmuayozxti.space",
+"xenlzn.icu",
 "xenocryptexchange.com",
 "xenon.studio",
 "xenonsandpit.cyou",
