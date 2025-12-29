@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2025-12-29 14:44:37 (GMT+8)
-# Total entries: 176649
+# Generated on: 2025-12-29 15:31:55 (GMT+8)
+# Total entries: 176651
 
 "0.myikas.com",
 "0.www.cheetahhowevertowardsfrom.com",
@@ -35446,6 +35446,7 @@
 "ctdfm.ilgiornale.it",
 "ctdowlapwyuwq.site",
 "ctdrpu.za.com",
+"ctdv3faci.com",
 "ctecnn.com",
 "ctelqtracking.wolterskluwer.com",
 "ctengine.io",
@@ -100880,6 +100881,7 @@
 "pfiuyt.com",
 "pfiwkyaehoxguy.com",
 "pfjzzl.com",
+"pfk94y5ke.com",
 "pflexads.com",
 "pflrv.cn",
 "pfluzpyezm2rbgb.rest",
