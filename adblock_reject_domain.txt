@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2026-01-01 07:25:58 (GMT+8)
-# Total entries: 177991
+# Generated on: 2026-01-01 07:49:38 (GMT+8)
+# Total entries: 177994
 
 "0.avmarket.rs",
 "0.myikas.com",
@@ -24571,6 +24571,7 @@
 "bk.brookeo.fr",
 "bk.goodline.info",
 "bk.jk-3-y-7.ru",
+"bk2l4eidc.com",
 "bkad13gfu.com",
 "bkbck.frugalkitchens.com",
 "bkbliifnzrjmn.space",
@@ -82184,6 +82185,7 @@
 "lvbvr.aroma360.ch",
 "lvcha99.cc",
 "lvcnmtl.top",
+"lvdvltsid.com",
 "lvfgmuaroloxd.online",
 "lvietcombank.com",
 "lvinq.lonewolfranchpets.com",
@@ -113837,6 +113839,7 @@
 "rz3cb7p.ebzqyow.cn",
 "rz4.sunny-harbor.ru",
 "rz44nj49ltfc22.cfd",
+"rz6jf5oqz.com",
 "rzafbl.maxpeedingrods.com",
 "rzakuwuhzcwnd.website",
 "rzarxl.ovs.it",
