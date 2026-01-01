@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2026-01-02 07:26:50 (GMT+8)
-# Total entries: 178260
+# Generated on: 2026-01-02 07:49:52 (GMT+8)
+# Total entries: 178261
 
 "0.avmarket.rs",
 "0.myikas.com",
@@ -261,6 +261,7 @@
 "0gw7e6s3wrao9y3q.pro",
 "0h.ru7x.ru",
 "0h9yewgei.com",
+"0hagal2csg.com",
 "0hagz9mdc.com",
 "0i.a-zon.ru",
 "0i.frostwilder.ru",
