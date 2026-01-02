@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2026-01-02 15:30:06 (GMT+8)
-# Total entries: 178328
+# Generated on: 2026-01-02 15:51:11 (GMT+8)
+# Total entries: 178329
 
 "0.avmarket.rs",
 "0.myikas.com",
@@ -12097,6 +12097,7 @@
 "ainb01010zh.com",
 "ainb01011zh.com",
 "ainb01020zh.com",
+"ainb01021zh.com",
 "ainb12241zh.com",
 "ainb12250zh.com",
 "ainb12251zh.com",
