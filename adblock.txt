@@ -3,7 +3,7 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-03 00:21:43
+# Generated on: 2026-01-03 01:17:54
 # Generated AdBlock rules
 # Total entries: 178373
 
@@ -8108,7 +8108,6 @@ ad.aucfan.com
 ad.auction.co.kr
 ad.aucview.com
 ad.autorace.jp
-ad.bandlab.io
 ad.bczcdn.com
 ad.belleeau.jp
 ad.bench.utorrent.com
@@ -62115,6 +62114,7 @@ gvxsbujksnijb.store
 gvyyri.major-auto.ru
 gw-analytics.panasonic.com
 gw-dv.vip
+gw-usa-tracker.zmaticoo.com
 gw.888-c.ru
 gw.blacked.com
 gw.blackedraw.com
@@ -113317,6 +113317,7 @@ rtbsystem.org
 rtbterra.com
 rtbtpiovbixue.com
 rtbtrail.com
+rtbuniverse.com
 rtbuzz.net
 rtbweb.com
 rtc-logger-i18n.tiktokv.com
@@ -116747,7 +116748,6 @@ sedatingnews.com
 sedativebitty.com
 sedfw.abb-mgs.com
 sedge.aarp.org
-sedge.nfl.com
 sedgwickpooling.sedgwick.com
 sedlwkcugxiko.com
 sedodna.com
