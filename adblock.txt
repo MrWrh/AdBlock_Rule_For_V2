@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-02 14:59:53
+# Generated on: 2026-01-02 15:31:38
 # Generated AdBlock rules
-# Total entries: 178327
+# Total entries: 178329
 
 0.avmarket.rs
 0.myikas.com
@@ -2158,6 +2158,7 @@
 42eed1a0d9c129.com
 42jdbcb.de
 42s.starforged.ru
+42vaywaovr.com
 42yenxh.cn
 43.tvil0.ru
 4302118d1a.com
@@ -12096,6 +12097,7 @@ aimukreegee.net
 ainb01010zh.com
 ainb01011zh.com
 ainb01020zh.com
+ainb01021zh.com
 ainb12241zh.com
 ainb12250zh.com
 ainb12251zh.com
