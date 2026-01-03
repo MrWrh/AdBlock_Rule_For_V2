@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2026-01-04 07:27:06 (GMT+8)
-# Total entries: 173582
+# Generated on: 2026-01-04 07:51:04 (GMT+8)
+# Total entries: 173585
 
 "0.avmarket.rs",
 "0.myikas.com",
@@ -98053,6 +98053,7 @@
 "pauxihypoxia.com",
 "pauxistores.cyou",
 "pavanhyundai.com",
+"pavdiibdvr.com",
 "paviorsgermina.help",
 "pavle.exclusive-offers-su.click",
 "pavlovwhippet.cyou",
@@ -167061,6 +167062,7 @@
 "x32l.mcyz4.ru",
 "x3b5n.1r55.online",
 "x3l9w9i2t9n1kgv7.cfd",
+"x3lps9uuog.com",
 "x3os.com",
 "x3pfkiohz.com",
 "x3pn.1s-1n.ru",
@@ -167541,6 +167543,7 @@
 "xgraph.net",
 "xgrxp.top",
 "xgspzv.troyestore.com",
+"xgsvpsz7f4.com",
 "xgsxkzscxapvj.online",
 "xgszciooysvcj.site",
 "xgtz.tw",
