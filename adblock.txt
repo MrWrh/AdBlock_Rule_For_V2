@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-03 16:24:59
+# Generated on: 2026-01-03 17:19:35
 # Generated AdBlock rules
-# Total entries: 173532
+# Total entries: 173534
 
 0.avmarket.rs
 0.myikas.com
@@ -29583,6 +29583,7 @@ cgcg01010ht.com
 cgcg01011ht.com
 cgcg01020ht.com
 cgcg01030ht.com
+cgcg01031ht.com
 cgcjmgmcpddvh.website
 cgctsw.mytour.vn
 cgeptrrkvgfno.website
@@ -148328,6 +148329,7 @@ w4o7aea80ss3-a.akamaihd.net
 w4sn20zpvz.com
 w4ty.3-s0u.ru
 w4vecl1cks.com
+w505cb.cc
 w51.cl0udstone.ru
 w55c.net
 w5bi16f3co.com
