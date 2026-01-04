@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2026-01-05 06:26:31 (GMT+8)
-# Total entries: 173701
+# Generated on: 2026-01-05 06:52:10 (GMT+8)
+# Total entries: 173702
 
 "0.avmarket.rs",
 "0.myikas.com",
@@ -46305,6 +46305,7 @@
 "eetsooso.net",
 "eetspaae.net",
 "eetzod.bemol.com.br",
+"eevfstl1n.com",
 "eewhapseepoo.net",
 "eewhaubsooz.net",
 "eewholesaler.com",
