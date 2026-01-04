@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2026-01-05 06:52:10 (GMT+8)
-# Total entries: 173702
+# Generated on: 2026-01-05 07:25:43 (GMT+8)
+# Total entries: 173707
 
 "0.avmarket.rs",
 "0.myikas.com",
@@ -11903,6 +11903,7 @@
 "ainb01031zh.com",
 "ainb01040zh.com",
 "ainb01041zh.com",
+"ainb01050zh.com",
 "ainb12241zh.com",
 "ainb12250zh.com",
 "ainb12251zh.com",
@@ -12529,6 +12530,7 @@
 "aleftmamsell.qpon",
 "aleilu.com",
 "aleksa.mtxbreak.click",
+"aleldrodm.com",
 "alemu4s.com",
 "alenty.com",
 "alephd.com",
@@ -96361,6 +96363,7 @@
 "overtracking.com",
 "overtrapinchchan.net",
 "overture.com",
+"overture34.top",
 "overturnmarshaltowers.com",
 "overturnspecified.com",
 "overwetgashes.help",
@@ -96521,6 +96524,7 @@
 "oxgnxuoxiizko.xyz",
 "oxgocmsci.com",
 "oxgyjm.livinterior.com.br",
+"oxidation83.com",
 "oxidisea.com",
 "oxidy.com",
 "oxj8hcfg.xyz",
@@ -133393,6 +133397,7 @@
 "tiz-cc95ue-309.com",
 "tiz.jsite.top",
 "tizambia.org.zm",
+"tizdfz.icu",
 "tizer.passion.ru",
 "tizer.ukraine-ru.net",
 "tizer24.ru",
