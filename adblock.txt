@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-05 06:17:13
+# Generated on: 2026-01-05 06:40:06
 # Generated AdBlock rules
-# Total entries: 173698
+# Total entries: 173701
 
 0.avmarket.rs
 0.myikas.com
@@ -29607,6 +29607,7 @@ cgcg01030ht.com
 cgcg01031ht.com
 cgcg01040ht.com
 cgcg01041ht.com
+cgcg01050ht.com
 cgcjmgmcpddvh.website
 cgctsw.mytour.vn
 cgeptrrkvgfno.website
@@ -54543,6 +54544,7 @@ g2afse.com
 g2insights-cdn.azureedge.net
 g2nnkzy49bph6hw383g.cfd
 g2t9w.5x7u.online
+g2wg5308q.com
 g2x7m.98g-bj.ru
 g3.lq8e1.ru
 g3.m2jo.ru
@@ -63985,6 +63987,7 @@ houcouptoajoo.net
 houlaubaimu.net
 houmoustcheka.cyou
 houndinflateclassmate.com
+houotgk3m.com
 houpoakishaig.net
 hourglasshookupviolation.com
 hourglassinedible.com
