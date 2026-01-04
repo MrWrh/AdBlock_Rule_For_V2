@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2026-01-04 15:01:07 (GMT+8)
-# Total entries: 173607
+# Generated on: 2026-01-04 15:37:02 (GMT+8)
+# Total entries: 173611
 
 "0.avmarket.rs",
 "0.myikas.com",
@@ -4291,6 +4291,7 @@
 "9cc9ckp.com",
 "9cd4abb9e0.com",
 "9cf6e88edb.com",
+"9ck9umcyvt.com",
 "9clasfdc3.com",
 "9cm.rockbyte.ru",
 "9controller.online",
@@ -11905,6 +11906,7 @@
 "ainb01030zh.com",
 "ainb01031zh.com",
 "ainb01040zh.com",
+"ainb01041zh.com",
 "ainb12241zh.com",
 "ainb12250zh.com",
 "ainb12251zh.com",
@@ -29598,6 +29600,7 @@
 "cgcg01030ht.com",
 "cgcg01031ht.com",
 "cgcg01040ht.com",
+"cgcg01041ht.com",
 "cgcjmgmcpddvh.website",
 "cgctsw.mytour.vn",
 "cgeptrrkvgfno.website",
@@ -104333,6 +104336,7 @@
 "qkedloyxrfsxx.net",
 "qkeweajdxbmqy.space",
 "qkffv.com",
+"qkg7yplpfo.com",
 "qkgoahutyimrf.site",
 "qkhhjm.autoscout24.nl",
 "qkhrit.mimovrste.com",
