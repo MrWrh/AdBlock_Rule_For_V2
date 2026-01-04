@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-04 14:57:38
+# Generated on: 2026-01-04 15:23:18
 # Generated AdBlock rules
-# Total entries: 173607
+# Total entries: 173610
 
 0.avmarket.rs
 0.myikas.com
@@ -4291,6 +4291,7 @@
 9cc9ckp.com
 9cd4abb9e0.com
 9cf6e88edb.com
+9ck9umcyvt.com
 9clasfdc3.com
 9cm.rockbyte.ru
 9controller.online
@@ -11905,6 +11906,7 @@ ainb01021zh.com
 ainb01030zh.com
 ainb01031zh.com
 ainb01040zh.com
+ainb01041zh.com
 ainb12241zh.com
 ainb12250zh.com
 ainb12251zh.com
@@ -104333,6 +104335,7 @@ qkdzt.gimmebeauty.com
 qkedloyxrfsxx.net
 qkeweajdxbmqy.space
 qkffv.com
+qkg7yplpfo.com
 qkgoahutyimrf.site
 qkhhjm.autoscout24.nl
 qkhrit.mimovrste.com
