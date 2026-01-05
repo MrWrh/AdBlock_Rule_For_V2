@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2026-01-06 03:49:20 (GMT+8)
-# Total entries: 174365
+# Generated on: 2026-01-06 04:32:31 (GMT+8)
+# Total entries: 174376
 
 "0.avmarket.rs",
 "0.myikas.com",
@@ -10822,6 +10822,7 @@
 "aestivator.com",
 "aests.aesthency.com",
 "aesus.so-net.ne.jp",
+"aet.spotify.com",
 "aetlivenhoof.cyou",
 "aetostw.com",
 "aets22.com",
@@ -20318,6 +20319,7 @@
 "avpgm.queencosmetics.store",
 "avpizbldgpfpg.space",
 "avpqvqfeinahp.space",
+"avpsumox.com",
 "avptfg.madeinfrancebox.com",
 "avqymy.you.gr",
 "avroad3431.fun",
@@ -25721,6 +25723,7 @@
 "briefcase95.com",
 "briefcasebuoyduster.com",
 "briefinedibleparson.com",
+"brieflynimbleignition.com",
 "briefrush.pro",
 "briefstem.com",
 "brieftrouble.com",
@@ -46394,6 +46397,7 @@
 "eelkeageg.com",
 "eelribouksi.net",
 "eelsawheedi.net",
+"eelsooptaft.net",
 "eelw.cn",
 "eelwgpubhnjxv.website",
 "eelxaavhdjttc.site",
@@ -69792,6 +69796,7 @@
 "jaccsvn.com",
 "jaccsz.com",
 "jachd.bioliteenergy.com",
+"jacinthbravishcirrhus.cyou",
 "jacinthpulpilymispaid.cyou",
 "jack.qsmack.com",
 "jack.quirk-paste.ru",
@@ -73799,6 +73804,7 @@
 "kodwaqepr.com",
 "koeebuetwevng.space",
 "koekje.smaakverkenners.nl",
+"koffbegaudismaili.cyou",
 "kofxbthodmiia.space",
 "kohadfzjolyfy.website",
 "koheo.hausofinteriors.com",
@@ -98759,6 +98765,7 @@
 "pdjjrh.xyz",
 "pdkiqznelwvdj.site",
 "pdkxnkjozibbf.website",
+"pdlfjpqbiooic.com",
 "pdllogging.qpon",
 "pdmap.hawaiianhost.com",
 "pdmp.jp",
@@ -104742,6 +104749,7 @@
 "qlrbf.petersheppard.com.au",
 "qlsaqtqd.tattoo",
 "qlsejdfqiqsvq.space",
+"qlsnflti.xyz",
 "qlspmy.xlmoto.be",
 "qlsszi.lululemon.co.nz",
 "qlstwuvnfjpry.website",
@@ -116973,6 +116981,7 @@
 "shrubburlyjaunty.com",
 "shrubbysecantsfulsome.cfd",
 "shrubspirate.com",
+"shrupsfuzz.cyou",
 "shsfe086.com",
 "shsshi.com",
 "shtatuo.cn",
@@ -126154,6 +126163,7 @@
 "statowl.com",
 "statpipe.ru",
 "stats-a.maxthon.com",
+"stats-api.skylum.com",
 "stats-blog.lewsion.com",
 "stats-bq.stylight.net",
 "stats-connect.comet.it",
@@ -148681,6 +148691,7 @@
 "vvdzucs.cn",
 "vve.xilecai.com",
 "vvelrp.thinkshoes.com",
+"vvewkblqoewey.top",
 "vvfgjzwa.icu",
 "vvfht.fun",
 "vvhju.rezoni.com",
