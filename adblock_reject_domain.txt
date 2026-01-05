@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2026-01-06 07:26:54 (GMT+8)
-# Total entries: 174405
+# Generated on: 2026-01-06 07:49:40 (GMT+8)
+# Total entries: 174407
 
 "0.avmarket.rs",
 "0.myikas.com",
@@ -28396,6 +28396,7 @@
 "catalog.fjwhcbsh.com",
 "catalog.gamepass.com",
 "catalogcake.com",
+"catalysis39.top",
 "catapultx.com",
 "catbaparadisehotel.com.vn",
 "catchbarracksclinic.com",
@@ -129453,6 +129454,7 @@
 "synccora.com",
 "synchrobit.io",
 "synchroparomologyauditable.monster",
+"syncope12.top",
 "syncplusconfig.s3.amazonaws.com",
 "syndenizen.shop",
 "syndetscrcao.cfd",
