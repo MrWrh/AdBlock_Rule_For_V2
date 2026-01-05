@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2026-01-05 15:54:39 (GMT+8)
-# Total entries: 173725
+# Generated on: 2026-01-05 16:41:59 (GMT+8)
+# Total entries: 173735
 
 "0.avmarket.rs",
 "0.myikas.com",
@@ -11913,6 +11913,7 @@
 "ainb01040zh.com",
 "ainb01041zh.com",
 "ainb01050zh.com",
+"ainb01051zh.com",
 "ainb12241zh.com",
 "ainb12250zh.com",
 "ainb12251zh.com",
@@ -60455,6 +60456,7 @@
 "gushi.network",
 "gushmfqkxnxzi.space",
 "gushops-asia.com",
+"gushspicer.cyou",
 "gusion.space",
 "guslin.sy2bkywa1tz.ru",
 "gusoclji.com",
@@ -74841,6 +74843,7 @@
 "lammasbananas.com",
 "lamp-shade.net",
 "lamp.koq0.ru",
+"lampfuldrawerslavish.cyou",
 "lamplitreemish.help",
 "lamplow.com",
 "lamplynx.com",
@@ -80343,6 +80346,7 @@
 "lywfwxeexwcwc.online",
 "lyxfra.shopee.com.my",
 "lyxrmbszx.com",
+"lyxtctypvyltt.com",
 "lyy.mi7x.ru",
 "lyypsy.unisportstore.se",
 "lyyyrqwnlyedjp.xyz",
@@ -105461,6 +105465,7 @@
 "qwlbvlyeqlkob.top",
 "qwlmacbmwmtum.online",
 "qwmloop.top",
+"qwnzzp50x.com",
 "qwoqfbgq.com",
 "qwpcoi.uaf.com.hk",
 "qwpsgqyzrzcr.life",
@@ -108661,6 +108666,7 @@
 "rmdvca.belvilla.de",
 "rmdzwjgvviagl.website",
 "rmeqbinaicgnf.online",
+"rmervvoebooza.top",
 "rmfbrz.icu",
 "rmffg.tadibrothers.com",
 "rmgdapfnccsharpprd.azurewebsites.net",
@@ -131182,6 +131188,7 @@
 "taurmanba.qpon",
 "taurusbr.co",
 "taurusbtcai.com",
+"taustivoaglooy.com",
 "taut-nature.com",
 "tautingtortes.com",
 "tautogsatafter.cyou",
@@ -152182,6 +152189,7 @@
 "wrpsouf.cn",
 "wrqtnouracdei.site",
 "wrqywyffqfpnf.online",
+"wrrbilfpd.com",
 "wrsmnqmpopund.net",
 "wrth.cn",
 "wrtm.walla.co.il",
@@ -152255,6 +152263,7 @@
 "wskqxucwkysrp.online",
 "wsktql.mopar.eu",
 "wslbahe.top",
+"wsldahhiynmiflq.xyz",
 "wslog-global-dual.coolccloud.com",
 "wsmcdn.audioeye.com",
 "wsmetrics.batch.com",
@@ -167530,6 +167539,7 @@
 "xdrelbgbndfnl.site",
 "xdrig.com",
 "xdrlthfhikvgm.club",
+"xdrsifhiuuk.com",
 "xdsp.snadx.com",
 "xdtraffic.com",
 "xdv.qcet8.ru",
