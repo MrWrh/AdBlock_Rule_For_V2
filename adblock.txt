@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-07 06:42:17
+# Generated on: 2026-01-07 07:18:22
 # Generated AdBlock rules
-# Total entries: 174551
+# Total entries: 174559
 
 0.avmarket.rs
 0.myikas.com
@@ -862,6 +862,7 @@
 1hj.sx-2-u-0.ru
 1hkmr7jb0.de
 1hm2.stormm1nd.ru
+1hmklj60i.com
 1hnyz5lxrupbbfbw9u.rest
 1i.lightst0rm.ru
 1i8c0f11.de
@@ -11920,6 +11921,7 @@ ainb01050zh.com
 ainb01051zh.com
 ainb01060zh.com
 ainb01061zh.com
+ainb01070zh.com
 ainb12241zh.com
 ainb12250zh.com
 ainb12251zh.com
@@ -26371,6 +26373,7 @@ bugpizza.com
 bugreport.pt.xiaomi.com
 bugreport.xiaomi.net
 bugs.firebat.prime-video.amazon.dev
+bugs01070ko.com
 bugs2022.com
 bugscrawled.com
 bugshasrub.cyou
@@ -29677,6 +29680,7 @@ cgcg01050ht.com
 cgcg01051ht.com
 cgcg01060ht.com
 cgcg01061ht.com
+cgcg01070ht.com
 cgcjmgmcpddvh.website
 cgctsw.mytour.vn
 cgeptrrkvgfno.website
@@ -101526,6 +101530,7 @@ porojo.net
 porpoise.azettl.net
 porpoise.fruittreecottage.com.au
 porpoise.kristinholl.com
+porqbb.icu
 porrimacorkers.shop
 porsche.nabooda-auto.com
 port.804.tw
@@ -139537,6 +139542,7 @@ trimed.com.au
 trimpur.com
 trimreaddrunken.com
 trimsfeuds.life
+tringrod.com
 trinkumjuneau.help
 trionites.com
 tripaadvisorvip.net
@@ -149303,6 +149309,7 @@ w4ty.3-s0u.ru
 w4vecl1cks.com
 w505cb.cc
 w51.cl0udstone.ru
+w537a7.cc
 w55c.net
 w5bi16f3co.com
 w5en.cdn-6-38.ru
@@ -172150,6 +172157,7 @@ ywjvjschozjzq.online
 ywkkmze.cn
 ywlkcbmjagqkm.site
 ywlkeeedaayuf.space
+ywnrqpd.xyz
 ywojvu.kujten.com
 ywrcqa.10tv.com
 ywrcqa.11alive.com
