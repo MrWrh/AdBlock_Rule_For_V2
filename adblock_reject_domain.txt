@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2026-01-07 06:53:54 (GMT+8)
-# Total entries: 174552
+# Generated on: 2026-01-07 07:27:07 (GMT+8)
+# Total entries: 174561
 
 "0.avmarket.rs",
 "0.myikas.com",
@@ -11921,6 +11921,7 @@
 "ainb01051zh.com",
 "ainb01060zh.com",
 "ainb01061zh.com",
+"ainb01070zh.com",
 "ainb12241zh.com",
 "ainb12250zh.com",
 "ainb12251zh.com",
@@ -26372,6 +26373,7 @@
 "bugreport.pt.xiaomi.com",
 "bugreport.xiaomi.net",
 "bugs.firebat.prime-video.amazon.dev",
+"bugs01070ko.com",
 "bugs2022.com",
 "bugscrawled.com",
 "bugshasrub.cyou",
@@ -29678,6 +29680,7 @@
 "cgcg01051ht.com",
 "cgcg01060ht.com",
 "cgcg01061ht.com",
+"cgcg01070ht.com",
 "cgcjmgmcpddvh.website",
 "cgctsw.mytour.vn",
 "cgeptrrkvgfno.website",
@@ -46984,6 +46987,7 @@
 "electricalsedate.com",
 "electricity2.tokyu-ps.jp",
 "electricruin.pro",
+"electrode28.com",
 "electronic23.com",
 "electronicchipsir.com",
 "electrum-wallets.io",
@@ -96043,6 +96047,7 @@
 "orangutan.renovare.org",
 "orariangenekibounces.cyou",
 "oratorbelievinginvention.com",
+"oratorio77.com",
 "oratxxpdkyrle.space",
 "oraubsoux.net",
 "orb.ju5q.ru",
@@ -101527,6 +101532,7 @@
 "porpoise.azettl.net",
 "porpoise.fruittreecottage.com.au",
 "porpoise.kristinholl.com",
+"porqbb.icu",
 "porrimacorkers.shop",
 "porsche.nabooda-auto.com",
 "port.804.tw",
@@ -139538,6 +139544,7 @@
 "trimpur.com",
 "trimreaddrunken.com",
 "trimsfeuds.life",
+"tringrod.com",
 "trinkumjuneau.help",
 "trionites.com",
 "tripaadvisorvip.net",
@@ -149304,6 +149311,7 @@
 "w4vecl1cks.com",
 "w505cb.cc",
 "w51.cl0udstone.ru",
+"w537a7.cc",
 "w55c.net",
 "w5bi16f3co.com",
 "w5en.cdn-6-38.ru",
@@ -172151,6 +172159,7 @@
 "ywkkmze.cn",
 "ywlkcbmjagqkm.site",
 "ywlkeeedaayuf.space",
+"ywnrqpd.xyz",
 "ywojvu.kujten.com",
 "ywrcqa.10tv.com",
 "ywrcqa.11alive.com",
