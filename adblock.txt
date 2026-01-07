@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-08 06:18:16
+# Generated on: 2026-01-08 06:41:36
 # Generated AdBlock rules
-# Total entries: 174751
+# Total entries: 174752
 
 0.avmarket.rs
 0.myikas.com
@@ -26378,6 +26378,7 @@ bugreport.xiaomi.net
 bugs.firebat.prime-video.amazon.dev
 bugs01070ko.com
 bugs01071ko.com
+bugs01080ko.com
 bugs2022.com
 bugscrawled.com
 bugshasrub.cyou
