@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-07 16:59:47
+# Generated on: 2026-01-07 17:36:13
 # Generated AdBlock rules
-# Total entries: 174636
+# Total entries: 174638
 
 0.avmarket.rs
 0.myikas.com
@@ -11917,6 +11917,7 @@ ainb01051zh.com
 ainb01060zh.com
 ainb01061zh.com
 ainb01070zh.com
+ainb01071zh.com
 ainb12241zh.com
 ainb12250zh.com
 ainb12251zh.com
@@ -29684,6 +29685,7 @@ cgcg01051ht.com
 cgcg01060ht.com
 cgcg01061ht.com
 cgcg01070ht.com
+cgcg01071ht.com
 cgcjmgmcpddvh.website
 cgctsw.mytour.vn
 cgeptrrkvgfno.website
