@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2026-01-07 16:39:20 (GMT+8)
-# Total entries: 174633
+# Generated on: 2026-01-07 17:02:56 (GMT+8)
+# Total entries: 174636
 
 "0.avmarket.rs",
 "0.myikas.com",
@@ -88677,6 +88677,7 @@
 "mr3o.online",
 "mr4y9.lo5ermedi0c.ru",
 "mr5.fogmap.ru",
+"mr6c4eqmh.com",
 "mraffiliate.com",
 "mrarl.kiki.world",
 "mraza2dosa.com",
@@ -120836,6 +120837,7 @@
 "softwaresdaily.com",
 "softwaretech.pro",
 "softxgtm.eboibangla.com",
+"softxz.com",
 "sog.8786.ru",
 "sogeramides.qpon",
 "soggy-committee.pro",
@@ -151462,6 +151464,7 @@
 "whaurgoghi.net",
 "whautchungumtid.net",
 "whawaulreeshoax.net",
+"whazrm9wa.com",
 "whazugho.com",
 "whbjtvsrexgif.store",
 "whclksvlbotno.website",
