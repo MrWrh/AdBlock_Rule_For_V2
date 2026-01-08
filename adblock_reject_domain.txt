@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2026-01-09 07:24:04 (GMT+8)
-# Total entries: 174434
+# Generated on: 2026-01-09 07:49:46 (GMT+8)
+# Total entries: 174436
 
 "0.avmarket.rs",
 "0.myikas.com",
@@ -44088,6 +44088,7 @@
 "dqydzfzvwvaxt.website",
 "dqyyafwgujjsa.online",
 "dqzks.georgiemane.com",
+"dqzuroorrt.com",
 "dqzzyimbtankc.website",
 "dr-reborin.com",
 "dr.fkur-8.ru",
@@ -98874,6 +98875,7 @@
 "peakedslews.cfd",
 "peakilygluten.com",
 "peaktrck.uno",
+"pealefe.com",
 "pear.youzful-by-ca.fr",
 "pearl.q0spi.online",
 "pearldiver.io",
