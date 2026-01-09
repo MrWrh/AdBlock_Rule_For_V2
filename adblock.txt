@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-09 13:23:07
+# Generated on: 2026-01-09 13:53:13
 # Generated AdBlock rules
-# Total entries: 174390
+# Total entries: 174391
 
 0.avmarket.rs
 0.myikas.com
@@ -63623,6 +63623,7 @@ hnbmbgagxwyqd.site
 hncadh.com
 hnchrbjicjcxq.space
 hnd298.com
+hndbuoa.ink
 hndfw.com.cn
 hndhas.com
 hnecr.herbaloasis.com
