@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2026-01-09 13:32:14 (GMT+8)
-# Total entries: 174390
+# Generated on: 2026-01-09 13:54:32 (GMT+8)
+# Total entries: 174391
 
 "0.avmarket.rs",
 "0.myikas.com",
@@ -63623,6 +63623,7 @@
 "hncadh.com",
 "hnchrbjicjcxq.space",
 "hnd298.com",
+"hndbuoa.ink",
 "hndfw.com.cn",
 "hndhas.com",
 "hnecr.herbaloasis.com",
