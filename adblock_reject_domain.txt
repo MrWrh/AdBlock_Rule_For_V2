@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2026-01-09 14:43:18 (GMT+8)
-# Total entries: 174415
+# Generated on: 2026-01-09 15:31:45 (GMT+8)
+# Total entries: 174419
 
 "0.avmarket.rs",
 "0.myikas.com",
@@ -3311,6 +3311,7 @@
 "76e.org",
 "76e3d5200b.com",
 "76ec5a61ac.com",
+"76qrln0bb.com",
 "77.b2ra.ru",
 "77.blyp-9.ru",
 "77.d55u5.ru",
@@ -4229,6 +4230,7 @@
 "9d611c2d8a.com",
 "9d87b35397.com",
 "9dcae0f138.com",
+"9dl3w12u5.com",
 "9dmnv9z0gtoh.com",
 "9dv8.f1auntre6.ru",
 "9e.hb0-e.ru",
@@ -26276,6 +26278,7 @@
 "bugs01071ko.com",
 "bugs01080ko.com",
 "bugs01090ko.com",
+"bugs01091ko.com",
 "bugs2022.com",
 "bugscrawled.com",
 "bugshasrub.cyou",
@@ -32433,6 +32436,7 @@
 "collector.net-logger.com",
 "collector.pi.spectrum.net",
 "collector.plarium.com",
+"collector.pmc.com",
 "collector.prod.expedia.com",
 "collector.reelevant.com",
 "collector.retailcrm.pro",
