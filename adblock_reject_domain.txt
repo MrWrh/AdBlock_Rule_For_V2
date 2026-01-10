@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2026-01-10 14:58:13 (GMT+8)
-# Total entries: 174780
+# Generated on: 2026-01-10 15:27:50 (GMT+8)
+# Total entries: 174783
 
 "0.avmarket.rs",
 "0.myikas.com",
@@ -26313,6 +26313,7 @@
 "bugs01090ko.com",
 "bugs01091ko.com",
 "bugs01100ko.com",
+"bugs01101ko.com",
 "bugs2022.com",
 "bugscrawled.com",
 "bugshasrub.cyou",
@@ -45425,6 +45426,7 @@
 "e2e.mashable.com",
 "e2ertt.com",
 "e2h.s0ftmint.ru",
+"e2icbtrs1g.com",
 "e2jda3h01.com",
 "e2kj.ru7x.online",
 "e2pm97g55mx4b94t2h.cfd",
@@ -73172,6 +73174,7 @@
 "kgbgcuabndbjw.store",
 "kgcapitals.com",
 "kgcqegbyqnrnj.space",
+"kgdp030vm1.com",
 "kgdvs9ov3l2aasw4nuts.com",
 "kgdysfsmiepmp.online",
 "kgeesh.site",
