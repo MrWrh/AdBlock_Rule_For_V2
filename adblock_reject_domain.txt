@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2026-01-11 07:25:14 (GMT+8)
-# Total entries: 174780
+# Generated on: 2026-01-11 07:49:43 (GMT+8)
+# Total entries: 174784
 
 "0.avmarket.rs",
 "0.myikas.com",
@@ -4229,6 +4229,7 @@
 "9j9gc694o4.com",
 "9japride.com",
 "9jee7ypqol6xml6eny2ebqnwt39b.cfd",
+"9jk7puqza.com",
 "9js6.icu",
 "9jw.ju8r.ru",
 "9kh5b.cn",
@@ -14060,6 +14061,7 @@
 "analytics.neoogilvy.uy",
 "analytics.neruzksa.com",
 "analytics.netkeiba.com",
+"analytics.netronline.dev",
 "analytics.newdirectionsaromatics.ca",
 "analytics.newdirectionsaromatics.com",
 "analytics.newscred.com",
@@ -171515,6 +171517,7 @@
 "yjgkufrdloaih.space",
 "yjgpbrpbpfkvr.website",
 "yjgrhzvtvkqen.tech",
+"yjigiv1ic.com",
 "yjjfvcbzbrppe.store",
 "yjkeqx.jobat.be",
 "yjlbvd.pcfactory.cl",
@@ -173451,6 +173454,7 @@
 "zgodf.peluva.com",
 "zgpon.heydude.uk",
 "zgqgig.skillbox.ru",
+"zgqsc3shr.com",
 "zgrakgyhvqyzv.online",
 "zgsdk.zhugeio.com",
 "zgsgfljdjjpyc.store",
