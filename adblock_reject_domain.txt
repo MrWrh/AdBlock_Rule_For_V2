@@ -4,7 +4,7 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2026-01-10 13:00:02 (GMT+8)
+# Generated on: 2026-01-10 13:32:50 (GMT+8)
 # Total entries: 174754
 
 "0.avmarket.rs",
