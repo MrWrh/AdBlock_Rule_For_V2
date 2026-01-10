@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-10 19:30:36
+# Generated on: 2026-01-10 19:45:57
 # Generated AdBlock rules
-# Total entries: 174828
+# Total entries: 174829
 
 0.avmarket.rs
 0.myikas.com
@@ -33873,6 +33873,7 @@ cp.ajo.tapcxm.com
 cp.cp.twendee.jp
 cp.edl.co.kr
 cp.eoncreativity.com
+cp.filext.com
 cp.ir-central.irco.com
 cp.jfcdns.com
 cp.official-coupons.com
