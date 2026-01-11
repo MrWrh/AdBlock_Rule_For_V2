@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-12 06:17:15
+# Generated on: 2026-01-12 06:39:11
 # Generated AdBlock rules
-# Total entries: 174715
+# Total entries: 174719
 
 0.avmarket.rs
 0.myikas.com
@@ -3457,6 +3457,7 @@
 7mqyam5a.h0wevpro5eca.ru
 7mx.eider.com
 7mx.eidershop.com
+7mx63ygcti.com
 7mxn77h4vr.com
 7n.luc7y5nub.ru
 7nb.dae017f.ru
@@ -26254,6 +26255,7 @@ bugs01100ko.com
 bugs01101ko.com
 bugs01110ko.com
 bugs01111ko.com
+bugs01120ko.com
 bugs2022.com
 bugscrawled.com
 bugshasrub.cyou
@@ -151536,6 +151538,7 @@ wh.revolutrvi.vip
 wh.revolutrvp.vip
 wh.revolutrvpp.vip
 wh1495840.ispot.cc
+wh2mu9uj5f.com
 wh3elz.cl0ckw0rk.ru
 wh7.r2zin5pir.ru
 whabhksilcnct.website
@@ -169820,6 +169823,7 @@ xolfzsxmgswqt.site
 xoliter.com
 xomawzdjrbvlf.online
 xomipvdmpzbik.online
+xommzrn.com
 xoneipapk.top
 xoneipark.top
 xoneipmac.top
