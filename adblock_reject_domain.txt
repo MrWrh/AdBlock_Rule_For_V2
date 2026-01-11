@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2026-01-12 06:51:36 (GMT+8)
-# Total entries: 174719
+# Generated on: 2026-01-12 07:25:25 (GMT+8)
+# Total entries: 174722
 
 "0.avmarket.rs",
 "0.myikas.com",
@@ -104743,6 +104743,7 @@
 "qgpmmlqbqzddw.online",
 "qgpsrnpchevrc.site",
 "qgpsz.armedforcesgear.com",
+"qgreedreau.com",
 "qgrkbfewsasid.site",
 "qgsaohnxbkpez.site",
 "qgthiomylmdvo.online",
@@ -120721,6 +120722,7 @@
 "snljxd.tdarsenal.ru",
 "snlpt.carnivoresnax.com",
 "snltte.promod.fr",
+"snlyplsoli.com",
 "snmzj.blade-city.com",
 "sno1.snowrental.com",
 "snoje.tierliebhaber.de",
@@ -147437,6 +147439,7 @@
 "violet-attitude.pro",
 "violetop33.top",
 "violetsdentals.qpon",
+"violoncello21.top",
 "vionito.com",
 "vioturallis.com",
 "vip-api.xmpush.global.xiaomi.com",
