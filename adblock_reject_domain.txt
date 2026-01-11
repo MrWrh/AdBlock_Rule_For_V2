@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2026-01-11 15:00:39 (GMT+8)
-# Total entries: 174742
+# Generated on: 2026-01-11 15:37:10 (GMT+8)
+# Total entries: 174743
 
 "0.avmarket.rs",
 "0.myikas.com",
@@ -3241,6 +3241,7 @@
 "7649s7szsu.com",
 "7652190.o303024.ru",
 "765889.com",
+"765f76kcx.com",
 "76679c5fef.com",
 "766935bca8.com",
 "766lnwfo7h.com",
