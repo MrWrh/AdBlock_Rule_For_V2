@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2026-01-13 07:22:33 (GMT+8)
-# Total entries: 174346
+# Generated on: 2026-01-13 07:49:15 (GMT+8)
+# Total entries: 174349
 
 "0.avmarket.rs",
 "0.myikas.com",
@@ -1404,6 +1404,7 @@
 "2jod3cl3j.de",
 "2jse6.icu",
 "2jt6zqu755kqv2k.cfd",
+"2juyabihe.com",
 "2k19.nl",
 "2k5cig21hktgjubee.cfd",
 "2k6eh90gs.de",
@@ -2180,6 +2181,7 @@
 "4f8a.wolkenmeer.ru",
 "4f9566374d.com",
 "4f9fbf3477.com",
+"4fd0jlybx.com",
 "4fe8df68a7.7d4f662bdd.com",
 "4fee6d013f.com",
 "4fptsi5zxo.com",
@@ -35464,6 +35466,7 @@
 "cxa.acceptll.shop",
 "cxa.acceptls.online",
 "cxa.acceptls.xyz",
+"cxafybp.com",
 "cxajgzjwemsjd.website",
 "cxalid.turtlebeach.com",
 "cxamupwxndqat.online",
