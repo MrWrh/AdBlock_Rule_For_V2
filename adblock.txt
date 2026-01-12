@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-12 15:03:31
+# Generated on: 2026-01-12 15:42:41
 # Generated AdBlock rules
-# Total entries: 174317
+# Total entries: 174323
 
 0.avmarket.rs
 0.myikas.com
@@ -26198,6 +26198,7 @@ bugs01101ko.com
 bugs01110ko.com
 bugs01111ko.com
 bugs01120ko.com
+bugs01121ko.com
 bugs2022.com
 bugscrawled.com
 bugshasrub.cyou
@@ -37224,6 +37225,7 @@ d8iw.saffrondent.ru
 d8k3a.j0-e-t.ru
 d8kbeizm.bun8topch2n.ru
 d8lzzy93g.com
+d8oh0sebl8.com
 d8sllv1cwflbw.cloudfront.net
 d8xy39jrbjbcq.cloudfront.net
 d9.4a7vci9.ru
@@ -69737,6 +69739,7 @@ izwhgqdebwqmq.site
 izwypazcocjxj.store
 izzatgleba.cyou
 izzdenxdxrbdc.space
+izzodzmuu.com
 izzpiauileavu.space
 izzyaa.week9.kr
 izzzpesohjh.com
@@ -94334,6 +94337,7 @@ ofinmuqmydevc.space
 ofja.cn
 ofjujdmsylvmo.website
 ofjxfukjzgnqo.space
+ofkccsp35i.com
 ofkcearzvssxw.website
 ofkdoq.teetee.eu
 ofklefkian.com
@@ -105786,6 +105790,7 @@ qwtcmhgblnfeu.site
 qwtcmmvrjwujs.net
 qwti.cn
 qwubjdcxzwwpw.site
+qwuylnl.com
 qwvqbeqorrobv.top
 qwvqbeqorrqvv.top
 qwvvoallykvj.top
@@ -168244,6 +168249,7 @@ xfvrkhjmanrnr.online
 xfvslsqqtyeeb.store
 xfwblpomxc.com
 xfxlth.sister-ann.jp
+xfxtqjg.com
 xfxvpt.icu
 xfyw7nl1x59f49.cfd
 xfyxtg.buyautoparts.com
