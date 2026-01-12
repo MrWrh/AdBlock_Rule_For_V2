@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2026-01-12 15:33:43 (GMT+8)
-# Total entries: 174321
+# Generated on: 2026-01-12 15:53:21 (GMT+8)
+# Total entries: 174325
 
 "0.avmarket.rs",
 "0.myikas.com",
@@ -58916,6 +58916,7 @@
 "gtag.ferretticasa.it",
 "gtags.net",
 "gtamdkkudzvyo.online",
+"gtaqnnk.com",
 "gtbbgjo.art",
 "gtbdhr.com",
 "gtbnevveyco.xyz",
@@ -105790,6 +105791,7 @@
 "qwtcmmvrjwujs.net",
 "qwti.cn",
 "qwubjdcxzwwpw.site",
+"qwuylnl.com",
 "qwvqbeqorrobv.top",
 "qwvqbeqorrqvv.top",
 "qwvvoallykvj.top",
@@ -149753,6 +149755,7 @@
 "wazirx-defi.app",
 "wazirx-defi.club",
 "wazirx-defi.pro",
+"wazqifq.com",
 "wazveqv.xyz",
 "wazzeyveklbj.top",
 "wb-analytics.onecruiter.com",
@@ -168248,6 +168251,7 @@
 "xfvslsqqtyeeb.store",
 "xfwblpomxc.com",
 "xfxlth.sister-ann.jp",
+"xfxtqjg.com",
 "xfxvpt.icu",
 "xfyw7nl1x59f49.cfd",
 "xfyxtg.buyautoparts.com",
