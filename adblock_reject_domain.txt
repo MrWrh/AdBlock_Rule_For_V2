@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2026-01-13 14:43:16 (GMT+8)
-# Total entries: 174358
+# Generated on: 2026-01-13 15:30:49 (GMT+8)
+# Total entries: 174360
 
 "0.avmarket.rs",
 "0.myikas.com",
@@ -10081,6 +10081,7 @@
 "adultsjuniorfling.com",
 "adulttraffic.ru",
 "adunblock.static-cloudflare.workers.dev",
+"adunblock1.static-cloudflare.workers.dev",
 "adunity.com",
 "aduniv.nesin.com",
 "adup-tech.com",
@@ -26184,6 +26185,7 @@
 "bugs01120ko.com",
 "bugs01121ko.com",
 "bugs01130ko.com",
+"bugs01131ko.com",
 "bugs2022.com",
 "bugscrawled.com",
 "bugshasrub.cyou",
