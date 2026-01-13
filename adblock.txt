@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-13 17:00:01
+# Generated on: 2026-01-13 17:36:53
 # Generated AdBlock rules
-# Total entries: 174375
+# Total entries: 174376
 
 0.avmarket.rs
 0.myikas.com
@@ -62128,6 +62128,7 @@ hbbtv-track.prosiebensat1puls4.com
 hbbtv-track.redbutton.de
 hbbtv01p.anixe.net
 hbbtvapp.sonnenklar.tv
+hbcjdwm.com
 hbcnbdoayeycb.site
 hbcusdwpikskh.online
 hbdruktekf.com
