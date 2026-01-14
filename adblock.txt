@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-15 07:31:33
+# Generated on: 2026-01-15 07:47:02
 # Generated AdBlock rules
-# Total entries: 174675
+# Total entries: 174680
 
 0.avmarket.rs
 0.myikas.com
@@ -1947,6 +1947,7 @@
 3x5h6x434.com
 3x7.p7ecunder8.ru
 3x8zapzon.com
+3xeo00tqz.com
 3xk.k5gc56.ru
 3xmax001.com
 3yb.brightc0re.ru
@@ -26222,6 +26223,7 @@ bugs01130ko.com
 bugs01131ko.com
 bugs01140ko.com
 bugs01141ko.com
+bugs01150ko.com
 bugs2022.com
 bugscrawled.com
 bugshasrub.cyou
@@ -40521,6 +40523,7 @@ dbqst.hercasematters.com
 dbqydfhgvpekv.space
 dbqyjjgeseptz.space
 dbr9gtaf8.com
+dbraulmat.com
 dbraxb.icu
 dbrpevozgux5y.cloudfront.net
 dbrzpwjbmvcok.website
@@ -70600,6 +70603,7 @@ jgoodedtayhfm.site
 jgovdupigzozf.online
 jgp.gilm.it.com
 jgpfqtvmeehof.space
+jgpo1zqhj.com
 jgqquaeevmhed.online
 jgr.legendebikes.com
 jgsajfggv.xyz
@@ -142646,6 +142650,7 @@ uffyltfpfi.com
 ufgg55.xyz
 ufgl.cn
 ufgsz.kiki.world
+ufihgd3ck.com
 ufile.cc
 ufjwqdmqzlquq.world
 ufkiz.jenny-bird.com
