@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-14 19:51:49
+# Generated on: 2026-01-14 20:39:53
 # Generated AdBlock rules
-# Total entries: 174618
+# Total entries: 174620
 
 0.avmarket.rs
 0.myikas.com
@@ -46704,6 +46704,7 @@ ehu.bramblestrom.ru
 ehualvxvqojbj.space
 ehuawabranded.help
 ehub.cz
+ehuebzqftijhm.site
 ehuhefrrpqjgp.website
 ehungroundt.org
 ehutzaug.life
@@ -87869,6 +87870,7 @@ mole.getfamealy.com
 mole.gostartupco.com
 molebjeivsqwq.online
 moleconcern.com
+molecularrather.com
 molesthyrst.cyou
 moleya.click
 molikrebaumt.xyz
