@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-15 22:34:32
+# Generated on: 2026-01-15 22:56:17
 # Generated AdBlock rules
-# Total entries: 174837
+# Total entries: 174857
 
 0.avmarket.rs
 0.myikas.com
@@ -53921,13 +53921,33 @@ frontcrash.pro
 frontend-logger.flippback.com
 frontend-perf-service.e.kuaishou.com
 fronthlpr.com
+frontier-i18n.tiktokv.com
+frontier-my2.tiktokv.com
+frontier-ru.tiktokv.com
+frontier-ru.tiktokv.com.edgekey.net
+frontier-ttp2.tiktokv.us
+frontier-ttp2.tiktokv.us.edgesuite.net
+frontier-va.tiktokv.com
 frontier.byteoversea.com
 frontier.capcutw.us
 frontier.capcutw.us.edgesuite.net
 frontier.musical.ly
+frontier.tiktokv-eu.com
+frontier.tiktokv-eu.com.edgesuite.net
+frontier.tiktokv-eu.com.ttdns3.com
 frontier.tiktokv.com
 frontier.tiktokv.us
+frontier.tiktokv.us.edgesuite.net
+frontier100-normal-alisg.tiktokv.com
+frontier100-normal-useast1a.tiktokv.com
 frontier100-toutiao-lf.fqnovel.com
+frontier16-normal-no1a.tiktokv.eu
+frontier16-normal-no1a.tiktokv.eu.edgesuite.net
+frontier16-normal-useastred.tiktokv.eu
+frontier16-normal-useastred.tiktokv.eu.edgesuite.net
+frontier23-normal-alisg.tiktokv.com
+frontier23-normal-alisg.tiktokv.com.bpgslb.com
+frontier23-normal-useast1a.tiktokv.com
 frontierconsul02.tsunagaru-office.com
 frontinventory.com
 fronttoad.com
