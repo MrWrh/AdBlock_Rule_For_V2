@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-16 06:42:39
+# Generated on: 2026-01-16 07:18:40
 # Generated AdBlock rules
-# Total entries: 174945
+# Total entries: 174953
 
 0.avmarket.rs
 0.myikas.com
@@ -3846,6 +3846,7 @@
 8w.d5en.ru
 8w.frostlake.ru
 8w.skyb1end.ru
+8w6hovz0d2.com
 8whb.de1iainal0s.ru
 8wozkl2r32jb.mitarbeiter-schmiede.de
 8wp1.deepbreez3.ru
@@ -26253,6 +26254,7 @@ bugs01140ko.com
 bugs01141ko.com
 bugs01150ko.com
 bugs01151ko.com
+bugs01160ko.com
 bugs2022.com
 bugscrawled.com
 bugshasrub.cyou
@@ -26926,6 +26928,7 @@ bzlmtuniv.com
 bzlnqhuqbwirt.store
 bzlold.machi.to
 bzlso.dosaze.com
+bzmbrsm.com
 bzmde.maurices.com
 bznbiv.tejidoslav.com
 bznmxglwxlgww.website
@@ -79706,6 +79709,7 @@ lokngd.com
 loktrk.com
 lol.globlax.com
 lolco.net
+loleteal.com
 lolhk.shopfurme.com
 lolhy.a6il1oyal.ru
 loli.sukaporn.com
@@ -88367,6 +88371,7 @@ monnly.com
 monocotirisate.shop
 monodonng.cfd
 monopolicycre.org
+monopoly36.top
 monopolys.cc
 monopolys365.shop
 monopolysy666.shop
@@ -89109,6 +89114,8 @@ mss.radiatorkopen.nl
 mssdhde.cn
 mssdk-boot.capcutapi.com
 mssdk-boot.cpacutapi.com
+mssdk-boot.tiktokv.com
+mssdk-boot.tiktokv.com.edgekey.net
 mssdk-bu.bytedance.com
 mssdk-bu.snssdk.com
 mssdk-i18n.tiktok.com
@@ -90989,6 +90996,7 @@ nawljtngvxrgc.space
 nawpush.com
 nawpyd.icu
 naxqer.sy2bkywa1tz.ru
+naxqhla.com
 naxul7.bed0kur5noop.ru
 nay.k8li.ru
 naytev.com
