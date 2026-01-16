@@ -3,7 +3,7 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-17 02:59:06
+# Generated on: 2026-01-17 03:45:06
 # Generated AdBlock rules
 # Total entries: 175122
 
@@ -40621,6 +40621,7 @@ dc.dellmed.utexas.edu
 dc.di.atlas.samsung.com
 dc.dqa.samsung.com
 dc.esterethyl.com
+dc.heytapmobile.com
 dc.jared.com
 dc.kay.com
 dc.kayoutlet.com
@@ -94395,7 +94396,6 @@ obus-jssdk-fr.heytapmobile.com
 obus-jssdk-in.heytapmobile.com
 obus-jssdk-sg.heytapmobile.com
 obus-jssdk-us.heytapmobile.com
-obus-sg.dc.heytapmobile.com
 obutl.4patriots.com
 obvdcylwtpaaa.tech
 obviousestate.com
