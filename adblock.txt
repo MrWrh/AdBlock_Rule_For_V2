@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-18 22:47:52
+# Generated on: 2026-01-18 23:17:16
 # Generated AdBlock rules
-# Total entries: 175623
+# Total entries: 175624
 
 0.avmarket.rs
 0.myikas.com
@@ -72990,6 +72990,7 @@ kascb.jamsworld.com
 kasdwergv.com
 kasfas.com
 kasgge.icu
+kasgnh7xwl.com
 kashop.asia
 kashopping.xyz
 kasifbaikqhyq.online
