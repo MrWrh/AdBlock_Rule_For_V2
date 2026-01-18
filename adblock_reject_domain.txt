@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2026-01-19 06:26:04 (GMT+8)
-# Total entries: 175705
+# Generated on: 2026-01-19 07:25:50 (GMT+8)
+# Total entries: 175709
 
 "0.avmarket.rs",
 "0.myikas.com",
@@ -26296,6 +26296,7 @@
 "bugs01171ko.com",
 "bugs01180ko.com",
 "bugs01181ko.com",
+"bugs01190ko.com",
 "bugs2022.com",
 "bugscrawled.com",
 "bugshasrub.cyou",
@@ -85442,6 +85443,7 @@
 "meadowlullaby.com",
 "meager-conclusion.com",
 "mealdisparitydrip.com",
+"meander32.com",
 "meandermajagua.cyou",
 "meaninglessoccasionalrevision.com",
 "meaninglesstoil.com",
@@ -173411,6 +173413,7 @@
 "yxzl.tw",
 "yy123q.cc",
 "yy17173.dtime.com",
+"yy1veaxhf.com",
 "yy4480qpgyy.com",
 "yy62g3e1.fa1ditmim2ns.ru",
 "yy9s51b2u05z.com",
@@ -174805,6 +174808,7 @@
 "zlmapa.nestenn.com",
 "zlmtfk.voordeelgordijnen.nl",
 "zlmzvqoishrcb.store",
+"zlnitethia.com",
 "zlnmzc.top",
 "zlnzioxqvzfxp.store",
 "zloes.carttek.com",
