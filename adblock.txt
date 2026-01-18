@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-19 06:51:38
+# Generated on: 2026-01-19 07:17:12
 # Generated AdBlock rules
-# Total entries: 175707
+# Total entries: 175709
 
 0.avmarket.rs
 0.myikas.com
@@ -85443,6 +85443,7 @@ meadowlark.psynapse.no
 meadowlullaby.com
 meager-conclusion.com
 mealdisparitydrip.com
+meander32.com
 meandermajagua.cyou
 meaninglessoccasionalrevision.com
 meaninglesstoil.com
@@ -174807,6 +174808,7 @@ zlm2.ecetech.fr
 zlmapa.nestenn.com
 zlmtfk.voordeelgordijnen.nl
 zlmzvqoishrcb.store
+zlnitethia.com
 zlnmzc.top
 zlnzioxqvzfxp.store
 zloes.carttek.com
