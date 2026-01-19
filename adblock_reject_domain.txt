@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2026-01-19 18:59:34 (GMT+8)
-# Total entries: 175806
+# Generated on: 2026-01-19 19:31:58 (GMT+8)
+# Total entries: 175807
 
 "0.avmarket.rs",
 "0.myikas.com",
@@ -102998,6 +102998,7 @@
 "prettytask-my.com",
 "prettytube.net",
 "prettytwshop-my.com",
+"preuquqre.com",
 "prevailharewandering.com",
 "prevalentalludedtore.com",
 "prevalentclogoversight.com",
