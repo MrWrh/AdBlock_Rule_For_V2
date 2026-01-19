@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-19 15:05:24
+# Generated on: 2026-01-19 15:45:23
 # Generated AdBlock rules
-# Total entries: 175747
+# Total entries: 175750
 
 0.avmarket.rs
 0.myikas.com
@@ -26280,6 +26280,7 @@ bugs01171ko.com
 bugs01180ko.com
 bugs01181ko.com
 bugs01190ko.com
+bugs01191ko.com
 bugs2022.com
 bugscrawled.com
 bugshasrub.cyou
@@ -92299,6 +92300,7 @@ nfgqwt.com
 nfiosxscjkkyq.space
 nfitekfooeigt.website
 nfkk668.com
+nfksjkfs.com
 nfl9j.com
 nfliiqxnaadkx.online
 nflks.cn
@@ -111444,6 +111446,7 @@ rubestdealfinder.com
 rubicon.wellsfargo.com
 rubird.ru
 rubmdu.top
+rubrafoz.com
 ruby.rubyraum.ru
 rubyblu.com
 rubylaneshop.com
