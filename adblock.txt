@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-19 18:57:39
+# Generated on: 2026-01-19 19:23:42
 # Generated AdBlock rules
-# Total entries: 175806
+# Total entries: 175807
 
 0.avmarket.rs
 0.myikas.com
@@ -102998,6 +102998,7 @@ prettysolution.pro
 prettytask-my.com
 prettytube.net
 prettytwshop-my.com
+preuquqre.com
 prevailharewandering.com
 prevalentalludedtore.com
 prevalentclogoversight.com
