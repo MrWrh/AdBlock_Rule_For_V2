@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-21 06:41:17
+# Generated on: 2026-01-21 07:19:32
 # Generated AdBlock rules
-# Total entries: 188292
+# Total entries: 188295
 
 0.avmarket.rs
 0.myikas.com
@@ -26616,6 +26616,7 @@ bugs01190ko.com
 bugs01191ko.com
 bugs01200ko.com
 bugs01201ko.com
+bugs01210ko.com
 bugs2022.com
 bugscrawled.com
 bugshasrub.cyou
@@ -76881,6 +76882,7 @@ kagjin.bottegaverde.it
 kagnaimsoa.net
 kagocvncavfqi.store
 kagonst.com
+kagxyvk.com
 kahdz.carechanges.com
 kahgjjd.com
 kahptdpevbuzx.com
@@ -150402,6 +150404,7 @@ track.gawker.com
 track.generationgenius.com
 track.gesundheits-welt.net
 track.get-quoteshealth.com
+track.getgobot.com
 track.giftchance.online
 track.gifts-australia.com.au
 track.globkurier.pl
