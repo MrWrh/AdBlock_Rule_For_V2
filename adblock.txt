@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-20 12:33:20
+# Generated on: 2026-01-20 13:04:58
 # Generated AdBlock rules
-# Total entries: 188192
+# Total entries: 188195
 
 0.avmarket.rs
 0.myikas.com
@@ -59433,6 +59433,7 @@ gjxoqgdozssvh.website
 gjxqkypxmgevy.website
 gjyc.gwysn.social
 gjzcybsptqeky.site
+gjzpwnuifk.com
 gk.quartz-leaf.ru
 gk0.bl1zpond.ru
 gk1.582582.com
@@ -61715,6 +61716,7 @@ gsjzlgynhqgyr.website
 gsjzlssws.com
 gsjznb.damondmotorsports.com
 gsk801200hh.com
+gsk801201hh.com
 gskvvpbhyhwitjg.com
 gslb.hpplay.cn
 gslbvg.cc
@@ -86202,6 +86204,7 @@ lp.to-lipton.com
 lp.wholetomato.com
 lp247p.com
 lp3.dentsplysirona.com
+lp340p7czf.com
 lp4.io
 lpalartra.com
 lparket.com
