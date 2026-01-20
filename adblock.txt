@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-21 00:31:33
+# Generated on: 2026-01-21 01:03:04
 # Generated AdBlock rules
-# Total entries: 188229
+# Total entries: 188232
 
 0.avmarket.rs
 0.myikas.com
@@ -109084,6 +109084,7 @@ possibilities.theajinetwork.com
 possibilityfoundationwallpaper.com
 possibleboats.com
 possiblefinish.pro
+possiblehighlight.pro
 possiblepencil.com
 posst.co
 post-chunghwa-tw.app
@@ -120778,6 +120779,7 @@ scaredsong.com
 scaredstomach.com
 scarefowl.com
 scareshortnovel.com
+scarfebual.cyou
 scarfsmash.com
 scaridcheths.cfd
 scarierbairnie.cyou
@@ -164669,6 +164671,7 @@ weshinestock.com
 weshinestocks.com
 weshinetw.com
 wesicuros.com
+weskitsdelator.com
 weskitstoiler.help
 west.bidtellect.com
 westcapitalbank.com
