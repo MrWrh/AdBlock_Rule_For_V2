@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-20 18:58:39
+# Generated on: 2026-01-20 19:27:41
 # Generated AdBlock rules
-# Total entries: 188265
+# Total entries: 188266
 
 0.avmarket.rs
 0.myikas.com
@@ -2602,6 +2602,7 @@
 5rn.b1tzdrop.ru
 5rq9.t1nystar.ru
 5s1.silentf0rest.ru
+5sghirlr5b.com
 5ssibaciyq.tabletrepairnj.com
 5t1jqutv8lj8364uoe11ki1uh.cfd
 5tar.0zvel.online
