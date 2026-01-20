@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-21 07:40:27
+# Generated on: 2026-01-21 07:53:33
 # Generated AdBlock rules
-# Total entries: 188295
+# Total entries: 188299
 
 0.avmarket.rs
 0.myikas.com
@@ -37904,6 +37904,7 @@ d3apzcqz3ghyay.cloudfront.net
 d3asksgk2foh5m.cloudfront.net
 d3b2hhehkqd158.cloudfront.net
 d3b4u8mwtkp9dd.cloudfront.net
+d3banl4fzuxsjl.cloudfront.net
 d3bbyfw7v2aifi.cloudfront.net
 d3beefy8kd1pr7.cloudfront.net
 d3bfricg2zhkdf.cloudfront.net
@@ -37980,6 +37981,7 @@ d3ikgzh4osba2b.cloudfront.net
 d3imksvhtbujlm.cloudfront.net
 d3in1te4fdays6.cloudfront.net
 d3iouejux1os58.cloudfront.net
+d3ip4t8fp90x81.cloudfront.net
 d3ithbwcmjcxl7.cloudfront.net
 d3iz6lralvg77g.cloudfront.net
 d3j1weegxvu8ns.cloudfront.net
@@ -38275,6 +38277,7 @@ d9.8b-1d.ru
 d90z5o386dhs7.cloudfront.net
 d91i6bsb0ef59.cloudfront.net
 d949b51857.com
+d94qwxh6czci4.cloudfront.net
 d95bda138b.com
 d96baca705.money-es.cfd
 d97d3231b2.com
@@ -44958,6 +44961,7 @@ dlsite123.online
 dlssuizl.art
 dlswbr.baidu.com
 dlta.m68901.vip
+dlthst9q2beh8.cloudfront.net
 dltqxz76sim1s.cloudfront.net
 dltvkwr7nbdlj.cloudfront.net
 dltvynzqambdl.space
