@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-21 18:59:11
+# Generated on: 2026-01-21 19:30:11
 # Generated AdBlock rules
-# Total entries: 188322
+# Total entries: 188323
 
 0.avmarket.rs
 0.myikas.com
@@ -49188,6 +49188,7 @@ ellipticaltrack.com
 ellison.st
 elm.dor8y.online
 elmasistatistik.com.tr
+elmerpmsd.com
 elnbz.qualitylogic.com
 elodeaunungun.rest
 elodespeaches.shop
