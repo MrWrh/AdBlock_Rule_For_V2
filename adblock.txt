@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-22 07:25:21
+# Generated on: 2026-01-22 07:53:07
 # Generated AdBlock rules
-# Total entries: 188352
+# Total entries: 188356
 
 0.avmarket.rs
 0.myikas.com
@@ -26619,6 +26619,7 @@ bugs01200ko.com
 bugs01201ko.com
 bugs01210ko.com
 bugs01211ko.com
+bugs01220ko.com
 bugs2022.com
 bugscrawled.com
 bugshasrub.cyou
@@ -28871,6 +28872,7 @@ catalog.gamepass.com
 catalogcake.com
 catalysis39.top
 catapultx.com
+cataract40.com
 catbaparadisehotel.com.vn
 catchbarracksclinic.com
 catchupfasc.cfd
@@ -66767,6 +66769,7 @@ hentaionline.net
 hentent.stre4mplay.one
 henwilkson.com
 henzxztnnwmhp.website
+heoddikvdm.com
 heotherwallow.org
 hepatictrines.rest
 hepm1r.f1ysynchr0n.ru
@@ -113415,6 +113418,7 @@ qunldyjqwdpte.online
 quocdanhbank.online
 quocthang.me
 quoidunxvurbt.site
+quoits96.top
 quoitsarchery.cyou
 quokka.bulkbuyhosting.com
 quokka.curbnumberpro.com
