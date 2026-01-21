@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-21 17:01:26
+# Generated on: 2026-01-21 17:48:52
 # Generated AdBlock rules
-# Total entries: 188294
+# Total entries: 188296
 
 0.avmarket.rs
 0.myikas.com
@@ -61750,6 +61750,7 @@ gsjzlssws.com
 gsjznb.damondmotorsports.com
 gsk801200hh.com
 gsk801201hh.com
+gsk801211hh.com
 gskvvpbhyhwitjg.com
 gslb.hpplay.cn
 gslbvg.cc
@@ -162788,6 +162789,7 @@ w56953.cc
 w56ff7.cc
 w58547.cc
 w58ce6.cc
+w592be.cc
 w5ba5b.cc
 w5bi16f3co.com
 w5c6d9.cc
