@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-21 19:51:21
+# Generated on: 2026-01-21 20:42:44
 # Generated AdBlock rules
-# Total entries: 188323
+# Total entries: 188354
 
 0.avmarket.rs
 0.myikas.com
@@ -15283,6 +15283,7 @@ api-analytics.rozetka.com.ua
 api-analytics.samsungknox.com
 api-cn.cdo.heytapmobi.com
 api-fp-retry-bj.fengkongcloud.com
+api-fp-retry-sa.fengkongcloud.com
 api-gd.hiaiabc.com
 api-gl.cdo.heytapmobi.com
 api-gl.cdo.heytapmobile.com
@@ -22575,6 +22576,7 @@ beegrenugoz.com
 beegruwhoazoa.net
 beehivesmokeremotionally.com
 beeishlucban.shop
+beekitegaleas.qpon
 beekwhipcat.cyou
 beeline.beeline-tire.co.jp
 beelinehindu.com
@@ -31803,6 +31805,7 @@ client-logger.beta.salemove.com
 client-logger.salemove.com
 client-metrics.chess.com
 client-sdk.hackle.io
+client-telemetry-preauth.hingeprod.net
 client-telemetry.hingeprod.net
 client-telemetry.roblox.com
 client.botchk.net
@@ -40789,6 +40792,7 @@ data-nl.elektroniknet.de
 data-nl.medical-design.news
 data-nl.tageskarte.io
 data-optout-service.uca.cloud.unity3d.com
+data-p.gryphline.com
 data-px.services
 data-sdk-uuid-log.d.meituan.net
 data-ssl.catererglobal.com
@@ -51350,6 +51354,8 @@ event-collector.prd.data.s.joyn.de
 event-dot-learning-piano.appspot.com
 event-dot-procolor-backend.appspot.com
 event-listener.air.tv
+event-log-api-data-platform-data-lake-prod.gryphline.com
+event-log-api-ipv6.gryphline.com
 event-logger.tagboard.com
 event-portal.dailyinnovation.biz
 event-reporting-dot-webylytics.appspot.com
@@ -51433,6 +51439,7 @@ eventlienquanmobile.com
 eventlienquanvn.com
 eventlog-aws.jftechws.com
 eventlog.chatlead.com
+eventlog.gryphline.com
 eventlog.inspsearchapi.com
 eventlog.jackpot.de
 eventlogger.soundcloud.com
@@ -54376,6 +54383,7 @@ fincashastler.qpon
 finch.koronasporing.no
 finch.market.xyz
 finchoiluntainted.com
+find-girls-now.com
 find-ip-address.org
 find.tjmartbd.com
 findandate.com
@@ -55886,6 +55894,7 @@ foyooiexomuku.site
 fozmep.gyneco1st0p.ru
 fp-cdn.azureedge.net
 fp-it.fengkongcloud.com
+fp-sa-it.fengkongcloud.com
 fp.55-0p.ru
 fp.buildwithrise.ca
 fp.buildwithrise.com
@@ -56124,6 +56133,7 @@ fractionsadly.com
 fracture.disfi8tit2n.ru
 fracturebroadcastsaw.com
 fraenahetmans.qpon
+frafrakxtbufz.space
 fragment.club
 fragment.link
 fragmentnft.xyz
@@ -58460,6 +58470,7 @@ gelofresquatty.shop
 gelongyabble.rest
 gelsauceepteerg.net
 geltoopsoatch.net
+gelxxnnzspuwf.site
 gelz.rainsh1eld.ru
 gem-log.sloegem.com
 gem.dor8y.online
@@ -59377,6 +59388,7 @@ giswygovfhdym.online
 git.jnjcxx.com
 git.parscoders.com
 git55share.autos
+gitads.dev
 gitajwl.com
 gitam.1host.co.il
 gitam.co.il
@@ -61536,6 +61548,7 @@ groovinews.com
 groovy-manul.pikapod.net
 groovyornament.com
 groptoxegri.com
+grorabsaipta.net
 grordoonithoup.net
 grortalt.xyz
 groshirdossa.net
@@ -67865,6 +67878,7 @@ hnlczgjx.com
 hnlphr.cn
 hnltcw.com
 hnmrw.net
+hnmsiygnvkygr.online
 hnmvlmfwusoyt.site
 hnnqbxhvpbgvf.site
 hnnuaa.willhaben.at
@@ -68939,6 +68953,7 @@ htvixv.xyz
 htvvykwprvnhn.site
 htvwdruzmaqlb.site
 htweaoaohgncq.site
+htwlyozzlfdez.site
 htwyrncutjxzf.online
 htx22.tt23.life.cdn.cloudflare.net
 htxpro.tz14.pics
@@ -76185,6 +76200,7 @@ jtqqzvqrd.net
 jtracking-gate.lulusoft.com
 jtracking.lulusoft.com
 jtren.site
+jtrmkaiggvcjg.website
 jtryhr.motherhoodcanada.ca
 jtsqetqkdcwbq.online
 jtsvpccly.com
@@ -80576,6 +80592,7 @@ legacyportal.nettvservices.com
 legacywatson.trafficmanager.net
 legal-tennis.pro
 legalfocus.pro
+legalizeshort.com
 legallydune.com
 legandruk.com
 legate.a7mpr0tori.ru
@@ -90627,6 +90644,7 @@ maws-aax-us-east-rtb-adx.amazon-adsystem.com
 maws-aax-us-east-rtb.amazon-adsystem.com
 maws-aax-us-east-test4.amazon-adsystem.com
 maws-aax-us-pdx-rtb.amazon-adsystem.com
+mawsikbze.com
 max-adserv.com
 max.dcgorich.com
 max.ftxus100.com
@@ -90759,6 +90777,7 @@ mbdk555.com
 mbdk99.com
 mbdkb.com
 mbdlog.iqiyi.com
+mbdswyvxjqupq.online
 mbeaeutifdn.com
 mbekgac.xyz
 mbelia.underarmour.co.uk
@@ -97056,6 +97075,7 @@ mz91004124881stpe.4level1.com
 mzarqhufj4.com
 mzb60mu3z7.com
 mzcgpmpygdoer.site
+mzdaixuoqtupr.site
 mzdhejfvuankc.global
 mzenze.linio.com.co
 mzfgtgylnwgrp.website
@@ -97701,6 +97721,7 @@ native-ads-events-api.c4s-rd.services
 native-ads-events-api2.c4s-rd.services
 native-adserver.com
 native-cdn.com
+native-log-collect.gryphline.com
 native.ai
 native.cli.bz
 nativead.s3.amazonaws.com
@@ -102001,6 +102022,7 @@ ojgot.solawave.co
 ojheaitunlker.online
 ojhu34vtryki9m5ojn8n2lqtejnuh4ruml.cfd
 ojhwie.dimanoinmano.it
+ojhwmaocwgpi.com
 ojhyviykx.net
 ojibwaymorena.cfd
 ojiem.fabricmegastore.com
@@ -103103,6 +103125,7 @@ openssp.ru
 openstat.net
 openstats.co
 opensudv.com
+openswarthylie.com
 opentecs.com
 opentelemetry-collector.shared-services.us-east-1.general.prod.wildlife.io
 opentracker.net
@@ -106076,6 +106099,7 @@ pbolnoomselab.online
 pbox.no.photobox.com
 pbox.photobox.de
 pbpbcriabaaay.website
+pbpkxbbmng.com
 pbpugzddrlcqb.website
 pbqhjgkueppwm.online
 pbqhz8r9gmmy797tb.rest
@@ -107286,6 +107310,7 @@ phqew.cn
 phqnzz.skatedeluxe.ch
 phqwoaxhzsyjd.website
 phragmabatiks.help
+phrasegoodnessinhuman.com
 phraseoreburial.com
 phrdzpqqbukjn.store
 phrfushpadbco.website
@@ -110466,6 +110491,7 @@ prutw.org
 pruxol.a8riculmarb1e.ru
 prv.heineken.com
 prvc.io
+prvgdxcqd.com
 prvqz.fableandmane.com
 prvsz4pe.micpn.com
 prwave.info
@@ -117417,6 +117443,7 @@ rqbdyk.evo.com
 rqbvgm.aleupominek.pl
 rqcuizmakyyma.online
 rqdgj.wavec0de.ru
+rqeddaaygpsdwk.com
 rqejawwwooeek.top
 rqerokcafoadv.space
 rqgiwrjyicatp.site
@@ -131147,6 +131174,7 @@ solodar.ru
 soloedscape.com
 soloistchinese.com
 soloistneatly.com
+soloistrottenfountain.com
 solomand.pro
 soloqmyl.tefcold.com
 soloqmyl.tefcold.se
@@ -152870,6 +152898,7 @@ tritetongue.com
 triton.companyegg.com
 tritqzhgvccit.website
 triumphantthingsreading.com
+triumphcommodity.com
 triumphhello.com
 triunelehuas.cyou
 trivetincur.com
@@ -158229,6 +158258,7 @@ utnbfoeokjxuz.website
 utokapa.com
 utoken.umeng.com
 utop.umengcloud.com
+utopiascuttoosmantel.cfd
 utopiasiodines.click
 utoumine.net
 utppooxusnnzr.online
@@ -185842,6 +185872,7 @@ yvfqjmbwitctn.online
 yvhi21.top
 yviswt.lamaisonduchocolat.com
 yvjiqp.gemer.jp
+yvjpeli21ljxphgiihxi9fk4t.cfd
 yvmads.com
 yvndae.com
 yvoria.com
