@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-23 06:44:12
+# Generated on: 2026-01-23 07:18:51
 # Generated AdBlock rules
-# Total entries: 188482
+# Total entries: 188483
 
 0.avmarket.rs
 0.myikas.com
@@ -10354,6 +10354,7 @@ adx-drru.op.dbankcloud.com
 adx-drru.op.hicloud.com
 adx-exchange.toast.com
 adx-in.ads.heytapmobile.com
+adx-op-sg.heytapmobile.com
 adx-open-service.youku.com
 adx-os.anythinktech.com
 adx-os.bridgeoos.com
