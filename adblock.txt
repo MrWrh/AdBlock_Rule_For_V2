@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-22 16:28:24
+# Generated on: 2026-01-22 17:02:31
 # Generated AdBlock rules
-# Total entries: 188385
+# Total entries: 188388
 
 0.avmarket.rs
 0.myikas.com
@@ -2965,6 +2965,7 @@
 6s0zo8jzbb.com
 6s8w2ck1g.com
 6sc.co
+6spczz2hj1.com
 6swu.cpa-france.org
 6t.jeqr.ru
 6t4e4qf538r4pt.cfd
@@ -61772,6 +61773,7 @@ gsk801200hh.com
 gsk801201hh.com
 gsk801211hh.com
 gsk801220hh.com
+gsk801221hh.com
 gskvvpbhyhwitjg.com
 gslb.hpplay.cn
 gslbvg.cc
@@ -166878,6 +166880,7 @@ wtqptl.taksimpazar.com
 wtr-digital-analytics.ew.r.appspot.com
 wtradv.market.xiaomi.com
 wtraff.com
+wtrevvit.com
 wtrotilloye.com
 wtsdc.uhc.com
 wtsdewnppyesy.life
