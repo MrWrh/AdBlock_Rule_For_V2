@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-23 16:59:11
+# Generated on: 2026-01-23 17:37:28
 # Generated AdBlock rules
-# Total entries: 188543
+# Total entries: 188544
 
 0.avmarket.rs
 0.myikas.com
@@ -163572,6 +163572,7 @@ watchtower.graindata.com
 waterboa.midu.dev
 waterboa.nighttrain.co
 waterensignbelieving.com
+waterfall90.top
 waterfrontfewersuccessive.com
 waterkeeled.help
 waterlogged-boy.com
