@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-23 15:02:00
+# Generated on: 2026-01-23 15:41:47
 # Generated AdBlock rules
-# Total entries: 188508
+# Total entries: 188509
 
 0.avmarket.rs
 0.myikas.com
@@ -50906,6 +50906,7 @@ etf.cftio.com
 etf.coindotl.com
 etf.premiuni.com
 etf.zexvip.com
+etff5y04k.com
 etfqkluorsjby.website
 etfrobot.com
 etftrade.com.tw
