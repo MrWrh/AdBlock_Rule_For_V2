@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-23 18:21:49
+# Generated on: 2026-01-23 18:56:16
 # Generated AdBlock rules
-# Total entries: 188570
+# Total entries: 188574
 
 0.avmarket.rs
 0.myikas.com
@@ -9585,6 +9585,7 @@ ads1-adqva.com
 ads1.careerbuilder.vn
 ads1.msads.net
 ads1.msn.com
+ads16-normal-useastred.tiktokw.eu
 ads2.hsoub.com
 ads2.pbxware.ru
 ads2.tadalaspray.com.br
@@ -124472,9 +124473,12 @@ sf.deepflash.ru
 sf.fl0wmortar.ru
 sf.strategicfba.com
 sf14g.com
+sf16-ads-format-sign.tiktokcdn.com
+sf16-ads-format-sign.tiktokcdn.com.edgesuite.net
 sf16-static.i18n-pglstatp.com
 sf16-telemetry-proxy-oci.tiktokcdn-us.com
 sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net
+sf19-ads-format-sign.tiktokcdn.com
 sf3-fe-tos.pglstatp-toutiao.com
 sfa.altive.net
 sfa.com.ar
