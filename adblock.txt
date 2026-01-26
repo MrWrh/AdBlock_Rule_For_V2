@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-26 16:28:52
+# Generated on: 2026-01-26 17:02:12
 # Generated AdBlock rules
-# Total entries: 188772
+# Total entries: 188773
 
 0.avmarket.rs
 0.myikas.com
@@ -1760,6 +1760,7 @@
 3dfty.superfoodies.nl
 3dfty.supergreens.nl
 3dfuckdoll.com
+3dle4u60y7.com
 3dlivestats.com
 3dm.3dimensional.com
 3dpf.9-32p.ru
