@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-27 06:44:08
+# Generated on: 2026-01-27 07:19:12
 # Generated AdBlock rules
-# Total entries: 190634
+# Total entries: 190639
 
 0.avmarket.rs
 0.myikas.com
@@ -61582,6 +61582,7 @@ gsk801250hh.com
 gsk801251hh.com
 gsk801260hh.com
 gsk801261hh.com
+gsk801270hh.com
 gskvvpbhyhwitjg.com
 gslb.hpplay.cn
 gslbvg.cc
@@ -69779,6 +69780,7 @@ i5.mayoblast.com
 i5013.kink-bellow.ru
 i5ixiwch2f.themakersmob.com
 i5q1t8vj9.com
+i5qquywfz.com
 i5v.live
 i5xu.sc2ntrepid2t.ru
 i6.co0perport5.ru
@@ -123176,6 +123178,7 @@ seanfoisons.top
 seao.business.samsung.com
 seaofads.com
 seapolo.com
+seaquake54.com
 search-ads-api.joongna.com
 search-carousel-widget.snc-prod.aws.cinch.co.uk
 search-converter.com
@@ -168323,6 +168326,7 @@ wm.mipcdn.com
 wm.oc57y.ru
 wm.szdushi.com.cn
 wm02x4gcnx.com
+wm0qv5zg3.com
 wm1wu.aud1mi5s.ru
 wm222.net
 wm5ex.com
@@ -169270,6 +169274,7 @@ wtqptl.taksimpazar.com
 wtr-digital-analytics.ew.r.appspot.com
 wtradv.market.xiaomi.com
 wtraff.com
+wtreqnine.com
 wtrevvit.com
 wtrotilloye.com
 wtsdc.uhc.com
