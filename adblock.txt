@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-27 20:41:54
+# Generated on: 2026-01-27 21:44:05
 # Generated AdBlock rules
-# Total entries: 190741
+# Total entries: 190749
 
 0.avmarket.rs
 0.myikas.com
@@ -8676,6 +8676,7 @@ adimages.sniffies.com
 adimg.cgv.co.kr
 adimg.liba.com
 adimg.newdaily.co.kr
+adimg.uve.weibo.com
 adimise.com
 adimmunerc.com
 adimmunerk.com
@@ -10168,6 +10169,7 @@ adtscriptshark.com
 adtube.media
 adtx2.cn
 aduahr.outbax.com.au
+adui.tg.meitu.com
 adult3dcomics.com
 adultadvertising.net
 adultadworld.com
@@ -10452,6 +10454,7 @@ adx-os.anythinktech.com
 adx-os.bridgeoos.com
 adx-saas.advlion.com
 adx-sg-req.bridgeoos.com
+adx-strategy-api-cn.statisticslinks.com
 adx-tk.rayjump.com
 adx.36kr.com
 adx.ads.heytapmobi.com
@@ -26158,6 +26161,7 @@ bstocgsmart.com
 bstogbcsmart.com
 bstorcsmart.com
 bstotplink.com
+bstream.channelcom.tech
 bstream.kzhi.tech
 bstrec20usdt.com
 bstsj.entert2inru8.ru
@@ -58778,6 +58782,7 @@ ggai12250cp.com
 ggaik.preppy.org
 ggavqsedrpbvn.website
 ggbko.obsessedlawn.com
+ggbond.peaksite.tech
 ggbua.4wheelparts.com
 ggbzqyoxkbunx.online
 ggckg.lovewellness.com
@@ -96733,6 +96738,7 @@ morehkvqnxtlo.site
 moreinfo.onnowdigital.com
 moreinfo.powerpro360.com
 moreinfo.sdmyers.com
+mores.toponad.com
 morestamping.com
 moreusers.info
 morevisits.info
@@ -147101,6 +147107,7 @@ tagsoviet.com
 tagsrvcs.com
 tagsternapkins.qpon
 tagtd.cn
+tagtic.cn
 tagtoo.co
 tagtracking.vibescm.com
 tagtray.com
@@ -156738,6 +156745,7 @@ tuhhfhswiabhz.space
 tuhmkjce.icu
 tuhszivw.com
 tuhzjrr.cn
+tuiguang.meitu.com
 tuijian.sogou.com
 tuingascree.help
 tuisong.baidu.com
