@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-27 21:44:05
+# Generated on: 2026-01-27 22:27:12
 # Generated AdBlock rules
-# Total entries: 190749
+# Total entries: 190751
 
 0.avmarket.rs
 0.myikas.com
@@ -9336,6 +9336,7 @@ ads-service.tiktok.com
 ads-setu-proxy-eu.amazon.com
 ads-sg.tiktok.com
 ads-shopping.shouqianba.com
+ads-static.phonepe.com
 ads-static.recon.com
 ads-thanhnien-vn.cdn.ampproject.org
 ads-tm-glb.click
@@ -9554,6 +9555,7 @@ ads.oyungemisi.com
 ads.pdbarea.com
 ads.people-group.net
 ads.periodistadigital.com
+ads.phonepe.com
 ads.phunuonline.com.vn
 ads.phunusuckhoe.vn
 ads.phunuvagiadinh.vn
