@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-29 06:58:11
+# Generated on: 2026-01-29 07:30:04
 # Generated AdBlock rules
-# Total entries: 190880
+# Total entries: 190883
 
 0.avmarket.rs
 0.myikas.com
@@ -61631,6 +61631,7 @@ gsk801270hh.com
 gsk801271hh.com
 gsk801280hh.com
 gsk801281hh.com
+gsk801290hh.com
 gskvvpbhyhwitjg.com
 gslb.hpplay.cn
 gslbvg.cc
@@ -144465,6 +144466,7 @@ summerobject.com
 summertenons.cyou
 summerwm1.com
 summit.edm.globalsources.com
+summit87.com
 summitscapitals.com
 sumo.floot.com
 sumome.com
@@ -159248,6 +159250,7 @@ understoodocean.com
 understoodwestteeth.com
 undertheguid.cfd
 undertone.com
+undertow52.top
 underwaterexilemovements.com
 underwearcrackerprison.com
 underwearfilletslight.com
