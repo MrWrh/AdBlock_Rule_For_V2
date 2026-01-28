@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-29 06:23:41
+# Generated on: 2026-01-29 06:58:11
 # Generated AdBlock rules
-# Total entries: 190876
+# Total entries: 190880
 
 0.avmarket.rs
 0.myikas.com
@@ -3243,6 +3243,7 @@
 7ad490a943.b3c8cc8e2b.com
 7amz.com
 7anki.p7ecunder8.ru
+7asx1bxaw.com
 7awf4fi9k7.com
 7b.888-c.ru
 7b5f77dbb5.com
@@ -4149,6 +4150,7 @@
 9u.ve5l.ru
 9uh94c.cn
 9uhd74iu74jnbd7dnhkjhg.jltzinterings.com
+9vmbje748.com
 9vo.wolkenspur3.ru
 9vviyje1s.top
 9w2zed1szg.execute-api.us-east-1.amazonaws.com
@@ -87582,6 +87584,7 @@ lqtxnaqqmbqxm.space
 lqudxquypbsvl.online
 lqvfkk.sosyopix.com
 lqvmm.bellefit.com
+lqvz7e4xa.com
 lqweqk61qlih.click
 lqxjrk.fbs.com
 lqxzx.com
@@ -190750,6 +190753,7 @@ zxuushop.com
 zxvhxdpyordan.store
 zxvklz.icu
 zxw-tw.cn
+zxwfcwm.icu
 zxwnlg.com
 zxwows.tucanourbano.com
 zxwstong.com
