@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-02-07 01:25:05
+# Generated on: 2026-02-07 02:09:30
 # Generated AdBlock rules
-# Total entries: 181033
+# Total entries: 181036
 
 0.avmarket.rs
 0.myikas.com
@@ -3273,8 +3273,8 @@
 87uq.com
 87y8y1pz4o.com
 88.VV6666.top
-88.VV6666.TOP
 88.vv6666.top
+88.VV6666.TOP
 880a6212c5.com
 88129513.xyz
 881d04q9.m2p5uck.ru
@@ -8439,7 +8439,6 @@ admicro1.vcmedia.vn
 admidainsight.com
 admile.ru
 admilk.ru
-admin-advertising.roku.com
 admin-bittraderz.com
 admin-vayvonvietthanh.com
 admin.adxnow.com
@@ -12506,9 +12505,9 @@ ambassador.referralhero.com
 ambassadors.childhoodpotential.com
 ambassadors.guideandgrow.com
 ambbilgy.cfd
-Amber.co
-amber.co
 AMBER.CO
+amber.co
+Amber.co
 amber.de5criptun1ver.ru
 amber.qu1rkbasin.ru
 ambercrow.com
@@ -12900,6 +12899,7 @@ analytics-events.inshorts.com
 analytics-exp-i18n.tiktok.com
 analytics-exp-ru.tiktok.com
 analytics-exp-sg.tiktok.com
+analytics-exp-ttp2.tiktokw.eu
 analytics-exp.us.tiktok.com
 analytics-fe.digital-cloud-prem.medallia.com
 analytics-fe.digital-cloud.medallia.com
@@ -24845,7 +24845,6 @@ bugs2022.com
 bugscrawled.com
 bugshasrub.cyou
 bugsnag-event.monitor.core.app.alexa.a2z.com
-bugsnag-session.monitor.core.app.alexa.a2z.com
 bugsnag.appstore.a2z.com
 bugsnag.shopbop.amazon.dev
 bugwortkedlock.cfd
@@ -33518,8 +33517,8 @@ crypto-o.click
 crypto-scwallets.com
 crypto-scwalletx.com
 crypto-world.ink
-crypto.com
 Crypto.com
+crypto.com
 crypto.lion.expert
 crypto.lion.institute
 crypto.lion.training
@@ -55105,8 +55104,8 @@ fxtwer.com
 fxuenhhaucscs.online
 fxvcbxelswfth.space
 fxviersitw886.com
-Fxview-tw.com
 fxview-tw.com
+Fxview-tw.com
 fxw6py2ce83w8p2.rest
 fxwbijquqfsve.website
 fxwlyddrjhupc.store
@@ -88957,6 +88956,7 @@ maws-aax-apse-rtb.amazon-adsystem.com
 maws-aax-eu-rtb-adx.amazon-adsystem.com
 maws-aax-eu-rtb.amazon-adsystem.com
 maws-aax-fe-sin.amazon-adsystem.com
+maws-aax-fe.amazon-adsystem.com
 maws-aax-us-east-rtb-adx.amazon-adsystem.com
 maws-aax-us-east-rtb.amazon-adsystem.com
 maws-aax-us-east-test4.amazon-adsystem.com
@@ -90300,8 +90300,8 @@ metaapi.communityca.com.br
 metab0ts.click
 metabatted.com
 metabit.metbito.com
-MetaBit30.mettbit.com
 metabit30.mettbit.com
+MetaBit30.mettbit.com
 metabit52.metbito.com
 metabit58.metbito.com
 metabit70.metbito.com
@@ -102260,8 +102260,8 @@ oucmanaishou.net
 oucnmtk.top
 oucouksirt.com
 oucpambrmtexm.online
-OUD.genesbo.com
 oud.genesbo.com
+OUD.genesbo.com
 oudjmuimzsshw.space
 oudkszvbqunte.website
 oudreedsix.com
@@ -140859,6 +140859,7 @@ stream.kolorowey.com
 stream.neonail.cz
 stream.neonail.de
 stream.neonail.nl
+stream.snssdk.com
 stream.spongead.com
 stream.supersportowy.pl
 stream.youxxjav.xyz
@@ -158604,6 +158605,7 @@ vcjzjnef.icu
 vckav.merakimedicinal.com
 vckeyscqjreer.icu
 vckgixqqnyosr.website
+vcl-brain.snssdk.com
 vclbpfd.com
 vclicks.net
 vclouds.com
@@ -159107,6 +159109,7 @@ vfw-us-west.amazon-adsystem.com
 vfw-us.amazon-adsystem.com
 vfw.amazon-adsystem.com
 vfwefipfkvgud.website
+vfwm-us-west.amazon-adsystem.com
 vfwm-us.amazon-adsystem.com
 vfwm.amazon-adsystem.com
 vfwpaocvysbpo.site
@@ -172632,8 +172635,8 @@ www.tdsip.com
 www.tdxjsa.com
 www.teamway.com
 www.teaofpuer.live
-www.teapuer.online
 WWW.teapuer.online
+www.teapuer.online
 www.tec896.com
 www.tec899.com
 www.technovak.com
@@ -178943,8 +178946,8 @@ z.allopurinoll.shop
 z.bodyworksmedcenter.com
 z.cdn.adpool.bet
 z.cdn.protect-ad.com
-z.com
 Z.COM
+z.com
 Z.com
 z.grfyw.com
 z.nowscore.com
