@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-02-08 18:23:12
+# Generated on: 2026-02-08 18:58:58
 # Generated AdBlock rules
-# Total entries: 181371
+# Total entries: 181372
 
 0.avmarket.rs
 0.myikas.com
@@ -90466,8 +90466,8 @@ metaapi.communityca.com.br
 metab0ts.click
 metabatted.com
 metabit.metbito.com
-MetaBit30.mettbit.com
 metabit30.mettbit.com
+MetaBit30.mettbit.com
 metabit52.metbito.com
 metabit58.metbito.com
 metabit70.metbito.com
@@ -95886,8 +95886,8 @@ n.hzhfhkj.cn
 n.juhuasuanguanwang.cn
 n.kasnsnss.com
 n.kettenbach-immobilien.de
-N.kinvestops.com
 n.kinvestops.com
+N.kinvestops.com
 n.knuffelwuff.fr
 n.merrylants.com
 n.ms86.cn
@@ -98154,6 +98154,7 @@ nlztpmhcxyzwh.vip
 nlzyp.cn
 nm1.hollow-fizz.ru
 nm59.sgx5599.cyou
+nm68kgmnf1.com
 nm6c33x8a.com
 nmajjhzqyckro.icu
 nmbhu.thepearlsource.com
@@ -118843,8 +118844,8 @@ save-apps.monster
 save.jnrsmcu.com
 save.salary.com.au
 save.smartsalary.com.au
-Savegas.AI
 savegas.ai
+Savegas.AI
 saveryblind.cyou
 saveterracehangnail.com
 saveu5-normal-lq.zijieapi.com
@@ -129808,8 +129809,8 @@ snigelweb.com
 snip.j1nxbuckle.ru
 snipe.mfaber.at
 snipe.mizzuu.co
-Sniper.fujibee777.com
 sniper.fujibee777.com
+Sniper.fujibee777.com
 sniperkenmark.qpon
 sniperlog.ru
 snipersex.com
@@ -171655,8 +171656,8 @@ www.pendlequi.com
 www.pendletqz.com
 www.pepeglobalone.com
 www.pepperst-one.cc
-WWW.pepperstonecrm.com
 www.pepperstonecrm.com
+WWW.pepperstonecrm.com
 www.pepperstonecrmb.com
 www.pepperstonedcrm.com
 www.peppvipweb.com
@@ -171887,8 +171888,8 @@ www.qh625.tw
 www.qhdbsd.com
 www.qhdjffhgh.com
 www.qhfbdh.com
-WWW.qhfjdkg.com
 www.qhfjdkg.com
+WWW.qhfjdkg.com
 www.qiaoanjin886.top
 www.qidjas.com
 www.qieyruy.com
@@ -179281,8 +179282,8 @@ z.bodyworksmedcenter.com
 z.cdn.adpool.bet
 z.cdn.protect-ad.com
 Z.COM
-z.com
 Z.com
+z.com
 z.grfyw.com
 z.nowscore.com
 z.o00.kr
