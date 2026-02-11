@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2026-02-11 16:29:38 (GMT+8)
-# Total entries: 181931
+# Generated on: 2026-02-11 17:36:06 (GMT+8)
+# Total entries: 181932
 
 "0.avmarket.rs",
 "0.myikas.com",
@@ -55079,8 +55079,8 @@
 "future-hawk-content.co.uk",
 "future-price.co.uk",
 "future.lmstaeoiaes.com",
-"future.lmstaoes.com",
 "Future.lmstaoes.com",
+"future.lmstaoes.com",
 "future.lmsteames.com",
 "future.uwindsor.ca",
 "futureads.io",
@@ -55333,8 +55333,8 @@
 "fxuenhhaucscs.online",
 "fxvcbxelswfth.space",
 "fxviersitw886.com",
-"Fxview-tw.com",
 "fxview-tw.com",
+"Fxview-tw.com",
 "fxw6py2ce83w8p2.rest",
 "fxwbijquqfsve.website",
 "fxwlyddrjhupc.store",
@@ -90719,8 +90719,8 @@
 "metab0ts.click",
 "metabatted.com",
 "metabit.metbito.com",
-"MetaBit30.mettbit.com",
 "metabit30.mettbit.com",
+"MetaBit30.mettbit.com",
 "metabit52.metbito.com",
 "metabit58.metbito.com",
 "metabit70.metbito.com",
@@ -95489,6 +95489,7 @@
 "mvp.ueglhu.top",
 "mvp1119.p2aoc.com",
 "mvp1788.okexx.net",
+"mvquiema.xyz",
 "mvqwxwnmwhbzb.website",
 "mvrnxfxtvsuix.website",
 "mvrptblhcuehu.website",
@@ -96155,8 +96156,8 @@
 "n.juhuasuanguanwang.cn",
 "n.kasnsnss.com",
 "n.kettenbach-immobilien.de",
-"n.kinvestops.com",
 "N.kinvestops.com",
+"n.kinvestops.com",
 "n.knuffelwuff.fr",
 "n.merrylants.com",
 "n.ms86.cn",
@@ -130207,8 +130208,8 @@
 "snip.j1nxbuckle.ru",
 "snipe.mfaber.at",
 "snipe.mizzuu.co",
-"Sniper.fujibee777.com",
 "sniper.fujibee777.com",
+"Sniper.fujibee777.com",
 "sniperkenmark.qpon",
 "sniperlog.ru",
 "snipersex.com",
