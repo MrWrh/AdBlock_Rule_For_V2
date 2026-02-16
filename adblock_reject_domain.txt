@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2026-02-16 22:50:26 (GMT+8)
-# Total entries: 183057
+# Generated on: 2026-02-16 23:48:59 (GMT+8)
+# Total entries: 183058
 
 "0.avmarket.rs",
 "0.myikas.com",
@@ -3252,9 +3252,9 @@
 "87d.xv5b.com",
 "87uq.com",
 "87y8y1pz4o.com",
+"88.VV6666.TOP",
 "88.VV6666.top",
 "88.vv6666.top",
-"88.VV6666.TOP",
 "880a6212c5.com",
 "88129513.xyz",
 "881d04q9.m2p5uck.ru",
@@ -12580,9 +12580,9 @@
 "ambassadors.childhoodpotential.com",
 "ambassadors.guideandgrow.com",
 "ambbilgy.cfd",
+"Amber.co",
 "amber.co",
 "AMBER.CO",
-"Amber.co",
 "amber.de5criptun1ver.ru",
 "amber.qu1rkbasin.ru",
 "ambercrow.com",
@@ -29677,8 +29677,8 @@
 "citiae.com",
 "citiaw.com",
 "citibh.com",
-"Citigroup.Bo",
 "CitiGroup.BO",
+"Citigroup.Bo",
 "Citigroup.BO",
 "citivay.org",
 "citizenagreementacting.com",
@@ -31274,8 +31274,8 @@
 "coinftwis.com",
 "coinftws.com",
 "coinftwvip.com",
-"COINGROUP.BO",
 "Coingroup.BO",
+"COINGROUP.BO",
 "coingtp.top",
 "coinha.leyiu.com",
 "coinhakobb.com",
@@ -33933,8 +33933,8 @@
 "crypto-scwallets.com",
 "crypto-scwalletx.com",
 "crypto-world.ink",
-"crypto.com",
 "Crypto.com",
+"crypto.com",
 "crypto.lion.expert",
 "crypto.lion.institute",
 "crypto.lion.training",
@@ -155685,6 +155685,7 @@
 "twfiosn.com",
 "twfmklo.com",
 "twfovierbz.com",
+"twfqi9im3v.com",
 "twfuban.site",
 "twfxcc.org",
 "twfxcc.store",
