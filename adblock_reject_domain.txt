@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2026-02-18 07:03:06 (GMT+8)
-# Total entries: 183401
+# Generated on: 2026-02-18 07:48:38 (GMT+8)
+# Total entries: 183403
 
 "0.avmarket.rs",
 "0.myikas.com",
@@ -3260,8 +3260,8 @@
 "87d.xv5b.com",
 "87uq.com",
 "87y8y1pz4o.com",
-"88.VV6666.top",
 "88.vv6666.top",
+"88.VV6666.top",
 "88.VV6666.TOP",
 "880a6212c5.com",
 "88129513.xyz",
@@ -90819,8 +90819,8 @@
 "metab0ts.click",
 "metabatted.com",
 "metabit.metbito.com",
-"metabit30.mettbit.com",
 "MetaBit30.mettbit.com",
+"metabit30.mettbit.com",
 "metabit52.metbito.com",
 "metabit58.metbito.com",
 "metabit70.metbito.com",
@@ -156709,6 +156709,7 @@
 "ucus.ucweb.com",
 "ucuumhsxenzwq.online",
 "ucuviuptlbxdl.website",
+"ucuypyhcns.com",
 "ucvvnpvwpgoxp.space",
 "ucwkvipzetzxc.space",
 "ucwr9.79tutztqmx2wg85i.cyou",
@@ -173728,8 +173729,8 @@
 "www.qhdbsd.com",
 "www.qhdjffhgh.com",
 "www.qhfbdh.com",
-"WWW.qhfjdkg.com",
 "www.qhfjdkg.com",
+"WWW.qhfjdkg.com",
 "www.qiaoanjin886.top",
 "www.qidjas.com",
 "www.qieyruy.com",
@@ -174800,8 +174801,8 @@
 "www.tdxjsa.com",
 "www.teamway.com",
 "www.teaofpuer.live",
-"WWW.teapuer.online",
 "www.teapuer.online",
+"WWW.teapuer.online",
 "www.tec896.com",
 "www.tec899.com",
 "www.technovak.com",
@@ -181264,9 +181265,9 @@
 "z.bodyworksmedcenter.com",
 "z.cdn.adpool.bet",
 "z.cdn.protect-ad.com",
-"Z.com",
 "Z.COM",
 "z.com",
+"Z.com",
 "z.grfyw.com",
 "z.nowscore.com",
 "z.o00.kr",
@@ -181289,6 +181290,7 @@
 "z1.cwbaike.com",
 "z1.o8h7d.cn",
 "z1.pclady.com.cn",
+"z198vxfuy3.com",
 "z1e2vp1gw.com",
 "z1hihu.xmcimg.com",
 "z1mtk9.t1metalk.ru",
