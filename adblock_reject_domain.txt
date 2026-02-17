@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2026-02-17 18:29:35 (GMT+8)
-# Total entries: 183287
+# Generated on: 2026-02-17 19:27:17 (GMT+8)
+# Total entries: 183288
 
 "0.avmarket.rs",
 "0.myikas.com",
@@ -149369,6 +149369,7 @@
 "tmjuwtbhvodzk.online",
 "tmjwaxuxtpszs.space",
 "tmk.moebel-koehler.de",
+"tmkhirkrol.com",
 "tmko1.com",
 "tmko2.com",
 "tmko3.com",
