@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-02-23 12:22:46
+# Generated on: 2026-02-23 13:50:57
 # Generated AdBlock rules
-# Total entries: 184286
+# Total entries: 184298
 
 0.avmarket.rs
 0.myikas.com
@@ -3256,8 +3256,8 @@
 87d.xv5b.com
 87uq.com
 87y8y1pz4o.com
-88.VV6666.top
 88.vv6666.top
+88.VV6666.top
 88.VV6666.TOP
 880a6212c5.com
 88129513.xyz
@@ -9036,6 +9036,7 @@ ads.cloudsight.ai
 ads.cocomobi.com
 ads.coinads.click
 ads.compro.se
+ads.comunidades.net
 ads.contents.fc2.com
 ads.cungcau.vn
 ads.cup.com.cn
@@ -12612,8 +12613,8 @@ ambassadors.childhoodpotential.com
 ambassadors.guideandgrow.com
 ambbilgy.cfd
 Amber.co
-AMBER.CO
 amber.co
+AMBER.CO
 amber.de5criptun1ver.ru
 amber.qu1rkbasin.ru
 ambercrow.com
@@ -14566,6 +14567,7 @@ animeamigos.org
 animeloundry.com
 animenippon.cc
 animits.com
+animo.sto.wiki
 animosegoupen.cyou
 animositycandiedcalmly.com
 animositycapitalist.com
@@ -29813,9 +29815,9 @@ citi-vietnam.com
 citiae.com
 citiaw.com
 citibh.com
-Citigroup.Bo
-Citigroup.BO
 CitiGroup.BO
+Citigroup.BO
+Citigroup.Bo
 citivay.org
 citizenagreementacting.com
 citizenhid.com
@@ -42682,6 +42684,7 @@ digiboost.se
 digibytecode.com
 digicepat87.lol
 digijaya887.lol
+diginetica.net
 digipathmedia.com
 digistat.westjet.com
 digistats.de
@@ -44986,6 +44989,7 @@ dsxlez.com
 dsxrvvqolphwm.website
 dsyilztilhief.space
 dsyrogvoyrsrl.space
+dsznznklozyra.site
 dszpyfbiywceq.website
 dt.alemi-zurich.ch
 dt.alemi-zurich.com
@@ -55647,8 +55651,8 @@ fxpro11.com
 fxprofx211.com
 fxprofx221.com
 fxprofxn404.com
-fxprotw.com
 FXPROTW.COM
+fxprotw.com
 fxproxp11.com
 fxproxp26.com
 fxproxp888.com
@@ -69126,6 +69130,7 @@ ihclam.cn
 ihcrqa.sonnenklar.tv
 ihct.mx
 ihdqhjrqhovcp.today
+ihdrurrvryppt.xyz
 ihdticondkewj.space
 iheartbucks.com
 ihenseltampaud.net
@@ -84837,6 +84842,7 @@ locnrivalry.qpon
 locoesferrara.qpon
 locomotiva.drcristianojuliani.com.br
 locooler-ageneral.com
+locttvhscztbf.space
 loculerookish.com
 loculeskhass.qpon
 locus.l2mbl1vonian.ru
@@ -96177,6 +96183,7 @@ mxn191102203nm.click
 mxn191102205nm.click
 mxnnlqcqakypr.space
 mxnumvboxukgi.online
+mxoiuuceaesfg.space
 mxoqqu.uniwigs.com
 mxp00338.com
 mxpl.9gag.com
@@ -96714,8 +96721,8 @@ n.hzhfhkj.cn
 n.juhuasuanguanwang.cn
 n.kasnsnss.com
 n.kettenbach-immobilien.de
-N.kinvestops.com
 n.kinvestops.com
+N.kinvestops.com
 n.knuffelwuff.fr
 n.merrylants.com
 n.ms86.cn
@@ -98375,6 +98382,7 @@ ngjcvn.top
 ngjemhyhqlwil.online
 ngjfjf.icu
 ngjjt.havaianas.com
+ngjmbezvfwwmf.website
 ngjrxddjiop.com
 nglciivnsamno.com
 nglmedia.com
@@ -103467,8 +103475,8 @@ oucmanaishou.net
 oucnmtk.top
 oucouksirt.com
 oucpambrmtexm.online
-OUD.genesbo.com
 oud.genesbo.com
+OUD.genesbo.com
 oudjmuimzsshw.space
 oudkszvbqunte.website
 oudreedsix.com
@@ -111206,6 +111214,7 @@ pxnzwgdyvcaqd.online
 pxpfnbe1t1.com
 pxptonxdhbgwd.site
 pxpxauecpdbfj.website
+pxqudpostizcp.online
 pxrbnf.icu
 pxrvxdnneophih.com
 pxslenpdvprcb.net
@@ -121790,6 +121799,7 @@ sendwebpush.com
 sendword.ir
 senegaspay.cyou
 sengiprexes.cfd
+senhorapeba.cyou
 senhorarepeal.cfd
 senhorcoost.com
 senilishypnalesatined.cfd
@@ -153301,7 +153311,6 @@ tracking-api.hotmart.com
 tracking-api.mangopulse.net
 tracking-api.passeidireto.com
 tracking-api.sub100.com.br
-tracking-app.diginetica.net
 tracking-aws-5.com
 tracking-capitalbank-jo-877029.p06.elqsandbox.com
 tracking-config-service.glority.com
@@ -168446,6 +168455,7 @@ wtsdewnppyesy.life
 wtstats.com
 wtstats.ro
 wtsxnkdqybyce.site
+wtszapfggewir.website
 wttbup.novasol.de
 wttd.douglas.at
 wttd.douglas.ch
@@ -174280,8 +174290,8 @@ www.pendlequi.com
 www.pendletqz.com
 www.pepeglobalone.com
 www.pepperst-one.cc
-WWW.pepperstonecrm.com
 www.pepperstonecrm.com
+WWW.pepperstonecrm.com
 www.pepperstonecrmb.com
 www.pepperstonedcrm.com
 www.peppvipweb.com
@@ -174515,8 +174525,8 @@ www.qh625.tw
 www.qhdbsd.com
 www.qhdjffhgh.com
 www.qhfbdh.com
-WWW.qhfjdkg.com
 www.qhfjdkg.com
+WWW.qhfjdkg.com
 www.qiaoanjin886.top
 www.qidjas.com
 www.qieyruy.com
@@ -178212,6 +178222,7 @@ xfqiwwdxryuvo.website
 xfspqaxwpxwqy.website
 xftsjv.top
 xftzmvvgnbnsx.space
+xfuntrshugzcq.space
 xfvclznzhmtte.site
 xfvrkhjmanrnr.online
 xfvslsqqtyeeb.store
@@ -180528,6 +180539,7 @@ yearnvip.click
 yearnweb.org
 yeastexisting.com
 yeastfeukufund.org
+yebowgslw.com
 yebvpc.gardengoodsdirect.com
 yebycrfmcwohc.site
 yecytiqior.net
@@ -182114,8 +182126,8 @@ z.auvik.com
 z.bodyworksmedcenter.com
 z.cdn.adpool.bet
 z.cdn.protect-ad.com
-Z.com
 z.com
+Z.com
 Z.COM
 z.grfyw.com
 z.nowscore.com
