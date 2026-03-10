@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-03-10 18:22:15
+# Generated on: 2026-03-10 19:18:50
 # Generated AdBlock rules
-# Total entries: 194474
+# Total entries: 194475
 
 0.avmarket.rs
 0.myikas.com
@@ -3164,9 +3164,9 @@
 87d.xv5b.com
 87uq.com
 87y8y1pz4o.com
-88.vv6666.top
-88.VV6666.top
 88.VV6666.TOP
+88.VV6666.top
+88.vv6666.top
 880a6212c5.com
 88129513.xyz
 881d04q9.m2p5uck.ru
@@ -16964,8 +16964,8 @@ app.rrrrfgnj.com
 app.rtuidx.com
 app.rtusws.com
 app.rtwifjh.com
-app.sa-platform.com
 APP.SA-platform.com
+app.sa-platform.com
 app.saf.sharjahart.org
 app.sagyugf.com
 app.sayuety.com
@@ -19367,6 +19367,7 @@ awberaurir.com
 awbkht.verktygsproffsen.se
 awbrwrywkwqwj.top
 awcdwdfygrroo.store
+awcecrod.com
 awcrpu.com
 awd.spochak.com
 awdc6.com
@@ -21887,8 +21888,8 @@ bestowsiege.com
 bestpush.pconline.com.cn
 bestrevenuenetwork.com
 bestridabendssiccing.qpon
-bestsgs.io
 Bestsgs.io
+bestsgs.io
 bestshoesboot.com
 bestsmartvpn.com
 bestsrv.de
@@ -30106,9 +30107,9 @@ citi-vietnam.com
 citiae.com
 citiaw.com
 citibh.com
+CitiGroup.BO
 Citigroup.BO
 Citigroup.Bo
-CitiGroup.BO
 citiservi.es
 citivay.org
 citizenagreementacting.com
@@ -101538,8 +101539,8 @@ n.hzhfhkj.cn
 n.juhuasuanguanwang.cn
 n.kasnsnss.com
 n.kettenbach-immobilien.de
-N.kinvestops.com
 n.kinvestops.com
+N.kinvestops.com
 n.knuffelwuff.fr
 n.lexusfinancial.com
 n.merrylants.com
