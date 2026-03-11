@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-03-12 07:22:15
+# Generated on: 2026-03-12 07:55:15
 # Generated AdBlock rules
-# Total entries: 195931
+# Total entries: 195936
 
 0-rw1-t.jelvax.in.net
 0.avmarket.rs
@@ -57748,8 +57748,8 @@ fxpro11.com
 fxprofx211.com
 fxprofx221.com
 fxprofxn404.com
-fxprotw.com
 FXPROTW.COM
+fxprotw.com
 fxproxp11.com
 fxproxp26.com
 fxproxp888.com
@@ -57776,8 +57776,8 @@ fxuenhhaucscs.online
 fxuzrinlbacql.site
 fxvcbxelswfth.space
 fxviersitw886.com
-fxview-tw.com
 Fxview-tw.com
+fxview-tw.com
 fxwbijquqfsve.website
 fxwlyddrjhupc.store
 fxxnyksafitsz.online
@@ -66282,6 +66282,7 @@ guuia6hxf.com
 guurniuvgo.com
 guvmmaolnk.com
 guvntjbcyqzyw.space
+guwd.cn
 guwupmxscowhp.online
 guwuym.barneys.co.jp
 guy6ex7fwfjuh5v9q7z3m.cfd
@@ -78699,6 +78700,7 @@ judicial4.com
 judicialimpatientgenerator.com
 judicialphilosophical.com
 judicialreaphealth.com
+judicious85.top
 judiciousbarnacle.com
 judsaiftool.net
 judson.mgraw-dest.com
@@ -96111,8 +96113,8 @@ metaapi.communityca.com.br
 metab0ts.click
 metabatted.com
 metabit.metbito.com
-MetaBit30.mettbit.com
 metabit30.mettbit.com
+MetaBit30.mettbit.com
 metabit52.metbito.com
 metabit58.metbito.com
 metabit70.metbito.com
@@ -102272,8 +102274,8 @@ n.hzhfhkj.cn
 n.juhuasuanguanwang.cn
 n.kasnsnss.com
 n.kettenbach-immobilien.de
-n.kinvestops.com
 N.kinvestops.com
+n.kinvestops.com
 n.knuffelwuff.fr
 n.lexusfinancial.com
 n.merrylants.com
@@ -103993,6 +103995,7 @@ ngcghsdvjfcpp.club
 ngcmrrwamufou.website
 ngdjv.childsplayclothing.com
 ngdpzsewyequh.site
+ngdrld.icu
 ngegas.files.im
 ngegyhsuaylyj.site
 ngepfoguoouph.space
@@ -109377,8 +109380,8 @@ oucmanaishou.net
 oucnmtk.top
 oucouksirt.com
 oucpambrmtexm.online
-oud.genesbo.com
 OUD.genesbo.com
+oud.genesbo.com
 oudjmuimzsshw.space
 oudkszvbqunte.website
 oudsoordonouz.net
@@ -118094,6 +118097,7 @@ qhhtjakrzwtwx.site
 qhiatcfrywgse.click
 qhicumg.cn
 qhiqk.eshopygoexpress.ro
+qhirlilzda.com
 qhjexayrgruyj.online
 qhjm600.com
 qhjneybjqcxjm.online
@@ -140193,8 +140197,8 @@ snigelweb.com
 snip.j1nxbuckle.ru
 snipe.mfaber.at
 snipe.mizzuu.co
-sniper.fujibee777.com
 Sniper.fujibee777.com
+sniper.fujibee777.com
 sniperkenmark.qpon
 sniperlog.ru
 snipersex.com
@@ -191020,6 +191024,7 @@ xscp03100xq.com
 xscp03101xq.com
 xscp03110xq.com
 xscp03111xq.com
+xscp03120xq.com
 xsdsemgyxukwx.space
 xsedsmmfzdgeg.online
 xsell.6waves.com
@@ -193654,9 +193659,9 @@ z.auvik.com
 z.bodyworksmedcenter.com
 z.cdn.adpool.bet
 z.cdn.protect-ad.com
-Z.com
-Z.COM
 z.com
+Z.COM
+Z.com
 z.grfyw.com
 z.nowscore.com
 z.o00.kr
