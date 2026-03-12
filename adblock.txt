@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-03-13 07:31:34
+# Generated on: 2026-03-13 07:55:55
 # Generated AdBlock rules
-# Total entries: 196135
+# Total entries: 196138
 
 0-rw1-t.jelvax.in.net
 0.avmarket.rs
@@ -31928,8 +31928,8 @@ coinftw.com
 coinftwis.com
 coinftws.com
 coinftwvip.com
-Coingroup.BO
 COINGROUP.BO
+Coingroup.BO
 coingtp.top
 coinha.leyiu.com
 coinhakobb.com
@@ -57783,8 +57783,8 @@ fxpro11.com
 fxprofx211.com
 fxprofx221.com
 fxprofxn404.com
-FXPROTW.COM
 fxprotw.com
+FXPROTW.COM
 fxproxp11.com
 fxproxp26.com
 fxproxp888.com
@@ -57811,8 +57811,8 @@ fxuenhhaucscs.online
 fxuzrinlbacql.site
 fxvcbxelswfth.space
 fxviersitw886.com
-fxview-tw.com
 Fxview-tw.com
+fxview-tw.com
 fxwbijquqfsve.website
 fxwlyddrjhupc.store
 fxxnyksafitsz.online
@@ -96224,8 +96224,8 @@ metaapi.communityca.com.br
 metab0ts.click
 metabatted.com
 metabit.metbito.com
-metabit30.mettbit.com
 MetaBit30.mettbit.com
+metabit30.mettbit.com
 metabit52.metbito.com
 metabit58.metbito.com
 metabit70.metbito.com
@@ -102390,8 +102390,8 @@ n.hzhfhkj.cn
 n.juhuasuanguanwang.cn
 n.kasnsnss.com
 n.kettenbach-immobilien.de
-n.kinvestops.com
 N.kinvestops.com
+n.kinvestops.com
 n.knuffelwuff.fr
 n.lexusfinancial.com
 n.merrylants.com
@@ -106017,6 +106017,7 @@ nv5918kz1xj9mogpxxb.cfd
 nvapi.feeldmc.com
 nvbfbdfajyuur.com
 nvbflc.pinkpanda.bg
+nvbrfj.icu
 nvcfa.grillyourassoff.com
 nvejmzqxuuujx.love
 nvfja.vipertecknives.com
@@ -109497,8 +109498,8 @@ oucmanaishou.net
 oucnmtk.top
 oucouksirt.com
 oucpambrmtexm.online
-OUD.genesbo.com
 oud.genesbo.com
+OUD.genesbo.com
 oudjmuimzsshw.space
 oudkszvbqunte.website
 oudsoordonouz.net
@@ -140361,8 +140362,8 @@ snigelweb.com
 snip.j1nxbuckle.ru
 snipe.mfaber.at
 snipe.mizzuu.co
-sniper.fujibee777.com
 Sniper.fujibee777.com
+sniper.fujibee777.com
 sniperkenmark.qpon
 sniperlog.ru
 snipersex.com
@@ -187030,8 +187031,8 @@ www.tdsip.com
 www.tdxjsa.com
 www.teamway.com
 www.teaofpuer.live
-WWW.teapuer.online
 www.teapuer.online
+WWW.teapuer.online
 www.tec896.com
 www.tec899.com
 www.technovak.com
@@ -189629,6 +189630,7 @@ xdyn03110jy.com
 xdyn03111jy.com
 xdyn03120jy.com
 xdyn03121jy.com
+xdyn03130jy.com
 xdyxzdkconsev.site
 xdzjforextw.com
 xebetp.icu
@@ -191218,6 +191220,7 @@ xscp03110xq.com
 xscp03111xq.com
 xscp03120xq.com
 xscp03121xq.com
+xscp03130xq.com
 xsdsemgyxukwx.space
 xsedsmmfzdgeg.online
 xsell.6waves.com
@@ -193859,9 +193862,9 @@ z.auvik.com
 z.bodyworksmedcenter.com
 z.cdn.adpool.bet
 z.cdn.protect-ad.com
-z.com
 Z.com
 Z.COM
+z.com
 z.grfyw.com
 z.nowscore.com
 z.o00.kr
