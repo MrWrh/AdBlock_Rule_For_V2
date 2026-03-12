@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-03-13 06:57:46
+# Generated on: 2026-03-13 07:31:34
 # Generated AdBlock rules
-# Total entries: 196133
+# Total entries: 196135
 
 0-rw1-t.jelvax.in.net
 0.avmarket.rs
@@ -58067,6 +58067,7 @@ g2288.com
 g2afse.com
 g2insights-cdn.azureedge.net
 g2nnkzy49bph6hw383g.cfd
+g2w9awdq0.com
 g2wg5308q.com
 g33ktr4ck.com
 g33tr4c3r.com
@@ -83340,8 +83341,8 @@ lel27q9eleftuv.rest
 lelong.shop
 lelruftoutufoux.net
 leluhrmmslpud.store
-lem-coin.com
 Lem-Coin.Com
+lem-coin.com
 lem.nouvelobs.com
 lem7ur.c1imby2p.ru
 lementwrencespri.com
@@ -102389,8 +102390,8 @@ n.hzhfhkj.cn
 n.juhuasuanguanwang.cn
 n.kasnsnss.com
 n.kettenbach-immobilien.de
-N.kinvestops.com
 n.kinvestops.com
+N.kinvestops.com
 n.knuffelwuff.fr
 n.lexusfinancial.com
 n.merrylants.com
@@ -113789,6 +113790,7 @@ pl.venusafe.com
 pl.volunteeringhb.org.nz
 pl.worldclubdome.com
 pl5-zw18.siliconcanyon.in.net
+pl53l7tyw.com
 pla-tk.flipkart.net
 pla.fwdcdn.com
 pla.wigglepixel.nl
@@ -140359,8 +140361,8 @@ snigelweb.com
 snip.j1nxbuckle.ru
 snipe.mfaber.at
 snipe.mizzuu.co
-Sniper.fujibee777.com
 sniper.fujibee777.com
+Sniper.fujibee777.com
 sniperkenmark.qpon
 sniperlog.ru
 snipersex.com
