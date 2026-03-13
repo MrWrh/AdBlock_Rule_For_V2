@@ -3,7 +3,7 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-03-14 01:32:18
+# Generated on: 2026-03-14 02:03:39
 # Generated AdBlock rules
 # Total entries: 196338
 
@@ -52435,7 +52435,6 @@ exnesstrack.com
 exnsar.raiton.ru
 exnzg.de
 exo.nel.measure.office.net.sw.buhl-data.com
-exo.nel.measure.office.net.us.intinfra.com
 exobafrgdf.com
 exodus-io.io
 exodus.abbtb.com
@@ -95575,6 +95574,7 @@ measure.office.net.cn.intinfra.com
 measure.office.net.cz.intinfra.com
 measure.office.net.edgesuite.net
 measure.office.net.in.intinfra.com
+measure.office.net.us.intinfra.com
 measure.orbiloc.com
 measure.orrefors.se
 measure.osavi.com
@@ -96326,8 +96326,8 @@ metaapi.communityca.com.br
 metab0ts.click
 metabatted.com
 metabit.metbito.com
-metabit30.mettbit.com
 MetaBit30.mettbit.com
+metabit30.mettbit.com
 metabit52.metbito.com
 metabit58.metbito.com
 metabit70.metbito.com
@@ -102498,8 +102498,8 @@ n.hzhfhkj.cn
 n.juhuasuanguanwang.cn
 n.kasnsnss.com
 n.kettenbach-immobilien.de
-n.kinvestops.com
 N.kinvestops.com
+n.kinvestops.com
 n.knuffelwuff.fr
 n.lexusfinancial.com
 n.merrylants.com
@@ -109615,8 +109615,8 @@ oucmanaishou.net
 oucnmtk.top
 oucouksirt.com
 oucpambrmtexm.online
-OUD.genesbo.com
 oud.genesbo.com
+OUD.genesbo.com
 oudjmuimzsshw.space
 oudkszvbqunte.website
 oudsoordonouz.net
