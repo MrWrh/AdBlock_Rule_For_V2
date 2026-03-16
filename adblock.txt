@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-03-16 17:15:46
+# Generated on: 2026-03-16 18:17:11
 # Generated AdBlock rules
-# Total entries: 197034
+# Total entries: 197036
 
 0-rw1-t.jelvax.in.net
 0.avmarket.rs
@@ -30392,9 +30392,9 @@ citi-vietnam.com
 citiae.com
 citiaw.com
 citibh.com
-Citigroup.BO
-CitiGroup.BO
 Citigroup.Bo
+CitiGroup.BO
+Citigroup.BO
 citiservi.es
 citivay.org
 citizenagreementacting.com
@@ -35009,8 +35009,8 @@ crypto-o.click
 crypto-scwallets.com
 crypto-scwalletx.com
 crypto-world.ink
-Crypto.com
 crypto.com
+Crypto.com
 crypto.lion.expert
 crypto.lion.institute
 crypto.lion.training
@@ -47527,6 +47527,7 @@ dz1dt3wqswdezgx4j2ryem5iad.apple.com
 dz3tfc2m9.com
 dz4ad.com
 dz6uw9vrm7nx6.cloudfront.net
+dz6xqe19d2.com
 dzbbzg.carfinance247.co.uk
 dzbkl37t8az8q.cloudfront.net
 dzbyeexbzstou.space
@@ -57814,8 +57815,8 @@ future-price.co.uk
 future.coniferhealth.com
 future.curlysecret.com
 future.lmstaeoiaes.com
-future.lmstaoes.com
 Future.lmstaoes.com
+future.lmstaoes.com
 future.lmsteames.com
 future.uwindsor.ca
 futureads.io
@@ -58063,8 +58064,8 @@ fxpro11.com
 fxprofx211.com
 fxprofx221.com
 fxprofxn404.com
-FXPROTW.COM
 fxprotw.com
+FXPROTW.COM
 fxproxp11.com
 fxproxp26.com
 fxproxp888.com
@@ -110043,8 +110044,8 @@ oucmanaishou.net
 oucnmtk.top
 oucouksirt.com
 oucpambrmtexm.online
-OUD.genesbo.com
 oud.genesbo.com
+OUD.genesbo.com
 oudjmuimzsshw.space
 oudkszvbqunte.website
 oudsoordonouz.net
@@ -127791,8 +127792,8 @@ save-node.savingssit.in.net
 save.jnrsmcu.com
 save.salary.com.au
 save.smartsalary.com.au
-savegas.ai
 Savegas.AI
+savegas.ai
 saveryblind.cyou
 saveterracehangnail.com
 saveu5-normal-lq.zijieapi.com
@@ -177586,6 +177587,7 @@ wdsvzbwcdkyfx.online
 wdswgjn.cn
 wdswojigebzei.website
 wdtryisrzshiw.space
+wdtw.cn
 wdtyl.xyz
 wdtypxrniewko.website
 wdukge.midwayusa.com
@@ -186601,8 +186603,8 @@ www.pendlequi.com
 www.pendletqz.com
 www.pepeglobalone.com
 www.pepperst-one.cc
-WWW.pepperstonecrm.com
 www.pepperstonecrm.com
+WWW.pepperstonecrm.com
 www.pepperstonecrmb.com
 www.pepperstonedcrm.com
 www.peppvipweb.com
@@ -187930,8 +187932,8 @@ www.tdsip.com
 www.tdxjsa.com
 www.teamway.com
 www.teaofpuer.live
-WWW.teapuer.online
 www.teapuer.online
+WWW.teapuer.online
 www.tec896.com
 www.tec899.com
 www.technovak.com
@@ -194795,9 +194797,9 @@ z.auvik.com
 z.bodyworksmedcenter.com
 z.cdn.adpool.bet
 z.cdn.protect-ad.com
-z.com
-Z.com
 Z.COM
+Z.com
+z.com
 z.grfyw.com
 z.nowscore.com
 z.o00.kr
