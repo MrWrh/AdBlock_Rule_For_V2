@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-03-21 01:35:02
+# Generated on: 2026-03-21 02:04:39
 # Generated AdBlock rules
-# Total entries: 198274
+# Total entries: 198291
 
 0-rw1-t.jelvax.in.net
 0.avmarket.rs
@@ -3207,9 +3207,9 @@
 87uq.com
 87y8y1pz4o.com
 88-m02.bryzand.in.net
+88.vv6666.top
 88.VV6666.top
 88.VV6666.TOP
-88.vv6666.top
 8800zenica.com
 880a6212c5.com
 88129513.xyz
@@ -6874,6 +6874,7 @@ acr-eu-prd.samsungcloud.tv
 acr-in-prd.samsungcloud.tv
 acr-kr-prd.samsungcloud.tv
 acr-mx-prd.samsungcloud.tv
+acr-nz-prd.samsungcloud.tv
 acr-us-prd.samsungcloud.tv
 acr.roku.com
 acr0.samsungcloudsolution.com
@@ -12637,9 +12638,9 @@ ambassador.referralhero.com
 ambassadors.childhoodpotential.com
 ambassadors.guideandgrow.com
 ambbilgy.cfd
+AMBER.CO
 Amber.co
 amber.co
-AMBER.CO
 amber.qu1rkbasin.ru
 ambercrow.com
 ambie.site
@@ -22212,8 +22213,8 @@ bestowsiege.com
 bestpush.pconline.com.cn
 bestrevenuenetwork.com
 bestridabendssiccing.qpon
-Bestsgs.io
 bestsgs.io
+Bestsgs.io
 bestshoesboot.com
 bestsmartvpn.com
 bestsrv.de
@@ -22257,8 +22258,8 @@ bete-dex.shop
 bete-dex.today
 betemolgar.com
 beterrakionan.com
-Betexplc.com
 betexplc.com
+Betexplc.com
 betfairos.com
 betfairse.com
 betgorebysson.club
@@ -30599,9 +30600,9 @@ citi-vietnam.com
 citiae.com
 citiaw.com
 citibh.com
+Citigroup.Bo
 CitiGroup.BO
 Citigroup.BO
-Citigroup.Bo
 citiservi.es
 citivay.org
 citizenagreementacting.com
@@ -58453,8 +58454,8 @@ fxpro11.com
 fxprofx211.com
 fxprofx221.com
 fxprofxn404.com
-FXPROTW.COM
 fxprotw.com
+FXPROTW.COM
 fxproxp11.com
 fxproxp26.com
 fxproxp888.com
@@ -58482,8 +58483,8 @@ fxuenhhaucscs.online
 fxuzrinlbacql.site
 fxvcbxelswfth.space
 fxviersitw886.com
-Fxview-tw.com
 fxview-tw.com
+Fxview-tw.com
 fxwbijquqfsve.website
 fxwlyddrjhupc.store
 fxxnyksafitsz.online
@@ -70156,6 +70157,7 @@ hmdvq.matethelabel.com
 hmdyhnfncmuckx.com
 hmdypadvcolcw.space
 hme-live-loganalytics-namespace.servicebus.windows.net
+hme-uat-loganalytics-namespace.servicebus.windows.net
 hmeagu.e87.com
 hmeoda.restplatzboerse.ch
 hmeqpjky.xyz
@@ -84371,8 +84373,8 @@ lel27q9eleftuv.rest
 lelong.shop
 lelruftoutufoux.net
 leluhrmmslpud.store
-Lem-Coin.Com
 lem-coin.com
+Lem-Coin.Com
 lem.nouvelobs.com
 lem7ur.c1imby2p.ru
 lementwrencespri.com
@@ -95835,6 +95837,7 @@ maws-aax-apse-rtb-adx.amazon-adsystem.com
 maws-aax-apse-rtb.amazon-adsystem.com
 maws-aax-eu-rtb-adx.amazon-adsystem.com
 maws-aax-eu-rtb.amazon-adsystem.com
+maws-aax-eu.amazon-adsystem.com
 maws-aax-fe-sin.amazon-adsystem.com
 maws-aax-fe.amazon-adsystem.com
 maws-aax-us-east-rtb-adx.amazon-adsystem.com
@@ -97358,8 +97361,8 @@ metaapi.communityca.com.br
 metab0ts.click
 metabatted.com
 metabit.metbito.com
-MetaBit30.mettbit.com
 metabit30.mettbit.com
+MetaBit30.mettbit.com
 metabit52.metbito.com
 metabit58.metbito.com
 metabit70.metbito.com
@@ -157292,6 +157295,7 @@ t-ring-fallbacks2.msedge.net
 t-ring-fdv2.msedge.net
 t-ring-s.msedge.net
 t-ring-s2.msedge.net
+t-ring-trafficshield.msedge.net
 t-ring.msedge.net
 t-s.actemra.com
 t-s.activase.com
@@ -170893,6 +170897,7 @@ ujzqud.bestsecret.se
 uk-go.experian.com
 uk-marketing.roxtec.com
 uk-mktg.vodafone.com
+uk-timesync.vivoglobal.com
 uk.adpinfo.com
 uk.contact.alphabet.com
 uk.enorsia.com
@@ -187767,8 +187772,8 @@ www.pendlequi.com
 www.pendletqz.com
 www.pepeglobalone.com
 www.pepperst-one.cc
-WWW.pepperstonecrm.com
 www.pepperstonecrm.com
+WWW.pepperstonecrm.com
 www.pepperstonecrmb.com
 www.pepperstonedcrm.com
 www.peppvipweb.com
@@ -188002,8 +188007,8 @@ www.qh625.tw
 www.qhdbsd.com
 www.qhdjffhgh.com
 www.qhfbdh.com
-www.qhfjdkg.com
 WWW.qhfjdkg.com
+www.qhfjdkg.com
 www.qiaoanjin886.top
 www.qidjas.com
 www.qieyruy.com
@@ -195998,8 +196003,8 @@ z.bodyworksmedcenter.com
 z.cdn.adpool.bet
 z.cdn.protect-ad.com
 z.com
-Z.com
 Z.COM
+Z.com
 z.grfyw.com
 z.nowscore.com
 z.o00.kr
@@ -196091,6 +196096,7 @@ z9t2d.drift2cargo.coupons
 za-ad-lgsmartad-com.aws-prd.net
 za-ads.de
 za-go.experian.com
+za-p.vivoglobal.com
 za.agiay.vn
 za.baomoi.com
 za.lgsmartad.com
@@ -196227,7 +196233,18 @@ zarpi7.m0pin8mute.ru
 zarpop.com
 zasatean.com
 zasc-cota.vivoglobal.com
+zasc-domaincfg.vivoglobal.com
+zasc-err-up.vivoglobal.com
+zasc-onrt-stsdk.vivoglobal.com
+zasc-ort-stsdk.vivoglobal.com
+zasc-pnrt-stsdk.vivoglobal.com
+zasc-romsp-unifyconfig.vivoglobal.com
+zasc-st-sl.vivoglobal.com
+zasc-stsdk.vivoglobal.com
+zasc-timesync.vivoglobal.com
+zasc-vcode-api.vivoglobal.com
 zasc-vcode-od.vivoglobal.com
+zasc-vcode-or.vivoglobal.com
 zasestoshe.com
 zasjf.xyz
 zasjfget.xyz
