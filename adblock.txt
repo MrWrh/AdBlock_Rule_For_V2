@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-03-23 02:32:26
+# Generated on: 2026-03-23 03:04:27
 # Generated AdBlock rules
-# Total entries: 196283
+# Total entries: 196288
 
 0-rw1-t.jelvax.in.net
 0.avmarket.rs
@@ -2867,8 +2867,8 @@
 87uq.com
 87y8y1pz4o.com
 88-m02.bryzand.in.net
-88.vv6666.top
 88.VV6666.top
+88.vv6666.top
 88.VV6666.TOP
 8800zenica.com
 88129513.xyz
@@ -16072,8 +16072,8 @@ app.rrrrfgnj.com
 app.rtuidx.com
 app.rtusws.com
 app.rtwifjh.com
-app.sa-platform.com
 APP.SA-platform.com
+app.sa-platform.com
 app.saf.sharjahart.org
 app.sagyugf.com
 app.sayuety.com
@@ -19259,6 +19259,7 @@ banner-online.nl
 banner.5giay.vn
 banner.aismo.ru
 banner.appsflyer.com
+banner.appsflyersdk.com
 banner.aqua.hu
 banner.bet365partners.com
 banner.dabi.ir
@@ -20442,8 +20443,8 @@ bestowsiege.com
 bestpush.pconline.com.cn
 bestrevenuenetwork.com
 bestridabendssiccing.qpon
-bestsgs.io
 Bestsgs.io
+bestsgs.io
 bestshoesboot.com
 bestsmartvpn.com
 bestsrv.de
@@ -29484,8 +29485,8 @@ coinftw.com
 coinftwis.com
 coinftws.com
 coinftwvip.com
-Coingroup.BO
 COINGROUP.BO
+Coingroup.BO
 coingtp.top
 coinha.leyiu.com
 coinhakobb.com
@@ -55614,6 +55615,7 @@ fuzzyerror.com
 fvahbwnlcqvaf.site
 fvainjetmzyqi.online
 fvalid.appsflyer.com
+fvalid.appsflyersdk.com
 fvaslplblqgzc.online
 fvawdzlobdrrv.online
 fvbaffiliate.com
@@ -55819,8 +55821,8 @@ fxpro11.com
 fxprofx211.com
 fxprofx221.com
 fxprofxn404.com
-FXPROTW.COM
 fxprotw.com
+FXPROTW.COM
 fxproxp11.com
 fxproxp26.com
 fxproxp888.com
@@ -81857,8 +81859,8 @@ lel27q9eleftuv.rest
 lelong.shop
 lelruftoutufoux.net
 leluhrmmslpud.store
-Lem-Coin.Com
 lem-coin.com
+Lem-Coin.Com
 lem.nouvelobs.com
 lementwrencespri.com
 lementwrencespri.info
@@ -107149,6 +107151,7 @@ oneid.live
 oneijnarbxrvk.space
 onelead.ru
 onelink.appsflyer.com
+onelinksmartscript.appsflyersdk.com
 onemboaran.com
 onemediawork.com
 onemob.mobi
@@ -108445,8 +108448,8 @@ oucmanaishou.net
 oucnmtk.top
 oucouksirt.com
 oucpambrmtexm.online
-oud.genesbo.com
 OUD.genesbo.com
+oud.genesbo.com
 oudjmuimzsshw.space
 oudkszvbqunte.website
 oudsoordonouz.net
@@ -139781,8 +139784,8 @@ sniggernear.cyou
 snip.j1nxbuckle.ru
 snipe.mfaber.at
 snipe.mizzuu.co
-sniper.fujibee777.com
 Sniper.fujibee777.com
+sniper.fujibee777.com
 sniperkenmark.qpon
 sniperlog.ru
 snipersex.com
@@ -175902,6 +175905,7 @@ w9uwz5966.com
 wa.airexperience.dk
 wa.and.co.uk
 wa.appsflyer.com
+wa.appsflyersdk.com
 wa.baltimoreravens.com
 wa.childrensplace.com
 wa.consumentenbond.nl
@@ -177315,6 +177319,7 @@ websanalytic.com
 websc.org
 websdk.admiral.com
 websdk.appsflyer.com
+websdk.appsflyersdk.com
 websdk.makro.es
 websdk.metro.fr
 websdk.metro.ro
