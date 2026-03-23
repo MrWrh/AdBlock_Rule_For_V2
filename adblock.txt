@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-03-23 12:53:46
+# Generated on: 2026-03-23 14:09:12
 # Generated AdBlock rules
-# Total entries: 196457
+# Total entries: 196458
 
 0-rw1-t.jelvax.in.net
 0.avmarket.rs
@@ -95024,8 +95024,8 @@ metaapi.communityca.com.br
 metab0ts.click
 metabatted.com
 metabit.metbito.com
-MetaBit30.mettbit.com
 metabit30.mettbit.com
+MetaBit30.mettbit.com
 metabit52.metbito.com
 metabit58.metbito.com
 metabit70.metbito.com
@@ -101269,8 +101269,8 @@ n.hzhfhkj.cn
 n.juhuasuanguanwang.cn
 n.kasnsnss.com
 n.kettenbach-immobilien.de
-n.kinvestops.com
 N.kinvestops.com
+n.kinvestops.com
 n.knuffelwuff.fr
 n.lexusfinancial.com
 n.merrylants.com
@@ -126607,8 +126607,8 @@ save-node.savingssit.in.net
 save.jnrsmcu.com
 save.salary.com.au
 save.smartsalary.com.au
-Savegas.AI
 savegas.ai
+Savegas.AI
 saverlionism.cyou
 saveryblind.cyou
 saveterracehangnail.com
@@ -139904,8 +139904,8 @@ sniggernear.cyou
 snip.j1nxbuckle.ru
 snipe.mfaber.at
 snipe.mizzuu.co
-sniper.fujibee777.com
 Sniper.fujibee777.com
+sniper.fujibee777.com
 sniperkenmark.qpon
 sniperlog.ru
 snipersex.com
@@ -155756,6 +155756,7 @@ t.locasun.fr
 t.longbeachstate.com
 t.lqsw2.top
 t.lsusports.net
+t.ltiquery.com
 t.lucentis.com
 t.lucentisdirect.com
 t.lumedental.co.uk
