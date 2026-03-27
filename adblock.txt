@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-03-28 01:12:46
+# Generated on: 2026-03-28 02:06:23
 # Generated AdBlock rules
-# Total entries: 198457
+# Total entries: 198461
 
 0-rw1-t.jelvax.in.net
 0.avmarket.rs
@@ -2907,9 +2907,9 @@
 87uq.com
 87y8y1pz4o.com
 88-m02.bryzand.in.net
-88.VV6666.TOP
-88.VV6666.top
 88.vv6666.top
+88.VV6666.top
+88.VV6666.TOP
 8800zenica.com
 88129513.xyz
 881d04q9.m2p5uck.ru
@@ -11857,9 +11857,9 @@ ambasadorky.zenyzenam.cz
 ambassador.referralhero.com
 ambassadors.childhoodpotential.com
 ambassadors.guideandgrow.com
-amber.co
 AMBER.CO
 Amber.co
+amber.co
 ambercrow.com
 ambie.site
 ambient-platform.com
@@ -16209,8 +16209,8 @@ app.rrrrfgnj.com
 app.rtuidx.com
 app.rtusws.com
 app.rtwifjh.com
-APP.SA-platform.com
 app.sa-platform.com
+APP.SA-platform.com
 app.saf.sharjahart.org
 app.sagyugf.com
 app.sayuety.com
@@ -18022,6 +18022,7 @@ atzzrq.tbs.co.jp
 au-ad-lgsmartad-com.aws-prd.net
 au-go.experian.com
 au-partners.ingrammicro.com
+au-vcode-od.vivoglobal.com
 au.adhacker.online
 au.ff.avast.sec.miui.com
 au.ideaure.com
@@ -18850,7 +18851,6 @@ azq.zozo.jp
 azqaaslam.com
 azqqlobqwomqr.top
 azrxtr.trenyrkarna.cz
-azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com
 azscgj.penningtons.com
 azsct.juicepress.com
 azskk.com
@@ -20682,8 +20682,8 @@ bestowsiege.com
 bestpush.pconline.com.cn
 bestrevenuenetwork.com
 bestridabendssiccing.qpon
-Bestsgs.io
 bestsgs.io
+Bestsgs.io
 bestshoesboot.com
 bestsmartvpn.com
 bestsrv.de
@@ -20718,8 +20718,8 @@ bete-dex.today
 beteelafrugal.qpon
 betemolgar.com
 beterrakionan.com
-betexplc.com
 Betexplc.com
+betexplc.com
 betfairos.com
 betfairse.com
 betgorebysson.club
@@ -28154,9 +28154,9 @@ citi-vietnam.com
 citiae.com
 citiaw.com
 citibh.com
+CitiGroup.BO
 Citigroup.BO
 Citigroup.Bo
-CitiGroup.BO
 citiservi.es
 citivay.org
 citizenagreementacting.com
@@ -29995,8 +29995,8 @@ coinftw.com
 coinftwis.com
 coinftws.com
 coinftwvip.com
-COINGROUP.BO
 Coingroup.BO
+COINGROUP.BO
 coingtp.top
 coinha.leyiu.com
 coinhakobb.com
@@ -56797,8 +56797,8 @@ fxpro11.com
 fxprofx211.com
 fxprofx221.com
 fxprofxn404.com
-FXPROTW.COM
 fxprotw.com
+FXPROTW.COM
 fxproxp11.com
 fxproxp26.com
 fxproxp888.com
@@ -83017,8 +83017,8 @@ lel27q9eleftuv.rest
 lelong.shop
 lelruftoutufoux.net
 leluhrmmslpud.store
-Lem-Coin.Com
 lem-coin.com
+Lem-Coin.Com
 lem.nouvelobs.com
 lementwrencespri.com
 lementwrencespri.info
@@ -89311,6 +89311,7 @@ log32-normal-no1a.tiktokv.eu
 log32-normal-sg.capcutapi.com
 log32-normal-useast1a.tiktokv.com
 log32-normal-useast2a.tiktokv.com
+log32-normal-useastred.tiktokv.eu
 log32-normal-zr.tiktokv.com
 log32-normal.capcutapi.com
 log32-normal.tiktokv.com
@@ -102408,8 +102409,8 @@ n.hzhfhkj.cn
 n.juhuasuanguanwang.cn
 n.kasnsnss.com
 n.kettenbach-immobilien.de
-N.kinvestops.com
 n.kinvestops.com
+N.kinvestops.com
 n.knuffelwuff.fr
 n.lexusfinancial.com
 n.merrylants.com
@@ -109790,8 +109791,8 @@ oucmanaishou.net
 oucnmtk.top
 oucouksirt.com
 oucpambrmtexm.online
-oud.genesbo.com
 OUD.genesbo.com
+oud.genesbo.com
 oudjmuimzsshw.space
 oudkszvbqunte.website
 oudsoordonouz.net
@@ -110631,6 +110632,9 @@ p11q.cn
 p12acx.com
 p15vjj3og.com
 p16-ad.byteoversea.com
+p16-tiktok-ads-sg.tiktokcdn.com
+p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net
+p16-tiktok-ads-sg.tiktokcdn.com.edgesuite.net
 p16-tiktokcdn-com.akamaized.net.iberostar.com
 p192.eastbaytimes.com
 p1ea-rnask.plea36slavneck.coupons
@@ -187807,8 +187811,8 @@ www.pendlequi.com
 www.pendletqz.com
 www.pepeglobalone.com
 www.pepperst-one.cc
-WWW.pepperstonecrm.com
 www.pepperstonecrm.com
+WWW.pepperstonecrm.com
 www.pepperstonecrmb.com
 www.pepperstonedcrm.com
 www.peppvipweb.com
@@ -189144,8 +189148,8 @@ www.tdsip.com
 www.tdxjsa.com
 www.teamway.com
 www.teaofpuer.live
-WWW.teapuer.online
 www.teapuer.online
+WWW.teapuer.online
 www.tec896.com
 www.tec899.com
 www.technovak.com
