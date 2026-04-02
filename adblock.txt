@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-04-03 02:32:34
+# Generated on: 2026-04-03 03:33:02
 # Generated AdBlock rules
-# Total entries: 203026
+# Total entries: 203028
 
 0-rw1-t.jelvax.in.net
 0.avmarket.rs
@@ -2946,8 +2946,8 @@
 87y8y1pz4o.com
 88-m02.bryzand.in.net
 88.vv6666.top
-88.VV6666.top
 88.VV6666.TOP
+88.VV6666.top
 8800zenica.com
 88129513.xyz
 883.engine.mobileapptracking.com
@@ -7869,6 +7869,8 @@ adlink.wurl.com
 adlive.io
 adlmerge.com
 adlog.com.com
+adlog.vivo.com
+adlog.vivo.com.cn
 adlogists.com
 adlook.me
 adlook.net
@@ -7881,7 +7883,6 @@ adlserq.com
 adltserv.com
 adluak.madeleine.fr
 adlux.com
-adlyticmarketing.com
 adlzosoe.xyz
 adm.52swine.com
 adm.6park.com
@@ -11887,8 +11888,8 @@ ambassador.referralhero.com
 ambassadors.childhoodpotential.com
 ambassadors.guideandgrow.com
 amber.co
-Amber.co
 AMBER.CO
+Amber.co
 ambercrow.com
 ambie.site
 ambient-platform.com
@@ -20849,8 +20850,8 @@ bestowsiege.com
 bestpush.pconline.com.cn
 bestrevenuenetwork.com
 bestridabendssiccing.qpon
-bestsgs.io
 Bestsgs.io
+bestsgs.io
 bestshoesboot.com
 bestsmartvpn.com
 bestsrv.de
@@ -20885,8 +20886,8 @@ bete-dex.today
 beteelafrugal.qpon
 betemolgar.com
 beterrakionan.com
-Betexplc.com
 betexplc.com
+Betexplc.com
 betfairos.com
 betfairse.com
 betgorebysson.club
@@ -23737,6 +23738,7 @@ bsna.inno.be
 bsnwicychhpjy.website
 bsoabpxfs.njasu.de
 bsosgd.midori-anzen.com
+bsp-di-in.heytapmobile.com
 bsp.sasdc.pandora.xiaomi.com
 bspiner.sparkforce.dk
 bspiu.heatwavevisual.com
@@ -28512,9 +28514,9 @@ citi-vietnam.com
 citiae.com
 citiaw.com
 citibh.com
-CitiGroup.BO
-Citigroup.BO
 Citigroup.Bo
+Citigroup.BO
+CitiGroup.BO
 citiservi.es
 citivay.org
 citizen-dev.municipalmatrix.in.net
@@ -30433,8 +30435,8 @@ coinftw.com
 coinftwis.com
 coinftws.com
 coinftwvip.com
-Coingroup.BO
 COINGROUP.BO
+Coingroup.BO
 coingtp.top
 coinha.leyiu.com
 coinhakobb.com
@@ -84962,8 +84964,8 @@ lel27q9eleftuv.rest
 lelong.shop
 lelruftoutufoux.net
 leluhrmmslpud.store
-lem-coin.com
 Lem-Coin.Com
+lem-coin.com
 lem.nouvelobs.com
 lementwrencespri.com
 lementwrencespri.info
@@ -98363,8 +98365,8 @@ metaapi.communityca.com.br
 metab0ts.click
 metabatted.com
 metabit.metbito.com
-MetaBit30.mettbit.com
 metabit30.mettbit.com
+MetaBit30.mettbit.com
 metabit52.metbito.com
 metabit58.metbito.com
 metabit70.metbito.com
@@ -104700,8 +104702,8 @@ n.hzhfhkj.cn
 n.juhuasuanguanwang.cn
 n.kasnsnss.com
 n.kettenbach-immobilien.de
-n.kinvestops.com
 N.kinvestops.com
+n.kinvestops.com
 n.knuffelwuff.fr
 n.lexusfinancial.com
 n.merrylants.com
@@ -112236,8 +112238,8 @@ oucmanaishou.net
 oucnmtk.top
 oucouksirt.com
 oucpambrmtexm.online
-oud.genesbo.com
 OUD.genesbo.com
+oud.genesbo.com
 oudjmuimzsshw.space
 oudkszvbqunte.website
 oudsoordonouz.net
@@ -130976,8 +130978,8 @@ save-node.savingssit.in.net
 save.jnrsmcu.com
 save.salary.com.au
 save.smartsalary.com.au
-savegas.ai
 Savegas.AI
+savegas.ai
 saverlionism.cyou
 saveryblind.cyou
 saveterracehangnail.com
@@ -144482,8 +144484,8 @@ snigelweb.com
 sniggernear.cyou
 snipe.mfaber.at
 snipe.mizzuu.co
-Sniper.fujibee777.com
 sniper.fujibee777.com
+Sniper.fujibee777.com
 sniperkenmark.qpon
 sniperlog.ru
 snipersex.com
@@ -192155,8 +192157,8 @@ www.pendlequi.com
 www.pendletqz.com
 www.pepeglobalone.com
 www.pepperst-one.cc
-WWW.pepperstonecrm.com
 www.pepperstonecrm.com
+WWW.pepperstonecrm.com
 www.pepperstonecrmb.com
 www.pepperstonedcrm.com
 www.peppvipweb.com
@@ -192392,8 +192394,8 @@ www.qh625.tw
 www.qhdbsd.com
 www.qhdjffhgh.com
 www.qhfbdh.com
-www.qhfjdkg.com
 WWW.qhfjdkg.com
+www.qhfjdkg.com
 www.qiaoanjin886.top
 www.qidjas.com
 www.qieyruy.com
@@ -200662,8 +200664,8 @@ z.bodyworksmedcenter.com
 z.cdn.adpool.bet
 z.cdn.protect-ad.com
 Z.COM
-z.com
 Z.com
+z.com
 z.grfyw.com
 z.nowscore.com
 z.o00.kr
