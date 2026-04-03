@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-04-04 02:41:22
+# Generated on: 2026-04-04 03:36:09
 # Generated AdBlock rules
-# Total entries: 203294
+# Total entries: 203310
 
 0-rw1-t.jelvax.in.net
 0.avmarket.rs
@@ -2950,8 +2950,8 @@
 87y8y1pz4o.com
 88-m02.bryzand.in.net
 88.VV6666.TOP
-88.vv6666.top
 88.VV6666.top
+88.vv6666.top
 8800zenica.com
 88129513.xyz
 883.engine.mobileapptracking.com
@@ -14405,6 +14405,7 @@ api.apexsystem.store
 api.apiok.net.iberostar.com
 api.aposentadoriamilitar.site
 api.app.xtudoreceitas.com
+api.applicationinsights.azure.cn
 api.applovefrom.com
 api.appnxt.net
 api.appsdalei.com
@@ -16926,6 +16927,7 @@ arc.msn.com
 arc1.msn.com
 arc2.msn.com
 arc3.msn.com
+arc5.msn.com
 arc9.msn.com
 arcadebannerexchange.org
 arcadechain.com
@@ -20880,8 +20882,8 @@ bestowsiege.com
 bestpush.pconline.com.cn
 bestrevenuenetwork.com
 bestridabendssiccing.qpon
-bestsgs.io
 Bestsgs.io
+bestsgs.io
 bestshoesboot.com
 bestsmartvpn.com
 bestsrv.de
@@ -20916,8 +20918,8 @@ bete-dex.today
 beteelafrugal.qpon
 betemolgar.com
 beterrakionan.com
-betexplc.com
 Betexplc.com
+betexplc.com
 betfairos.com
 betfairse.com
 betgorebysson.club
@@ -28559,8 +28561,8 @@ citiae.com
 citiaw.com
 citibh.com
 Citigroup.Bo
-CitiGroup.BO
 Citigroup.BO
+CitiGroup.BO
 citiservi.es
 citivay.org
 citizen-dev.municipalmatrix.in.net
@@ -33546,8 +33548,8 @@ crypto-o.click
 crypto-scwallets.com
 crypto-scwalletx.com
 crypto-world.ink
-crypto.com
 Crypto.com
+crypto.com
 crypto.lion.expert
 crypto.lion.institute
 crypto.lion.training
@@ -57823,8 +57825,8 @@ future-price.co.uk
 future.coniferhealth.com
 future.curlysecret.com
 future.lmstaeoiaes.com
-future.lmstaoes.com
 Future.lmstaoes.com
+future.lmstaoes.com
 future.lmsteames.com
 future.uwindsor.ca
 futureads.io
@@ -77037,6 +77039,7 @@ iqyhvzvpshtva.online
 iqyioj.harryanddavid.com
 iqzone.com
 ir-ad-lgsmartad-com.aws-prd.net
+ir-ae.amazon-adsystem.com
 ir-br.amazon-adsystem.com
 ir-ca.amazon-adsystem.com
 ir-cn.amazon-adsystem.com
@@ -85092,8 +85095,8 @@ lel27q9eleftuv.rest
 lelong.shop
 lelruftoutufoux.net
 leluhrmmslpud.store
-lem-coin.com
 Lem-Coin.Com
+lem-coin.com
 lem.nouvelobs.com
 lementwrencespri.com
 lementwrencespri.info
@@ -91071,6 +91074,7 @@ location.tiktok.com
 location.tiktokv.com
 location.tiktokw.us
 location.us.tiktokv.com
+location16-normal-useastred.tiktokv.eu
 locationv16-normal-useastred.tiktokv.eu
 lochskymmkabgf.com
 lock-box.cryptovault.in.net
@@ -91529,8 +91533,10 @@ log22.makeshop.co.kr
 log3-normal-c-alisg.tiktokv.com
 log3-normal-c-useast1a.tiktokv.com
 log31-normal-alisg.tiktokv.com
+log31-normal-no1a.tiktokv.eu
 log31-normal-useast1a.tiktokv.com
 log31-normal-useast2a.tiktokv.com
+log31-normal-useastred.tiktokv.eu
 log31-normal.tiktokv.com
 log32-normal-alisg.tiktokv.com
 log32-normal-no1a.tiktokv.eu
@@ -102432,11 +102438,15 @@ mon22-normal-alisg.tiktokv.com
 mon22-normal-useast1a.tiktokv.com
 mon22-normal.tiktokv.com
 mon31-normal-alisg.tiktokv.com
+mon31-normal-no1a.tiktokv.eu
 mon31-normal-useast1a.tiktokv.com
+mon31-normal-useastred.tiktokv.eu
 mon31-normal.tiktokv.com
 mon32-normal-alisg.tiktokv.com
+mon32-normal-no1a.tiktokv.eu
 mon32-normal-sg.capcutapi.com
 mon32-normal-useast1a.tiktokv.com
+mon32-normal-useastred.tiktokv.eu
 mon32-normal.tiktokv.com
 mona.termocenter.in.net
 monacobeatles.com
@@ -104849,8 +104859,8 @@ n.hzhfhkj.cn
 n.juhuasuanguanwang.cn
 n.kasnsnss.com
 n.kettenbach-immobilien.de
-N.kinvestops.com
 n.kinvestops.com
+N.kinvestops.com
 n.knuffelwuff.fr
 n.lexusfinancial.com
 n.merrylants.com
@@ -123548,6 +123558,7 @@ rackmanrepique.com
 racunn.com
 racystrate.cfd
 rad.live.com
+rad.microsoft.com
 rad.msn.com
 radar.alaimtiaz.com
 radar.bayan.ir
@@ -131166,8 +131177,8 @@ save-node.savingssit.in.net
 save.jnrsmcu.com
 save.salary.com.au
 save.smartsalary.com.au
-Savegas.AI
 savegas.ai
+Savegas.AI
 saverlionism.cyou
 saveryblind.cyou
 saveterracehangnail.com
@@ -144686,8 +144697,8 @@ snigelweb.com
 sniggernear.cyou
 snipe.mfaber.at
 snipe.mizzuu.co
-sniper.fujibee777.com
 Sniper.fujibee777.com
+sniper.fujibee777.com
 sniperkenmark.qpon
 sniperlog.ru
 snipersex.com
@@ -186786,6 +186797,8 @@ www.99tianxin.com
 www.9amarantos.com
 www.9basecop.xyz
 www.a-thenafx.com
+www.a.ads1.msn.com
+www.a.ads2.msn.com
 www.a5886a.shop
 www.a6balance.xyz
 www.a755733.com
@@ -186873,10 +186886,12 @@ www.admfx-vip.com
 www.adnordics.com
 www.adpinfo.com
 www.adrvnecd.com
+www.ads1.msn.com
 www.adscloud-pro.net
 www.adscloud-pro.store
 www.adscloud-pro.top
 www.adscloud-pro.xin
+www.adsinapps.microsoft.com
 www.adsnet.se
 www.advanced-cell-research.com
 www.aediu.com
@@ -187287,6 +187302,7 @@ www.azpieqweoigijax.com
 www.azygww.com
 www.azyshopping.tw
 www.azytws.com
+www.b.ads1.msn.com
 www.b2b199.top
 www.ba-etcworld.com
 www.babyswapao.com
@@ -192406,8 +192422,8 @@ www.pendlequi.com
 www.pendletqz.com
 www.pepeglobalone.com
 www.pepperst-one.cc
-www.pepperstonecrm.com
 WWW.pepperstonecrm.com
+www.pepperstonecrm.com
 www.pepperstonecrmb.com
 www.pepperstonedcrm.com
 www.peppvipweb.com
@@ -200927,8 +200943,8 @@ z.bodyworksmedcenter.com
 z.cdn.adpool.bet
 z.cdn.protect-ad.com
 Z.COM
-Z.com
 z.com
+Z.com
 z.grfyw.com
 z.nowscore.com
 z.o00.kr
