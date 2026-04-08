@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-04-08 07:34:30
+# Generated on: 2026-04-08 08:06:03
 # Generated AdBlock rules
-# Total entries: 201804
+# Total entries: 201809
 
 0-rw1-t.jelvax.in.net
 0.avmarket.rs
@@ -2506,6 +2506,7 @@
 6ngypwhbwqh9c3nk.rest
 6ntgi1f48lqzzv.rest
 6nwp0r33a71m.app.dev.cardahealth.com
+6o2k80jf8w.com
 6o719vq4x.com
 6ogiuks905.com
 6ohi.silkforge.in.net
@@ -2996,9 +2997,9 @@
 87uq.com
 87y8y1pz4o.com
 88-m02.bryzand.in.net
-88.vv6666.top
-88.VV6666.TOP
 88.VV6666.top
+88.VV6666.TOP
+88.vv6666.top
 8800zenica.com
 88129513.xyz
 883.engine.mobileapptracking.com
@@ -12017,8 +12018,8 @@ ambasadorky.zenyzenam.cz
 ambassador.referralhero.com
 ambassadors.childhoodpotential.com
 ambassadors.guideandgrow.com
-amber.co
 AMBER.CO
+amber.co
 Amber.co
 ambercrow.com
 ambie.site
@@ -20021,6 +20022,7 @@ barrasjoistsukkahs.cfd
 barren-unit.pro
 barrenhead.pro
 barrettfusion.qpon
+barrister85.top
 barscreative1.com
 barsshrug.com
 bartdta.jameslane.com.au
@@ -21121,8 +21123,8 @@ bestowsiege.com
 bestpush.pconline.com.cn
 bestrevenuenetwork.com
 bestridabendssiccing.qpon
-Bestsgs.io
 bestsgs.io
+Bestsgs.io
 bestshoesboot.com
 bestsmartvpn.com
 bestsrv.de
@@ -21157,8 +21159,8 @@ bete-dex.today
 beteelafrugal.qpon
 betemolgar.com
 beterrakionan.com
-Betexplc.com
 betexplc.com
+Betexplc.com
 betfairos.com
 betfairse.com
 betgorebysson.club
@@ -28752,9 +28754,9 @@ citi-vietnam.com
 citiae.com
 citiaw.com
 citibh.com
-Citigroup.Bo
 CitiGroup.BO
 Citigroup.BO
+Citigroup.Bo
 citiservi.es
 citivay.org
 citizen-dev.municipalmatrix.in.net
@@ -33378,8 +33380,8 @@ crypto-o.click
 crypto-scwallets.com
 crypto-scwalletx.com
 crypto-world.ink
-Crypto.com
 crypto.com
+Crypto.com
 crypto.lion.expert
 crypto.lion.institute
 crypto.lion.training
@@ -55335,8 +55337,8 @@ future-price.co.uk
 future.coniferhealth.com
 future.curlysecret.com
 future.lmstaeoiaes.com
-future.lmstaoes.com
 Future.lmstaoes.com
+future.lmstaoes.com
 future.lmsteames.com
 future.uwindsor.ca
 futureads.io
@@ -101893,8 +101895,8 @@ n.hzhfhkj.cn
 n.juhuasuanguanwang.cn
 n.kasnsnss.com
 n.kettenbach-immobilien.de
-N.kinvestops.com
 n.kinvestops.com
+N.kinvestops.com
 n.knuffelwuff.fr
 n.lexusfinancial.com
 n.merrylants.com
@@ -142396,8 +142398,8 @@ snigelweb.com
 sniggernear.cyou
 snipe.mfaber.at
 snipe.mizzuu.co
-sniper.fujibee777.com
 Sniper.fujibee777.com
+sniper.fujibee777.com
 sniperkenmark.qpon
 sniperlog.ru
 snipersex.com
@@ -169793,6 +169795,7 @@ trigrambyard.cfd
 trigramcolloqejectum.cyou
 trigs-sockets.com
 trigub.ru
+trikahrta.com
 triline7en.yardnext.in.net
 trilineix.doabove.in.net
 trilithon.easttea.in.net
@@ -177754,6 +177757,7 @@ vhwmphvcffpop.website
 vhwmscbmuopmm.space
 vhwsycdjmiycy.website
 vhwvsmdvsbt.com
+vhxahf.icu
 vhxzfz.icu
 vhyavyfgausqn.website
 vhyeymvgvjulz.site
@@ -191081,8 +191085,8 @@ www.qh625.tw
 www.qhdbsd.com
 www.qhdjffhgh.com
 www.qhfbdh.com
-WWW.qhfjdkg.com
 www.qhfjdkg.com
+WWW.qhfjdkg.com
 www.qiaoanjin886.top
 www.qidjas.com
 www.qieyruy.com
@@ -192186,8 +192190,8 @@ www.tdsip.com
 www.tdxjsa.com
 www.teamway.com
 www.teaofpuer.live
-WWW.teapuer.online
 www.teapuer.online
+WWW.teapuer.online
 www.tebbitgye.com
 www.tec896.com
 www.tec899.com
@@ -197027,6 +197031,7 @@ xxsmtz6.com
 xxsmtz7.com
 xxsmtz8.com
 xxsmtz9.com
+xxss6677.com
 xxsywxj.com
 xxtalp.xyz
 xxts11130zs.com
@@ -199419,9 +199424,9 @@ z.auvik.com
 z.bodyworksmedcenter.com
 z.cdn.adpool.bet
 z.cdn.protect-ad.com
-z.com
-Z.com
 Z.COM
+Z.com
+z.com
 z.grfyw.com
 z.nowscore.com
 z.o00.kr
