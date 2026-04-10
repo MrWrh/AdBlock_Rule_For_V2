@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-04-10 11:43:56
+# Generated on: 2026-04-10 13:55:40
 # Generated AdBlock rules
-# Total entries: 203117
+# Total entries: 203136
 
 0-rw1-t.jelvax.in.net
 0.avmarket.rs
@@ -3031,9 +3031,9 @@
 87uq.com
 87y8y1pz4o.com
 88-m02.bryzand.in.net
-88.vv6666.top
 88.VV6666.top
 88.VV6666.TOP
+88.vv6666.top
 8800zenica.com
 88129513.xyz
 883.engine.mobileapptracking.com
@@ -6801,6 +6801,7 @@ ad-api.ehawk.com
 ad-api.enuri.info
 ad-api.gl-inet.com
 ad-api.maxnapps.com
+ad-api.revoaidapp.com
 ad-arrow.com
 ad-audit-provider.soulapp.cn
 ad-back.net
@@ -12080,8 +12081,8 @@ ambassador.referralhero.com
 ambassadors.childhoodpotential.com
 ambassadors.guideandgrow.com
 amber.co
-Amber.co
 AMBER.CO
+Amber.co
 ambercrow.com
 ambie.site
 ambient-platform.com
@@ -14918,6 +14919,7 @@ api.evoluamaiscursosonline.com.br
 api.exc.mob.com
 api.exercitesportes.com.br
 api.explosaopizza.com.br
+api.eye.sbdv.ru
 api.ezadsystem.com
 api.ezilax.com
 api.faba.pw
@@ -16514,8 +16516,8 @@ app.rrrrfgnj.com
 app.rtuidx.com
 app.rtusws.com
 app.rtwifjh.com
-app.sa-platform.com
 APP.SA-platform.com
+app.sa-platform.com
 app.saf.sharjahart.org
 app.sagyugf.com
 app.sayuety.com
@@ -24207,6 +24209,7 @@ bsmvroohwwakx.site
 bsna.inno.be
 bsnwicychhpjy.website
 bsoabpxfs.njasu.de
+bsoleogdd.com
 bsosgd.midori-anzen.com
 bsp-di-in.heytapmobile.com
 bsp.sasdc.pandora.xiaomi.com
@@ -28923,9 +28926,9 @@ citi-vietnam.com
 citiae.com
 citiaw.com
 citibh.com
-CitiGroup.BO
 Citigroup.Bo
 Citigroup.BO
+CitiGroup.BO
 citiservi.es
 citivay.org
 citizen-dev.municipalmatrix.in.net
@@ -29649,6 +29652,7 @@ clickallow.net
 clickalyzer.com
 clickaval.com
 clickbaza.com
+clickbeat.sberdevices.ru
 clickbet88.com
 clickblitzo.com
 clickbooth.com
@@ -30696,8 +30700,8 @@ coinftw.com
 coinftwis.com
 coinftws.com
 coinftwvip.com
-COINGROUP.BO
 Coingroup.BO
+COINGROUP.BO
 coingtp.top
 coinha.leyiu.com
 coinhakobb.com
@@ -33010,6 +33014,7 @@ cqrot.barberitos.com
 cqrqudjmhslqh.website
 cqrvwq.com
 cqsecshf4rd9.www.tracktheta.com
+cqsiekqkitsty.online
 cqstbvkcpbqut.one
 cqtek.mesotheliomasymptoms.com
 cqtlimi.cn
@@ -33596,8 +33601,8 @@ crypto-o.click
 crypto-scwallets.com
 crypto-scwalletx.com
 crypto-world.ink
-Crypto.com
 crypto.com
+Crypto.com
 crypto.lion.expert
 crypto.lion.institute
 crypto.lion.training
@@ -36686,6 +36691,7 @@ dalliedjapaneesarpo.cyou
 dalmfn.xyz
 dalnaz.alechrzest.pl
 dalofq.top
+dalrmayksroqa.online
 dalyio.com
 dalymix.com
 dalysv.com
@@ -47164,6 +47170,7 @@ eeewax.de
 eefcdueqqznvm.click
 eegnd.flightuniform.com
 eehassoosostoa.com
+eehjbmpykwsfj.site
 eehsd.cyclegear.com
 eehuzaih.com
 eei.lobbycafe.cn
@@ -53561,6 +53568,7 @@ fjeldlabret.qpon
 fjemeg.drim.es
 fjetd.wilko.com
 fjgcai.zlavomat.sk
+fjhqfcgfahfhw.site
 fjighz.armaniexchange.com
 fjikgr.dennmart.com
 fjikn.buttergoods.com
@@ -55961,8 +55969,8 @@ fxtwer.com
 fxuenhhaucscs.online
 fxuzrinlbacql.site
 fxviersitw886.com
-Fxview-tw.com
 fxview-tw.com
+Fxview-tw.com
 fxwlyddrjhupc.store
 fxxogvmdpnwgw.online
 fxxpproxy.com
@@ -76408,6 +76416,7 @@ jn1107713.com
 jn2-bt04.staticmotion.in.net
 jn5be9qmzrxf1yi2i3qn8u.rest
 jnacpgkcophpn.site
+jnarigjkijgoh.space
 jnaskzameldfr.site
 jnbarehsnnbgg.online
 jnbg8lxlnq7mtoiv2wq.cfd
@@ -88647,6 +88656,7 @@ log.dav.edu.vn
 log.deutschegrammophon.com
 log.doanhnhan.vn
 log.documentmanagerpdfdocxlssale.live
+log.documentreaderapp.com
 log.down61.com
 log.dpa.com
 log.dramaboxdb.com
@@ -97463,6 +97473,7 @@ metrics.pro.boehringer-ingelheim.com
 metrics.pro.roche.fi
 metrics.probiotaevent.com
 metrics.products.omya.com
+metrics.prom.third-party-app.sberdevices.ru
 metrics.protectmyid.com
 metrics.protocolo360.net
 metrics.providence-tax.com
@@ -102565,8 +102576,8 @@ n.hzhfhkj.cn
 n.juhuasuanguanwang.cn
 n.kasnsnss.com
 n.kettenbach-immobilien.de
-N.kinvestops.com
 n.kinvestops.com
+N.kinvestops.com
 n.knuffelwuff.fr
 n.lexusfinancial.com
 n.merrylants.com
@@ -105870,6 +105881,7 @@ npiwgxfpugdsc.site
 npjdvywxsbtbz.online
 npjgm.petersheppard.com.au
 npjodjkzmjnbp.website
+npjonzzy.com
 npkeebrxpvekb.space
 nplden.legionathletics.com
 nplutstbfgyso.online
@@ -108272,6 +108284,7 @@ okqniwzuqa.in
 okqqix.karitoke.jp
 okqwidvnsk.net
 okqzukiflsler.website
+okr.sbdv.ru
 okrasbj6.de
 okrasfames.cyou
 okrbflcxdyxav.website
@@ -111002,6 +111015,7 @@ ozslvgepdluca.store
 ozsrtnubjgkjb.online
 ozssakdbijqeh.space
 oztg6i0ass.com
+ozthaerqcoabk.space
 ozuu.hedgy-heckenpflanzen.de
 ozuvdfqzkqxho.store
 ozuycxchfgexu.website
@@ -115522,6 +115536,7 @@ pnwrs5xz.click
 pnxag.qfc1.top
 pnxfexrscthlb.store
 pnxjuppggesgo.com
+pnxytfbvhknns.space
 pny.net.penny.de
 pnycdqzp.xyz
 pnymcxpmuomam.space
@@ -129416,8 +129431,8 @@ save.accesspay.com.au
 save.jnrsmcu.com
 save.salary.com.au
 save.smartsalary.com.au
-Savegas.AI
 savegas.ai
+Savegas.AI
 saverlionism.cyou
 saveryblind.cyou
 saveterracehangnail.com
@@ -129498,6 +129513,7 @@ sbbanner.com
 sbbd1.qulishi.com
 sbbmarket.com
 sbbmzg.boks.app
+sbbpnjhbxdu.com
 sbbsecurities.com
 sbbyimgvmkxuf.online
 sbcevpodyiqis.space
@@ -173920,6 +173936,7 @@ ueqo.cn
 ueqy.cn
 uerlem.universducuir.com
 ues.kicker.de
+uesqpftluoe.com
 uesv3jjf6.com
 uetx75ibcu.com
 ueuee.com
@@ -192073,8 +192090,8 @@ www.pendlequi.com
 www.pendletqz.com
 www.pepeglobalone.com
 www.pepperst-one.cc
-www.pepperstonecrm.com
 WWW.pepperstonecrm.com
+www.pepperstonecrm.com
 www.pepperstonecrmb.com
 www.pepperstonedcrm.com
 www.peppvipweb.com
@@ -195610,6 +195627,7 @@ wyrglylcvbpdy.net
 wyrwehnqhqctg.site
 wysasys.com
 wysistat.com
+wystynapping.cfd
 wysythbmtbyjh.site
 wyt.yurenigu.com
 wytbfjhuyuli.com
@@ -198699,6 +198717,7 @@ yaszcbffjnfak.today
 yataofftw.shop
 yatemy.cn
 yatr.ru
+yatterideatumingenit.cfd
 yatukdakwfhhp.online
 yatvyagcarfax.cyou
 yatytentioniau.org
@@ -200702,9 +200721,9 @@ z.auvik.com
 z.bodyworksmedcenter.com
 z.cdn.adpool.bet
 z.cdn.protect-ad.com
-Z.com
 z.com
 Z.COM
+Z.com
 z.grfyw.com
 z.nowscore.com
 z.o00.kr
