@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-04-21 00:37:26
+# Generated on: 2026-04-21 01:39:16
 # Generated AdBlock rules
-# Total entries: 202925
+# Total entries: 202926
 
 0-rw1-t.jelvax.in.net
 0.avmarket.rs
@@ -141358,8 +141358,8 @@ snigelweb.com
 sniggernear.cyou
 snipe.mfaber.at
 snipe.mizzuu.co
-sniper.fujibee777.com
 Sniper.fujibee777.com
+sniper.fujibee777.com
 sniperkenmark.qpon
 sniperlog.ru
 snipersex.com
@@ -143033,6 +143033,7 @@ sponsor.imacdn.com
 sponsor.styleblueprint.com
 sponsorads.de
 sponsorcounter.de
+sponsored-ads-fe.amazon-adsystem.com
 sponsored.com
 sponsorinserttimeout.com
 sponsorkliks.com
