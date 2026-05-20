@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-05-20 23:58:54
+# Generated on: 2026-05-21 02:22:33
 # Generated AdBlock rules
-# Total entries: 188833
+# Total entries: 188830
 
 0-rw1-t.jelvax.in.net
 0.avmarket.rs
@@ -7176,7 +7176,6 @@ ad-balancer.net
 ad-bl.geoproximity.staging.rpay.roku.com
 ad-bl.prod.rpay.int.roku.com
 ad-bl.usw2.staging.rpay.int.roku.com
-ad-blocker-1.static-cloudflare.workers.dev
 ad-bls-tracking.lemino.docomo.ne.jp
 ad-brix.com
 ad-cdn.qingting.fm
@@ -8901,7 +8900,6 @@ ads-bdapi-th.heytapmobile.com
 ads-bdapi-vn.heytapmobile.com
 ads-bidder-api.twitter.com
 ads-bitcoin.com
-ads-blocker-1.static-cloudflare.workers.dev
 ads-blocker.app
 ads-blocker.pro
 ads-bridge.pixocial.com
@@ -9823,7 +9821,6 @@ adultsense.net
 adultsense.org
 adultsjuniorfling.com
 adulttraffic.ru
-adunblock1.static-cloudflare.workers.dev
 adunity.com
 aduniv.nesin.com
 adup-tech.com
@@ -11614,6 +11611,7 @@ ajvo1s.po7vaxel.in.net
 ajvzis.triumph.com
 ajxx98.online
 ajymcnmtnmqwq.website
+ajyuwkiddocui.website
 ajzaqzrfi.in
 ajzsa.xyz
 ajzupjfxoddqz.love
@@ -43238,6 +43236,7 @@ dimao.site
 dimensions.mappy.com
 dimessing-parker.com
 dimestore.com
+dimhbqxgxfjn.com
 dimkfzxyvzhej.website
 dimmedloesslocn.cfd
 dimmerlingowashable.com
@@ -56724,6 +56723,7 @@ fyosies.icu
 fyovqgkrvoiyo.website
 fypals.parfumania.nl
 fypopsgqidwod.space
+fyqflxdhjggu.com
 fyqvlsvraskhk.online
 fyreball.com
 fyrsbckgi-c.global.ssl.fastly.net
@@ -68427,6 +68427,7 @@ hprofits.com
 hpryikjw.dru9vexon.in.net
 hpryvlxqtsgpx.site
 hps.pornpics.com
+hpsatusskaszi.site
 hpsbpqwawzpwf.space
 hptechnology.arrow.com
 hputcl37.pax4moren.in.net
@@ -71639,15 +71640,12 @@ inboxtag.com
 inbreedsleeps.com
 inbrowserplay.com
 inbyeabnetretried.cfd
-inc-rev.static-cloudflare.workers.dev
 inc-visio-telemetry.officeapps.live.com
 inc.gianteagle.com
 inc.patbo.com
-inc1-rev.static-cloudflare.workers.dev
 incapacity75.top
 incarnatepicturesque.com
 incasedspirts.cfd
-inccrev1.static-cloudflare.workers.dev
 incegceozdsrt.space
 incentivemountdisprove.com
 incentivesnetwork.net
@@ -71700,22 +71698,13 @@ incorenext.com
 incorporatehookersenses.com
 incorporateunderstand.com
 incorrfibbing.shop
-increase-rev1.static-cloudflare.workers.dev
-increase-rev2.static-cloudflare.workers.dev
-increase1rev.static-cloudflare.workers.dev
-increase2-rev.static-cloudflare.workers.dev
 increaserev.com
-increaserev2.static-cloudflare.workers.dev
-increaserev3.static-cloudflare.workers.dev
-increaserev4.static-cloudflare.workers.dev
-increaserev5.static-cloudflare.workers.dev
 increasingbelieveabonnement.com
 increasingcustomers-tag.com
 increasinglycockroachpolicy.com
 increasinglyirritationecstatic.com
 incredibleenhancementslightning.com
 increstprayful.shop
-increv1.static-cloudflare.workers.dev
 incs.get-go.com
 incs.gianteagle.com
 incs.marketdistrict.com
@@ -75008,6 +74997,7 @@ javbucks.com
 javdtezk7.com
 javgg.eu
 javhd-trk.com
+javkdujthhuoj.com
 javmg.com
 javoz.mitoredlight.com
 javvso.newone-shop.com
@@ -76928,6 +76918,7 @@ justuno.com
 justwatch.life
 justwebcards.com
 justwowjars.com
+jusuefeevvpjc.site
 juswsuqwbegra.site
 jut6i8iz3ozwejbztopqmbo2bih.rest
 jutebestrid.cfd
@@ -79034,6 +79025,7 @@ koudaikeji.info
 koukoku.red
 kouopt.calvinklein.com.br
 koushauwhie.xyz
+kovyfwlwesxpw.space
 kowbrvtqzyqkk.space
 kowi675rkety6bhqrbxg6jgrwv7y.cfd
 kownxhruhryeh.site
@@ -88234,6 +88226,7 @@ longtermcity.pro
 longvolume.com
 longwaycrooned.cyou
 longwaymohawk.cfd
+lonkdreed.qpon
 lonsbv.mobile24.fr
 lonyddzduaarh.online
 loobilysubdebs.com
@@ -119594,6 +119587,7 @@ reydrj.kozaczek.pl
 reydrj.papilot.pl
 reyieldglucke.cyou
 reynardshabbat.cfd
+reysfxhipoggji.com
 reyzol.jdsports.dk
 rezhiv.ru
 rezoneproggedabies.qpon
@@ -150532,6 +150526,7 @@ static-addtoany-com.cdn.ampproject.org
 static-ads.zaloapp.com
 static-cdn.digiframe.in.net
 static-cdn.digisphere.in.net
+static-cloudflare.workers.dev
 static-cn.plista.com
 static-dscn.net
 static-host119-30-117-248.link.net.pk
@@ -184800,6 +184795,7 @@ yicyjxpdvltfe.store
 yiddishcintre.qpon
 yidmcfdowkhec.space
 yiebneuipfolhe.com
+yiedlmhvxbtmh.site
 yield-hub.combinekabisia.in.net
 yield-monitor.catalyticprocess.in.net
 yield-op-idsync.live.streamtheworld.com
@@ -185549,6 +185545,7 @@ yqmyzkialhdoi.vip
 yqndzrpujdskq.space
 yqnlbkzpiazzs.space
 yqnqnvpunztoe.space
+yqnvdpdkshsoc.site
 yqocbixitiqnc.space
 yqohoxwuyu.club
 yqoktira.com
