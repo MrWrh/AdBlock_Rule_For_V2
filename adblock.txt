@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-07-05 19:02:22
+# Generated on: 2026-07-05 20:42:44
 # Generated AdBlock rules
-# Total entries: 199225
+# Total entries: 199235
 
 0.avmarket.rs
 0.myikas.com
@@ -617,6 +617,7 @@
 13i466gp.shart303.com
 13js1lbtbj3.sparkloop.app
 13p76nnir.de
+14-0-204-188.static.pccw-hkt.com
 142644ec71.a61bc11442.com
 1437953666.rsc.cdn77.org
 144a54939d.com
@@ -1573,7 +1574,6 @@
 2rvmsbh4.bet303.download
 2rwonuh.com
 2s2enegt0.de
-2seguro2025.duckdns.org
 2smarttracker.com
 2spdo6g9h.de
 2t1ridv.logicbyte.lat
@@ -1877,6 +1877,7 @@
 39762581b7.com
 3989988.com
 3999f86b91.com
+39cif89o.rayegan.net
 39db8b138f.apps.iocnt.de
 39e6p9p7.de
 39grbc.jackbarber.co.uk
@@ -3236,6 +3237,7 @@
 6pctuhriw.com
 6ped2nd3yp.com
 6peiophcz6ccyfrw1tir9z.cfd
+6pyrumd5.ace90.casino
 6q77vsjez1.com
 6qhzzl.estonianscree.in.net
 6qif8ezfblui19ly77i3.cfd
@@ -3874,9 +3876,9 @@
 87uq.com
 87vq.rebutrew0rk.in.net
 87y8y1pz4o.com
-88.vv6666.top
 88.VV6666.top
 88.VV6666.TOP
+88.vv6666.top
 8800source.com
 882793fb7a.com
 883.engine.mobileapptracking.com
@@ -4432,6 +4434,7 @@
 9s34xd0g.rahnemayenegaresh.site
 9s4l9nik.de
 9sgsurs.vexon3ar.surf
+9sltd81l.ace90.games
 9smomo.com
 9soefyenw.com
 9swovqnp52.com
@@ -7090,7 +7093,6 @@ abdmhqftzxvbg.store
 abdpac.williamsshoes.com.au
 abdrjm.eurostarshotels.de
 abds.pingpingw.com
-abdulahad.net
 abedhoneycastle.com
 abedwest.com
 abeets.ru
@@ -7267,7 +7269,6 @@ absrywzhcedfx.website
 absscw.vegis.ro
 abstortvarna.com
 abstract-io.theorematicsphere.in.net
-abstract-io.theoreticvector.in.net
 abstract-io.theoriconhub.in.net
 abstract-io.theoristack.in.net
 abstract-log.theorexuslayer.in.net
@@ -10960,6 +10961,7 @@ ae5z56.red-sticker.in.net
 ae888.rlaza.com
 ae888.rlazan.com
 ae888vip.com
+ae97yns1.betiran.vip
 aeacusexpoundcolones.cyou
 aeafrkms.laveen.nl
 aeaklaujzvoos.site
@@ -13261,8 +13263,8 @@ ambe1-point.sasdherk.in.net
 ambe8-trace.buildingstab.in.net
 amber-fossil-mosquito.garden
 amber-mon.sylo6mer.in.net
-AMBER.CO
 Amber.co
+AMBER.CO
 amber.co
 ambercrow.com
 ambiciubzprxl.website
@@ -15303,7 +15305,6 @@ anthemportalcommence.com
 anthill.vn
 anti-adblock.herokuapp.com
 anti-node.dialecticalgrid.in.net
-anti-node.dialecticflux.in.net
 anti178.com
 anti261.top
 antiadblock.info
@@ -15325,6 +15326,7 @@ antiqueskinnyminute.com
 antirustexistingtaking.com
 antitracking.owncast.online
 antivi.xyz
+antiwargorgonseburine.cyou
 antlerlode.com
 antlermaze.com
 antlion.codivores.com
@@ -18329,7 +18331,6 @@ archipelagosaidpre.com
 architectmalicemossy.com
 architecturediscussdifferently.com
 archiv.promatis.de
-archive-hub.systematiclayer.in.net
 archive-hub.systemicitylayer.in.net
 archive-hub.systemologyhub.in.net
 archive.double-kick.co
@@ -21396,7 +21397,6 @@ base-extract.deductivegrid.in.net
 base-gate.gnoseonflux.in.net
 base-gate.gnosticvector.in.net
 base-logic.axiomaticsphere.in.net
-base-matrix.axiomaticgrid.in.net
 base-matrix.axiomatrix.in.net
 base-point.fastidmatrix.in.net
 base-point.ministobelisk.in.net
@@ -22261,7 +22261,6 @@ beijing.buzhi5.com
 beijingzhongnanhai.com
 being-log.ontofluxion.in.net
 being-node.ontologicalflux.in.net
-being-node.ontologicstream.in.net
 beipaizangyao.com
 beixisys.com
 beizi.biz
@@ -22560,8 +22559,8 @@ bestowmeasurement.com
 bestpush.pconline.com.cn
 bestrevenuenetwork.com
 bestrewdeplace.cfd
-Bestsgs.io
 bestsgs.io
+Bestsgs.io
 bestshoesboot.com
 bestsrv.de
 bestssrv.com
@@ -22601,8 +22600,8 @@ betellmacrli.cyou
 betemolgar.com
 beterrakionan.com
 betesknublitster.qpon
-Betexplc.com
 betexplc.com
+Betexplc.com
 betfairae.com
 betfairos.com
 betfairse.com
@@ -22919,6 +22918,7 @@ bhs4.com
 bhsohdcblqsnr.website
 bhsqojyjtucgq.site
 bhszasnoamoro.space
+bhtjokol.com
 bhtopapp.com
 bhuht.stackedskincare.com
 bhukrmnrxzcyd.space
@@ -26456,6 +26456,7 @@ bvkuwv.muumuu-domain.com
 bVKV.app
 bvkyog.melvin-hamilton.de
 bvl5bziz9d.ru
+bvlconyoly.com
 bvlpbn.goldenpark.es
 bvlpjsmfnlxlw.space
 bvmcdn.com
@@ -26772,6 +26773,7 @@ bzlwqtcygkijz.space
 bzmbrsm.com
 bzmde.maurices.com
 bzmhcaqwquzkj.website
+bzmkmgt.rayegan.net
 bznbiv.tejidoslav.com
 bzngye4l.proxy-orbit.digital
 bznwonawdxmhd.site
@@ -28754,7 +28756,6 @@ ccc.beijing28k.com
 ccc.sys.miui.com
 ccc354db8e.05cb34d5f9.com
 ccc9c93083.com
-cccimg.com
 cccpmo.com
 ccczmo.travelmarket.dk
 ccczqxl6.blackjackonlineplay83.com
@@ -29314,7 +29315,6 @@ cdnjs.mopair-erm.net
 cdnjs.z-face.cn
 cdnkimg.com
 cdnlibjs.com
-cdnlivechatinc.com
 cdnlog.zhenai.com
 cdnlogs.org
 cdnm.techpump.com
@@ -30373,6 +30373,7 @@ chnnlk.sinspot.co.kr
 chnonywbtn.com
 chnsrv.com
 chnuuee.xyz
+cho4uj96.bet303iran.org
 chocolateluciusfight.com
 chocolatine.apexlegendsstatus.com
 choconart.com
@@ -30643,9 +30644,9 @@ citiae.com
 citiaw.com
 citibh.com
 citics221.com
-Citigroup.BO
 Citigroup.Bo
 CitiGroup.BO
+Citigroup.BO
 citiservi.es
 citivay.org
 citizenagreementacting.com
@@ -34158,7 +34159,6 @@ core-apps.b-cdn.net
 core-cen-54.com
 core-gate.apotheosbring.in.net
 core-hub.systemoraengine.in.net
-core-logic.axiomaticgrid.in.net
 core-logic.axiomatrix.in.net
 core-logic.herbertrutt.work
 core-net.logicalfabric.in.net
@@ -36526,6 +36526,7 @@ cyummh.df-sportspecialist.it
 cyutuwsoxyjju.online
 cyvcz.am-autoparts.com
 cyvoxuwz778wnlj6cmm9k1un1m.cfd
+cyvvepo.90pishbini.com
 cyvxfq.jennikayne.com
 cyvzavjhmduqn.online
 cyxbmqbsncgll.site
@@ -36576,6 +36577,7 @@ cznon.disputepanda.com
 cznratophrtou.website
 cznzorthcvkvi.online
 czofrrdmzszbd.site
+czpcvew.bet1xiraq.com
 czpidg.unisportstore.fr
 czqvtn3elk64hq.rest
 czrlp.luxebouquet.com.au
@@ -43225,7 +43227,6 @@ debate-hub.dialectonforge.in.net
 debate-hub.dialectosphere.in.net
 debate-hub.dialectraforge.in.net
 debate-log.dialecticalgrid.in.net
-debate-log.dialecticflux.in.net
 debitcrebit669.com
 debjpy.globoshoes.com
 debojuagug1sf.cloudfront.net
@@ -45369,7 +45370,6 @@ dj.lgsmartad.com
 dj09j5u.cn
 dj2550.com
 djaczx9h.btyek.online
-djasdajnsdnjgjg.com
 djbgfit.com
 djbrsguqvbhmv.space
 djcjl.summitatsnoqualmie.com
@@ -45511,7 +45511,6 @@ dkzychtonrbwq.online
 dl-adx.op-mobile.opera.com
 dl-rms.com
 dl.1003b.56a.com
-dl.2345.com
 dl.4kporn.xxx
 dl.ameliationinc.com
 dl.amltion.com
@@ -46351,6 +46350,7 @@ dowm.geminil.vip
 down-playing-folder-seven-ue.courses
 down.21cnwork.top
 down.500ib.com
+down.54nb.com
 down.anyinglobal.com
 down.avabroker-tw.com
 down.b2c2t.top
@@ -48122,7 +48122,6 @@ e-digitsq.com
 e-digitsw.com
 e-digitsx.com
 e-generator.com
-e-ifanyi.com
 e-img.hover.to
 e-invoice-twca.com
 e-invoice-twcb.net
@@ -49312,6 +49311,7 @@ eduseio.com
 edutechlearners.com
 eduynp.fcl-hid.com
 edvaor.estro.ua
+edvdafc.prozhe.vip
 edvekzo.alohawatersports.com
 edvfwlacluo.com
 edw.edmunds.com
@@ -53030,7 +53030,6 @@ exintir.com
 exintor.com
 exintsr.com
 exist-api.ontologicalflux.in.net
-exist-api.ontologicstream.in.net
 existencemelting.com
 existencepawstest.com
 existences2.top
@@ -55219,7 +55218,6 @@ file-hub.systematrixflow.in.net
 file-list4.de4xpamil.in.net
 file-node.boredistascan.in.net
 file-save6.dex9taren.in.net
-file-stack.systematiclayer.in.net
 file-stack.systemicitylayer.in.net
 file-stack.systemologyhub.in.net
 file-store2.xyz
@@ -55233,6 +55231,7 @@ file.filebajar.com
 file.iporngay.com
 file.prime-media-gate.in.net
 file.rafflecreator.com
+file.uhsea.com
 file.weightsimple.com
 file1-raw.cloud-storage-unit.in.net
 file1-swap.travemox.in.net
@@ -55841,7 +55840,6 @@ fixatifslinger.com
 fixcounter.com
 fixdmatijr.in
 fixed-node.axiomorphengine.in.net
-fixed-point.axiomaticgrid.in.net
 fixed-point.axiomaticsphere.in.net
 fixed-point.axiomatrix.in.net
 fixedcage.com
@@ -56138,6 +56136,7 @@ flexorftes.com
 flexterkita.com
 fleysingers.cfd
 flfazfrdjpntc.website
+flflntsnkstie.online
 flfmmxdfhdisj.online
 flfsoqkileuin.website
 flgdaoepeuiqs.store
@@ -56318,6 +56317,7 @@ flowwiththetide.xyz
 floxical.com
 floxkzvxfdmnz.space
 flpfl.sokolovelaw.com
+flpquwu.enfejar-site.bet
 flpwto.lohaco.jp
 flqa83yic.com
 flqjc.wearmntd.ca
@@ -56351,6 +56351,7 @@ fls-na.amazon-adsystem.com
 fls-na.amazon.ca
 fls-na.amazon.com.br
 fls-na.amazon.com.mx
+flsbddxrhtufb.website
 flsfzr.cn
 flsjgpqtrtzhn.site
 flspf.mysupplementstore.com
@@ -57323,7 +57324,6 @@ fraikidyll.cyou
 frail-benefit.com
 frailfruit.com
 fram-branch.byerottin8.lat
-frame-api.theoreticvector.in.net
 frame-api.theoristack.in.net
 frame-build.structuralcore.in.net
 frame-hub.shapeprimrose.in.net
@@ -58233,8 +58233,8 @@ future-price.co.uk
 future.coniferhealth.com
 future.curlysecret.com
 future.lmstaeoiaes.com
-future.lmstaoes.com
 Future.lmstaoes.com
+future.lmstaoes.com
 future.lmsteames.com
 future.uwindsor.ca
 futureads.io
@@ -58273,6 +58273,7 @@ fuzzr.aroma360.es
 fuzzyaudio.com
 fuzzybasketball.com
 fuzzyerror.com
+fv5-5.files.fm
 fv9y4lpixpghw3757oq7.cfd
 fvahbwnlcqvaf.site
 fvalid.appsflyer.com
@@ -58329,6 +58330,7 @@ fwcavwstvmekw.online
 fwcvdfgoeayyo.site
 fwd-mtg.jobrad-loop.com
 fwepd.xyz
+fwfzomszkhywg.online
 fwgxxywastlyi.com
 fwhiygzlhmklt.website
 fwjtfo8f4z.com
@@ -58453,8 +58455,8 @@ fxpro11.com
 fxprofx211.com
 fxprofx221.com
 fxprofxn404.com
-FXPROTW.COM
 fxprotw.com
+FXPROTW.COM
 fxproxp11.com
 fxproxp26.com
 fxproxp888.com
@@ -58480,8 +58482,8 @@ fxtwer.com
 fxuenhhaucscs.online
 fxuzrinlbacql.site
 fxviersitw886.com
-fxview-tw.com
 Fxview-tw.com
+fxview-tw.com
 fxwklbyr.meadowprocessingframework.garden
 fxwlyddrjhupc.store
 fxxogvmdpnwgw.online
@@ -58543,6 +58545,7 @@ fyzlfpjn.chillblast.com
 fyzoqppdyllsr.store
 fyzzxb.chaisepro.fr
 fz.finmaxtw.com
+fz.tiansys.cn
 fz.tsm99.net
 fz55vq.site
 fz94px.site
@@ -58883,7 +58886,6 @@ galeasnair.cfd
 galei.financialcontrol.xyz
 galeindelicatedrove.com
 galeodvern.qpon
-galeri3.arkitera.com
 galerisenimutiara.com
 galesync7zone.tundraflowunit.garden
 galettevexedinguen.cfd
@@ -60445,6 +60447,7 @@ giaohangtietkiemvn.com
 giaohangtietkiemvn.website
 giaolrkihpcit.site
 giaothuongvietnhat.org
+giatbtvobyoka.online
 giaumusnsj.com
 giaythethaonuhcm.com
 gibbolheterosdiking.qpon
@@ -60980,7 +60983,6 @@ globalapi.ad.xiaomi.com
 globalbank.us
 globalbanking.wolterskluwer.com
 globalbronzeauction.com
-globalchat.site
 globalcolor-service-eu.allawnos.com
 globalcolor-service-in.allawnos.com
 globalcolor-service-sg.allawnos.com
@@ -66815,7 +66817,6 @@ guepardbosset.qpon
 guess-api.beckonuncert.in.net
 guess-node.inferencestream.in.net
 guess-node.inferentiaforge.in.net
-guess-node.inferentialcore.in.net
 guess.h.qhimg.com
 guessdetail.com
 guessrp50.com
@@ -68572,6 +68573,7 @@ hdlyfrxtnjpbc.site
 hdmory.bestwestern.it
 hdmxutcrtereb.online
 hdnagl.womensecret.com
+hdnlmwsibimqn.website
 hdnse.newtonbaby.com
 hdoditwa.xyz
 hdpaaaidikjlf.site
@@ -69415,7 +69417,6 @@ hinfogzi.sinful.no
 hinfogzi.sinful.se
 hingidnaa.com
 hint-api.inferencestream.in.net
-hint-api.inferentialcore.in.net
 hint-gate.inferentiaforge.in.net
 hint-node.beckonuncert.in.net
 hintbreakfastrather.com
@@ -69932,6 +69933,7 @@ hmufbqtreuybh.website
 hmvbmf.vidaxl.es
 hmvqj.mealprepify.com
 hmvuezvlrxygm.website
+hmwrabs.btyek.cfd
 hmxg5mhyx.com
 hmxoufchteecf.world
 hmxrqsqisg.com
@@ -72301,7 +72303,6 @@ iddu1vvb7sk8-a.akamaihd.net
 idea-vault.abstractlogic.in.net
 ideaedbecausefattier.cfd
 ideahealkeeper.com
-ideal-node.theoreticvector.in.net
 ideal-node.theoristack.in.net
 idealdiscussion.pro
 idealjav09212026.shop
@@ -72506,6 +72507,7 @@ ifcrepe.top
 ifctrx.com
 ifcubb.top
 ifdbdp.com
+ifdj62v9.thevallartasrestaurants.com
 ifdlcsfuafvst.store
 ifdnzact.com
 ifdtm.maglite.com
@@ -73540,6 +73542,7 @@ imaginarymankindname.com
 imaginationblush.com
 imaginative-hope.com
 imaginativebattle.com
+imaginativecity.pro
 imagine.ricoh.nl
 imaginemothcurved.com
 imagingkneelankiness.com
@@ -74168,7 +74171,6 @@ infectiousmedia.com
 infer-api.inferentrixhub.in.net
 infer-unit.inferencestream.in.net
 infer-unit.inferenciumgrid.in.net
-infer-unit.inferentialcore.in.net
 infer-unit.inferentialisflux.in.net
 inferbrevityoption.com
 infercrawfordpreponderant.com
@@ -77721,6 +77723,7 @@ jfebsbgifmdfu.space
 jfelljoqquoijo.com
 jfezwogpa.com
 jfffe1o97b.com
+jffl6ogj.bet1forward.com
 jfflkexhm2u4bfqubtzfbq.rest
 jfgvom.maatila.co.kr
 jfilter.popxml.com
@@ -78307,7 +78310,6 @@ jo9q3dhqf.com
 joannarace.com
 joanordeal.com
 job-offer6.vym7lixar.in.net
-job.recentbox.life
 job1-sync.office-task-sync.in.net
 job2-run.qul7vexar.in.net
 job4-task.pra6lixon.in.net
@@ -79472,6 +79474,7 @@ jyqekzzlmymab.top
 jyqkijp.icu
 jyqoncmjnooia.online
 jyrccx.audicus.com
+jyrighxw.prozhedownload.net
 jys.aixsshop.com
 jyshop66.com
 jyt58.top
@@ -81438,6 +81441,7 @@ kpnacrabkhcbq.site
 kpnbj.lensdirect.com
 kpncgrodbtxzi.online
 kpngcxgdpdfih.space
+kpnvsjbpwhtmj.online
 kpogse.icu
 kposzngwqknai.space
 kppgz.grandinroad.com
@@ -81968,6 +81972,7 @@ kwokhingtrade.com
 kwoptitn.restaurantguideaarhus.com
 kwpgeebopaqpn.site
 kwphbfgfhehbm.online
+kwqienen.btyek.christmas
 kwqpix.ravenna.gr
 kwrbryjcespcp.online
 kwrddjmdsbopl.site
@@ -82761,7 +82766,6 @@ lavishboot.com
 lavishtradeo.com
 lavnixo.cfd
 lavtcyojffug.com
-law-check.axiomaticgrid.in.net
 law-check.axiomaticsphere.in.net
 law-check.axiomatrix.in.net
 law-check.axiomorphengine.in.net
@@ -83126,7 +83130,6 @@ leabd.douguo.com
 lead-123.com
 lead-trace.inferencestream.in.net
 lead-trace.inferentiaforge.in.net
-lead-trace.inferentialcore.in.net
 lead.blackrock.com
 lead.im
 lead.umf.org.nz
@@ -83371,8 +83374,8 @@ lekven.jetcost.co.uk
 lel704cjev.com
 lelong.shop
 leluhrmmslpud.store
-lem-coin.com
 Lem-Coin.Com
+lem-coin.com
 lem.nouvelobs.com
 lemaneaflipe.cyou
 lembsmhpronni.website
@@ -83688,6 +83691,7 @@ lgproductstore.com
 lgqdkxtyx.com
 lgqpf.raybuck.com
 lgqzpmgtzvmij.website
+lgr.pages.dev
 lgrckt-in.com
 lgrkqwjehnas.com
 lgrxgaulgvgxy.website
@@ -83812,6 +83816,7 @@ liability48.top
 liabilitypillar.com
 liableyardcripple.com
 liadm.com
+liaisetoddle.qpon
 liaisonmonumentbreeding.com
 liambaaidenn.cyou
 liambafaying.com
@@ -84332,6 +84337,7 @@ lioneljoannes.qpon
 lionuniate.shop
 liosix.mtvuutiset.fi
 liosix.studio55.fi
+liozpftktplaw.space
 lipemiaaliptae.com
 lipideludo.cyou
 lipit.sandcloud.com
@@ -90217,7 +90223,6 @@ logic-unit.dialectrixengine.in.net
 logic-vault.inferencestream.in.net
 logic-vault.inferenciumgrid.in.net
 logic-vault.inferentiaforge.in.net
-logic-vault.inferentialcore.in.net
 logic-vault.noetisphere.in.net
 logic.archiv-checkered.surf
 logic.oceanstormview.lat
@@ -92855,6 +92860,7 @@ ma1n.quv7maren.in.net
 ma3ion.com
 ma3ukklt.riyaziyattajrobi.xyz
 ma897.top
+maabrgtemogqi.online
 maaiuh.tomorrowland.co.jp
 maalshoping.xyz
 mab-mob2.websearchapp.com
@@ -93310,6 +93316,7 @@ mammycocos.cyou
 mamsellrod.qpon
 mamun.bikroycenter365.com
 mamydirect.com
+man745va.takbetkade.com
 manage.admozartexchange.com
 manage.com
 manage.nortrez.com
@@ -93405,7 +93412,6 @@ map-entry.herbertrutt.work
 map-log.ontoversegrid.in.net
 map-node.desertpract.in.net
 map-node.theorematicsphere.in.net
-map-project.theoreticvector.in.net
 map-project.theoristack.in.net
 map-route.fariseietogo.in.net
 map-s.online
@@ -96451,6 +96457,7 @@ mehedi.amamfashion.net
 mehedi.electrohubemart.com
 mehedi.iback-bd.com
 mehedi.muqarraboon.com
+mehpuqa.ac90bet.org
 mehqj.spartan.com
 mei4grw5jgei7yhvkviw8e6bonzc.cfd
 meibjonjgxjqb.store
@@ -96758,7 +96765,6 @@ mesh-api.epistemiconflux.in.net
 mesh-node.shapeprimrose.in.net
 mesh-point.epistematrix.in.net
 mesh-router.logicalfabric.in.net
-mesh-static.axiomaticgrid.in.net
 mesh-static.axiomatrix.in.net
 mesh-static.fastidmatrix.in.net
 meshesvoter.qpon
@@ -96883,8 +96889,8 @@ metaapi.estudioabrassear.com.br
 metab0ts.click
 metabatted.com
 metabit.metbito.com
-metabit30.mettbit.com
 MetaBit30.mettbit.com
+metabit30.mettbit.com
 metabit52.metbito.com
 metabit58.metbito.com
 metabit70.metbito.com
@@ -99393,7 +99399,6 @@ minimomo.club
 minimomo.fun
 minimumomnipotentintern.com
 minimumshortest.com
-mininews.kpzip.com
 mining2022.pro
 miningdeveloping.com
 minireklam.com
@@ -100438,7 +100443,6 @@ mode.urbanflowbase.lat
 modecleaning.com
 model-api.theorexuslayer.in.net
 model-check.abstractlogic.in.net
-model-check.theoreticvector.in.net
 model-check.theoriconhub.in.net
 model-check.theoristack.in.net
 model-node.theorivector.in.net
@@ -101075,7 +101079,6 @@ motif4-vector.qiv2moren.in.net
 motifmunsee.cyou
 motifroy.gabard-viewed.surf
 motion-svc.dialecticalgrid.in.net
-motion-svc.dialecticflux.in.net
 motion.inmotionmktg.com
 motion.kollmorgen.com
 motionarray.net
@@ -102920,8 +102923,8 @@ n.hzhfhkj.cn
 n.juhuasuanguanwang.cn
 n.kasnsnss.com
 n.kettenbach-immobilien.de
-n.kinvestops.com
 N.kinvestops.com
+n.kinvestops.com
 n.knuffelwuff.fr
 n.lexusfinancial.com
 n.merrylants.com
@@ -105380,6 +105383,7 @@ nlpd.vaudvins.ch
 nlpnh.superiorseating.com
 nlsgostuanbpy.website
 nlsmhyylwozop.site
+nlthaiu88.com
 nltihf.fashiondays.ro
 nltui.eflownutrition.com
 nltzqx.autodoc.co.uk
@@ -108051,7 +108055,6 @@ ok-dtpnew.cyou
 ok-ru-photo6.live
 ok-scft.com
 ok-server.co.il
-ok-vsefotki.online
 ok.fapnow.xxx
 ok.i9cneuc.com
 ok.transhero.com
@@ -108144,6 +108147,7 @@ oktmwddlpisrn.site
 oktopost.com
 oktqqjqltnkiv.site
 oktranhfyfa.com
+oktwulwuvamp.in
 oku2545152bt1e33f3v6e9tvknj.rest
 okueroskynt.com
 okuiwrsf.prozhedownload.com
@@ -109472,7 +109476,6 @@ ordbng.extra.com.br
 ordboqtd.com
 ordenerastergasman.cyou
 order-api.systematrixflow.in.net
-order-logic.systematiclayer.in.net
 order-logic.systemologyhub.in.net
 order-node.axiomaticsphere.in.net
 order-status1.lax8dorim.in.net
@@ -109932,8 +109935,8 @@ ouchruse.com
 ouchvibration.com
 oucouksirt.com
 oucpambrmtexm.online
-oud.genesbo.com
 OUD.genesbo.com
+oud.genesbo.com
 oudjmuimzsshw.space
 oudw850vbx.com
 oueia.xyz
@@ -111143,7 +111146,6 @@ papaya.kleokolor.com
 papayads.net
 papelonkokoona.com
 papemz.rcwilley.com
-paper.recentbox.life
 papereruption.com
 paperestop.qpon
 paperfoldercenter.com
@@ -114643,6 +114645,7 @@ pnq.babcoxmediainc.com
 pnqptxkdxkhff.site
 pnrbvdqxrqlfp.club
 pnrt-stsdk.vivoglobal.com
+pns.org.pk
 pnsmbazkcydwd.site
 pnsqsv.com
 pntbrs.reflectwindow.com
@@ -116989,7 +116992,6 @@ pub-3d10bad2840341eaa1c7e39b09958b46.r2.dev
 pub-3eb258fc94fd47cd88d3b4950dd66492.r2.dev
 pub-3f298b361d774ae0a68be902f3ed9d89.r2.dev
 pub-41eee9d53a324f038367d5d36f45d18b.r2.dev
-pub-429e5192f69c4021acef9add7ed1790a.r2.dev
 pub-45a83f302a1943ed8d62418c2af947ef.r2.dev
 pub-493b0aca469342c292decf02cdb24f6d.r2.dev
 pub-56fcfc5f11f04341a91be50cb1de6a47.r2.dev
@@ -117810,6 +117812,7 @@ pzfov.salomon.com
 pzgignprvvgvn.space
 pzhrcssjaridu.website
 pzifsf.th-agent.jp
+pzioeui.bet303.poker
 pziqf.blackovis.com
 pzjhx.bauhaus.dk
 pzjizsyf.icu
@@ -118617,6 +118620,7 @@ qljbncscqxlez.online
 qljiop.allabout.co.jp
 qljmj.westandwillow.com
 qljytcmigkfxc.website
+qlkmasrw.com
 qlkysc.icu
 qll4p9fw.one1xiran.bet
 qllxvh.shopstyle.com
@@ -119080,6 +119084,7 @@ qslhdidxkazlzuuelsz.top
 qsmqv.haydenbjewelry.com
 qsne.cn
 qsnovga.intelect.gr
+qsnvmsy.jetbet90.ai
 qsocxhfdopwj.com
 qsodssvqzzpoi.site
 qsrdqwujtvxcf.vip
@@ -120307,7 +120312,6 @@ rangergustav.com
 rangerpursuedasia.qpon
 rangeyfrapler.cfd
 ranidaelater.qpon
-rank-index.systematiclayer.in.net
 rank-index.systemicitylayer.in.net
 rank-index.systemologyhub.in.net
 rank-log.systematrixhub.in.net
@@ -120878,7 +120882,6 @@ real-fact3.qi8maren.in.net
 real-feedback.toros.daum.net
 real-io.ontofluxion.in.net
 real-time-io.ontologicalflux.in.net
-real-time-io.ontologicstream.in.net
 real.delovoemesto.ru
 realbig.media
 realclick.co.kr
@@ -122846,6 +122849,7 @@ rjxujpuoxmtlr.website
 rjxvff.icu
 rjyicrrqyixef.website
 rjyplxhvlvd.com
+rjz8h1gokeiebhzkqtte1b.rest
 rjzbvmbybvokw.top
 rjzccaeepyohb.website
 rjzkulworyqil.space
@@ -123577,7 +123581,6 @@ royalcare-sy.com
 royalcount.de
 royalemb.con9uerbunker.in.net
 royalespring.com
-royalindiancurryclub.com
 royalone.site
 royalsbagels.com
 royalshop2021.shop
@@ -124691,7 +124694,6 @@ rule-engine.logicstream.in.net
 rule-engine.metalogicstream.in.net
 rule-monitor.methodicstream.in.net
 rule-node.systemoraengine.in.net
-rule-set.axiomaticgrid.in.net
 rule-set.axiomatrix.in.net
 rule-svc.axiomorphengine.in.net
 ruleduk.com
@@ -127466,7 +127468,6 @@ scadobe.bccard.com
 scadobe.ohpointcard.com
 scadobe.vpay.co.kr
 scafer.ru
-scainseto.com.br
 scakuvap.com
 scaldsheetdeterrent.com
 scaldverse.shop
@@ -134640,7 +134641,6 @@ shift-node.axiomatrixflow.in.net
 shift-node.gnoseonflux.in.net
 shift-node.ontofluxion.in.net
 shift-point.dialecticalgrid.in.net
-shift-point.dialecticflux.in.net
 shift-svc.dynamismjuply.in.net
 shift-svc.epistemiconflux.in.net
 shift.casino-fascin.surf
@@ -140856,8 +140856,8 @@ snipconcher.cfd
 snipe.mfaber.at
 snipe.mizzuu.co
 snipedsyud.qpon
-Sniper.fujibee777.com
 sniper.fujibee777.com
+Sniper.fujibee777.com
 sniperlog.ru
 snipersex.com
 sniphub.com
@@ -141123,6 +141123,7 @@ softclick.com.br
 softcloudtrail.com
 softdl.360tpcdn.com
 softdl2.360tpcdn.com
+softdl4.360.cn
 softdrinks.euvou.events
 softenedimmortalityprocedure.com
 softensdarkest.cfd
@@ -141736,7 +141737,6 @@ soupack.handker-unicamer.surf
 soupystick.pro
 source-66584305d5.mainpost.de
 source-data.ontologicalflux.in.net
-source-data.ontologicstream.in.net
 source-ed91a21bf0.dastelefonbuch.de
 source-hub.gnoseologiccore.in.net
 source.advisible.com
@@ -141982,7 +141982,6 @@ space-gate.ontoversegrid.in.net
 space-gate.theorivector.in.net
 space-link.de
 space-node.theorexuslayer.in.net
-space-time.theoreticvector.in.net
 space-time.theoristack.in.net
 space-travel1.blasph-nimalo.in.net
 space-unit.theorematicsphere.in.net
@@ -153105,6 +153104,7 @@ static.hvgrt.hu
 static.hyprmx.com
 static.i-bidder.com
 static.ichehome.com
+static.ilclock.com
 static.imagineobx.com
 static.imprexis.biz
 static.infinety.hu
@@ -154622,6 +154622,7 @@ steamcommun1lty.com
 steamcommunllty.com
 steamers77.com
 steampunkaeronautics.garden
+steamrub.com
 steamtraffic.com
 steamunlocked.one
 steeksniffy.cfd
@@ -154673,7 +154674,6 @@ step-api.inferentialisflux.in.net
 step-check.dialectonforge.in.net
 step-check.logicstream.in.net
 step-io.naminkaprocess.in.net
-step-monitor.systematiclayer.in.net
 step-monitor.systemologyhub.in.net
 step-node.choreograpshrew.in.net
 step-node.goodtwain.in.net
@@ -154682,7 +154682,6 @@ step-sync.methodicstream.in.net
 step-wise.inferencestream.in.net
 step-wise.inferenciumgrid.in.net
 step-wise.inferentiaforge.in.net
-step-wise.inferentialcore.in.net
 step.vrsn.co
 step1-item.krynexor.in.net
 step1taskhub.vectorpathsys.bet
@@ -157285,7 +157284,6 @@ synth-io.dialectonforge.in.net
 synth-logic.dialectrixengine.in.net
 synth-node.dialectraforge.in.net
 synth-portal.dialecticalgrid.in.net
-synth-portal.dialecticflux.in.net
 synthasite.net
 synthes.vo.llnwd.net
 synthesissocietysplitting.com
@@ -160605,6 +160603,7 @@ teetusee.xyz
 teewunsvdpwcs.online
 teflonmalie.com
 tegbxmn.betebetwin.com
+tegmentlettrinclue.cfd
 tehmb.etrendygo.com
 tehnomag.rs
 teho.visma.fi
@@ -161482,7 +161481,6 @@ theshopee5.shop
 thesis-log.dialectonforge.in.net
 thesis-log.dialectosphere.in.net
 thesis-sync.dialecticalgrid.in.net
-thesis-sync.dialecticflux.in.net
 thesis-vault.dialectraforge.in.net
 thesis08062025.shop
 thesisadornpathetic.com
@@ -163437,7 +163435,6 @@ top.hsdn.org
 top.iibahmd.cn
 top.list.ru
 top.nydus.org
-top.recentbox.life
 top.skyzone.ro
 top.t-sk.ru
 top.tncn.club
@@ -169413,6 +169410,7 @@ ttg.tocexai.com
 ttgfvj.bovla7xel.in.net
 ttgmjfgldgv9ed10.com
 ttgrs.manumatters.com
+tthbmmcd.fidoubet.com
 tthelitnfv.com
 tthqh657vbfwtk.rest
 tthrirgud.com
@@ -170531,6 +170529,7 @@ tzmupfzuwoqtl.space
 tznvsmuylzbfl.website
 tzovkp.aboutyou.at
 tzp61mplc.com
+tzpfztp.90bet.org
 tzpiz.racecraftaus.com
 tzqdeqmlxhinp.site
 tzqip.thevinessupply.co
@@ -172714,6 +172713,7 @@ us.zapcoinov.top
 us.zapcoinova.vip
 us.zebracoinplu.vip
 us04logfiles.zoom.us
+us5fm2lg.ace90bet.bet
 usa.genesk.com
 usa.geneskkye.com
 usa.genesryktaes.com
@@ -173714,6 +173714,7 @@ uvhrjgnstmxxz.space
 uviemx.holmibolt.hu
 uvj2.com
 uvjjqd.franssen-loisirs.fr
+uvjkxyc.ac90bet.net
 uvjthr.impericon.com
 uvkqyxjdiswkt.site
 uvley.nexa2vor.lat
@@ -174791,6 +174792,7 @@ vcpjof.celio.com
 vcpljt1i1hk1jrpg.cfd
 vcpxqngfyulqg.website
 vcqzjs.com
+vcrjfnwa.ketab.blog
 vcrvd.hollywoodmirrors.co.uk
 vcs168.superstarworker.com
 vcsa.sildegra.site
@@ -178435,6 +178437,7 @@ wagonsummi.7lorexan.surf
 wagsad.com
 wagsransel.shop
 wagwylawqmhg.com
+wagxbxx.ac90bet.net
 wagzqhq.cn
 wahid.elementorit.com
 wahoha.com
@@ -180376,6 +180379,7 @@ wgvyey.butor1.hu
 wgyapq.stormberg.com
 wgzaprexwmzki.site
 wgzgarcunfpjq.space
+wgzgqfep.bingobet.pro
 wgztae.audials.com
 wgzufvo.volleyball.casino
 wgzvgk.rbacoleccionables.com
@@ -180909,6 +180913,7 @@ windfallleavebrawl.com
 windharbor.1zarelin.lat
 windilyholked.cfd
 windingnegotiation.com
+windomstatetheater.com
 windows-pro.net
 windowscurlytrials.com
 windowsvow.com
@@ -188491,8 +188496,8 @@ www.pendlequi.com
 www.pendletqz.com
 www.pepeglobalone.com
 www.pepperst-one.cc
-WWW.pepperstonecrm.com
 www.pepperstonecrm.com
+WWW.pepperstonecrm.com
 www.pepperstonecrmb.com
 www.pepperstonedcrm.com
 www.peppvipweb.com
@@ -189930,8 +189935,8 @@ www.teafierc.com
 www.teafinace.com
 www.teamway.com
 www.teaofpuer.live
-www.teapuer.online
 WWW.teapuer.online
+www.teapuer.online
 www.tebbitdhu.com
 www.tebbitgye.com
 www.tebbitjdw.com
@@ -193030,6 +193035,7 @@ xjmrl.wlwyb.com
 xjmzl07n.habe7dpermanent.in.net
 xjnmjwssymtwp.site
 xjnorrmf.through7esid.in.net
+xjnueiii85kguhnrzpz3.cfd
 xjoipse.vivarawpets.com
 xjoiteee8.com
 xjoqmy.tuifly.be
@@ -193230,6 +193236,7 @@ xmcoepzjqqmak.site
 xmcvqq.pinkpanda.ro
 xmekxlhqdcqbj.site
 xmemory.ru
+xmevvdl.ac90bet.com
 xmfugv.tgn.co.jp
 xmgi1tqka.com
 xmglobalvip.com
@@ -196796,6 +196803,7 @@ yyjvimo.com
 yyjxv.godisdope.com
 yykjgou.com
 yylady.cn
+yylcnvu.90jet.pro
 yylqlk.agatinsvet.cz
 yymcmy.com
 yymybiufjvunbmr.com
@@ -196904,8 +196912,8 @@ z.cdn.adpool.bet
 z.cdn.braun634.com
 z.cdn.protect-ad.com
 Z.COM
-z.com
 Z.com
+z.com
 z.grfyw.com
 z.jjbuttercup.com
 z.nowscore.com
@@ -198103,6 +198111,7 @@ zjfowaspawuza.store
 zjfsjzzquhdcw.online
 zjfvpv.serengeticatalog.com
 zjfxfoev.1xbitkade.com
+zjfzifr.psd.markets
 zjgfq.com
 zjhbvqq.wlwyb.com
 zjhswy.comeup.com.tr
@@ -199085,6 +199094,7 @@ zxvhxdpyordan.store
 zxvklz.icu
 zxvxukirgmomz.site
 zxvy.diet-lanolin.in.net
+zxvzlnh.ketab.computer
 zxw-tw.cn
 zxwfcwm.icu
 zxwnlg.com
