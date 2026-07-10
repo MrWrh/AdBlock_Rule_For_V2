@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-07-11 02:48:11
+# Generated on: 2026-07-11 04:19:42
 # Generated AdBlock rules
-# Total entries: 199331
+# Total entries: 199333
 
 0.avmarket.rs
 0.myikas.com
@@ -3903,9 +3903,9 @@
 87uq.com
 87vq.rebutrew0rk.in.net
 87y8y1pz4o.com
-88.VV6666.TOP
 88.vv6666.top
 88.VV6666.top
+88.VV6666.TOP
 8800source.com
 882793fb7a.com
 883.engine.mobileapptracking.com
@@ -7988,6 +7988,8 @@ ad-creatives-public.commondatastorage.googleapis.com
 ad-delivery.net
 ad-display.diwodiwo.xyz
 ad-display.wikawika.xyz
+ad-drcn.media.dbankcloud.cn
+ad-drcn.media.dbankcloud.ru
 ad-drop.jp
 ad-ebis.bookpass.auone.jp
 ad-ebis.mynavi-job20s.jp
@@ -13331,9 +13333,9 @@ ambassadors.guideandgrow.com
 ambe1-point.sasdherk.in.net
 amber-fossil-mosquito.garden
 amber-mon.sylo6mer.in.net
-amber.co
 AMBER.CO
 Amber.co
+amber.co
 ambercrow.com
 ambiciubzprxl.website
 ambient-platform.com
@@ -22670,8 +22672,8 @@ betellmacrli.cyou
 betemolgar.com
 beterrakionan.com
 betesknublitster.qpon
-betexplc.com
 Betexplc.com
+betexplc.com
 betfairae.com
 betfairos.com
 betfairse.com
@@ -30717,9 +30719,9 @@ citiae.com
 citiaw.com
 citibh.com
 citics221.com
-Citigroup.Bo
-Citigroup.BO
 CitiGroup.BO
+Citigroup.BO
+Citigroup.Bo
 citiservi.es
 citivay.org
 citizenagreementacting.com
@@ -35460,8 +35462,8 @@ crypto-o.click
 crypto-scwallets.com
 crypto-scwalletx.com
 crypto-world.ink
-Crypto.com
 crypto.com
+Crypto.com
 crypto.lion.expert
 crypto.lion.institute
 crypto.lion.training
@@ -58567,8 +58569,8 @@ fxpro11.com
 fxprofx211.com
 fxprofx221.com
 fxprofxn404.com
-FXPROTW.COM
 fxprotw.com
+FXPROTW.COM
 fxproxp11.com
 fxproxp26.com
 fxproxp888.com
@@ -97009,8 +97011,8 @@ metaapi.estudioabrassear.com.br
 metab0ts.click
 metabatted.com
 metabit.metbito.com
-MetaBit30.mettbit.com
 metabit30.mettbit.com
+MetaBit30.mettbit.com
 metabit52.metbito.com
 metabit58.metbito.com
 metabit70.metbito.com
@@ -103048,8 +103050,8 @@ n.hzhfhkj.cn
 n.juhuasuanguanwang.cn
 n.kasnsnss.com
 n.kettenbach-immobilien.de
-N.kinvestops.com
 n.kinvestops.com
+N.kinvestops.com
 n.knuffelwuff.fr
 n.lexusfinancial.com
 n.merrylants.com
@@ -141000,8 +141002,8 @@ snipconcher.cfd
 snipe.mfaber.at
 snipe.mizzuu.co
 snipedsyud.qpon
-sniper.fujibee777.com
 Sniper.fujibee777.com
+sniper.fujibee777.com
 sniperlog.ru
 snipersex.com
 sniphub.com
@@ -188558,8 +188560,8 @@ www.pendlequi.com
 www.pendletqz.com
 www.pepeglobalone.com
 www.pepperst-one.cc
-www.pepperstonecrm.com
 WWW.pepperstonecrm.com
+www.pepperstonecrm.com
 www.pepperstonecrmb.com
 www.pepperstonedcrm.com
 www.peppvipweb.com
@@ -188836,8 +188838,8 @@ www.qh625.tw
 www.qhdbsd.com
 www.qhdjffhgh.com
 www.qhfbdh.com
-WWW.qhfjdkg.com
 www.qhfjdkg.com
+WWW.qhfjdkg.com
 www.qiaoanjin886.top
 www.qidjas.com
 www.qieyruy.com
