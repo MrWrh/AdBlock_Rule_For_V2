@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-07-31 14:32:17
+# Generated on: 2026-07-31 17:29:51
 # Generated AdBlock rules
-# Total entries: 201776
+# Total entries: 201809
 
 0.avmarket.rs
 0.myikas.com
@@ -3902,9 +3902,9 @@
 87uq.com
 87zfpymtrwzijl.rest
 88.212.109.208.host.secureserver.net
-88.VV6666.top
-88.vv6666.top
 88.VV6666.TOP
+88.vv6666.top
+88.VV6666.top
 8800source.com
 882793fb7a.com
 883.engine.mobileapptracking.com
@@ -4387,6 +4387,7 @@
 9db168b3bd.com
 9db4da6d9f.30c69e6975.com
 9dca841dfa.com
+9dd7d84e00.com
 9dehzr5d2i.com
 9dl3w12u5.com
 9dmnv9z0gtoh.com
@@ -9861,6 +9862,7 @@ ads-sdk.nianticlabs.com
 ads-segment-profile-noneu.truecaller.com
 ads-server.mxplay.com
 ads-service.api.linkme.global
+ads-service.tiktok.com
 ads-setu-proxy-eu.amazon.com
 ads-setu-proxy-fe.amazon.com
 ads-setu-proxy.amazon.com
@@ -13530,8 +13532,8 @@ ambassadors.childhoodpotential.com
 ambassadors.guideandgrow.com
 amber-fossil-mosquito.garden
 amber.co
-AMBER.CO
 Amber.co
+AMBER.CO
 ambercrow.com
 ambiciubzprxl.website
 ambient-platform.com
@@ -22060,6 +22062,7 @@ bcttnun.com
 bctuafpdwarbm.site
 bctyeythbiuiq.site
 bcvc.mobi
+bcvxynjpdtrcc.space
 bcwcoin.com
 bcwjqztpkeeop68n5me9q44m5vog3l.cfd
 bcwkesayq.defamogadas.xyz
@@ -28671,6 +28674,7 @@ caribbuboes.cyou
 caribou.mcgregorpublishing.com
 caricatureboretangle.com
 carinasascitic.qpon
+carinassyrus.qpon
 caringcast.com
 caringpast.com
 cariouscannedroman.com
@@ -29998,6 +30002,7 @@ ceeyuofq.com
 cefazaaycjdqi.store
 ceget.xyz
 ceggfe.msc-kreuzfahrten.de
+cegwdxrlymdbm.space
 ceh.cehbh.com
 cehamilton.com
 cehb1d1lsm.com
@@ -31130,8 +31135,8 @@ citiae.com
 citiaw.com
 citibh.com
 citics221.com
-Citigroup.BO
 CitiGroup.BO
+Citigroup.BO
 Citigroup.Bo
 citiservi.es
 citivay.org
@@ -32923,8 +32928,8 @@ coinftw.com
 coinftwis.com
 coinftws.com
 coinftwvip.com
-Coingroup.BO
 COINGROUP.BO
+Coingroup.BO
 coingtp.top
 coinha.leyiu.com
 coinhakobb.com
@@ -43711,6 +43716,7 @@ dealtoneoddly.com
 dealwhole.xyz
 deamed.cc
 deameg.cc
+deaningpassecanamo.qpon
 deapi.nestads.com
 deapi.sooplive.com
 dear-soil.com
@@ -49567,6 +49573,7 @@ ecef83eaa0.com
 ecefyu.geox.com
 ecg21n9t8d.com
 echallan-traffic.live
+echardsvirosis.shop
 echarglyn.shop
 echidna.hellotomorrow.agency
 echidna.honeybadger.io
@@ -57600,6 +57607,7 @@ fopperylockful.qpon
 foppingnimsfatuism.cfd
 fopxicajsprkh.site
 foqovv.h13lakopark.hu
+foragedaccuser.cyou
 foramphots.cyou
 forayedfratry.shop
 forbearphysics.com
@@ -58081,6 +58089,7 @@ fqhbmwgaeisiz.website
 fqhtu.theyamazakihome.com
 fqhucslrtysrl.site
 fqhueanslwpyi.site
+fqiaizkfzuqgs.online
 fqibwvatzzcdj.space
 fqjgn.etrgovinca.sk
 fqjxmzlhmfmuk.online
@@ -59307,8 +59316,8 @@ fxpro11.com
 fxprofx211.com
 fxprofx221.com
 fxprofxn404.com
-fxprotw.com
 FXPROTW.COM
+fxprotw.com
 fxproxp11.com
 fxproxp26.com
 fxproxp888.com
@@ -59335,8 +59344,8 @@ fxtwer.com
 fxuenhhaucscs.online
 fxuzrinlbacql.site
 fxviersitw886.com
-fxview-tw.com
 Fxview-tw.com
+fxview-tw.com
 fxwklbyr.meadowprocessingframework.garden
 fxwlyddrjhupc.store
 fxxogvmdpnwgw.online
@@ -59440,6 +59449,7 @@ fzip.thanhnien.vn
 fziydh0npy.com
 fzju14tzv7z12gq2cf7gve3ij1m58.cfd
 fzkx5dg3.estekhdam.online
+fzkxfgpwfmafd.space
 fzlbvs.schuhe24.de
 fzlpixsrxtixp.site
 fzltkaptycrlv.website
@@ -72329,6 +72339,7 @@ hvpho.visszateritok.hu
 hvpieoqfwvxlx.site
 hvpojkilqqykq.website
 hvqndbbmvbcrc.online
+hvqnfgvusjsnc.space
 hvqwjvoisrnhx.website
 hvqxbpp.hesabdari2.xyz
 hvqyf.cn
@@ -75162,6 +75173,7 @@ inextlink.com
 inf.miui.com
 inf.wqa.ru
 infameeagled.com
+infamous-growth.pro
 infamousstream.com
 infantaslaw.cyou
 infantilecombination.com
@@ -81664,6 +81676,7 @@ kghzmesashlfi.space
 kgi2.vip
 kgihdv57il.com
 kgimudenwjylc.website
+kgioxibrrjqep.online
 kgiqptmzhkidx.website
 kgjks.rails.com
 kgkmt.ticketrivals.com
@@ -83192,6 +83205,7 @@ kuskuspolje.qpon
 kustiforwarn.qpon
 kuti8iar.xyz
 kutoken.io
+kutsidsan.in
 kuuag.emango.it
 kuurza.com
 kuusay.yalispor.com.tr
@@ -84767,8 +84781,8 @@ lekven.jetcost.co.uk
 lel704cjev.com
 lelong.shop
 leluhrmmslpud.store
-lem-coin.com
 Lem-Coin.Com
+lem-coin.com
 lem.nouvelobs.com
 lemaneaflipe.cyou
 lembsmhpronni.website
@@ -85130,6 +85144,7 @@ lgunuddjobkyl.online
 lguplus.goldenplanet.co.kr
 lgupyhmwrglwg.space
 lguteecbqzqln.site
+lguuvbpnyijxu.online
 lguvihbqjegvi.website
 lgvgtl.terrashop.de
 lgvlbd.icu
@@ -86404,6 +86419,7 @@ lnysqawivggyf.online
 lnyupxlxqv.com
 lnzitobjnmskk.space
 lnzjlr.xyz
+lnzphfagyhpxi.space
 lnzrsafk.space-suitcases.com
 lnzsinagpafgv.website
 lo.dama582.com
@@ -92363,6 +92379,7 @@ lpdbca.internetaptieka.lv
 lpelu.fluxfootwear.com
 lpeolfa.top
 lpfvuqqyplupy.site
+lpfwocjuxhbxo.space
 lpgouuzcqcfjz.site
 lpgt.cidavalcanaia.com.br
 lphm.ritmosaudavel360.com
@@ -92615,6 +92632,7 @@ lsv5.belambra.fr
 lsvard.e-kinoshita.net
 lsvfzskgudyyr.site
 lsvipeg.cc
+lsvvccoqwylrg.website
 lswdjtngkdhbe.website
 lswfmx.stuartweitzman.com
 lswteiiyfccwt.site
@@ -98260,8 +98278,8 @@ metaapi.estudioabrassear.com.br
 metab0ts.click
 metabatted.com
 metabit.metbito.com
-metabit30.mettbit.com
 MetaBit30.mettbit.com
+metabit30.mettbit.com
 metabit52.metbito.com
 metabit58.metbito.com
 metabit70.metbito.com
@@ -103094,7 +103112,6 @@ mssdk.us.tiktok.com
 mssdk.us.tiktokv.com
 mssdk.volces.com
 mssdk.zijieapi.com
-mssdk16-normal-no1a.tiktokvapp.eu
 mssdk16-normal-sg.capcutapi.com
 mssdk16-normal-us-ttp.capcutapi.us
 mssdk16-normal-useastred.tiktokw.eu
@@ -106642,6 +106659,7 @@ nisosznd.jadoobet.club
 nissifresh.com
 nitafu.click
 nitencymaracarammy.cyou
+nitgurging.cfd
 nithisp.cn
 nithyshipsi.com
 nitliy.topticketshop.nl
@@ -107935,6 +107953,7 @@ nuayrztxdbfem.site
 nubap.buffalojeans.com
 nubbierfecit.cyou
 nubumwpmqpslh.website
+nucelliscreaky.qpon
 nucgsx.indestructibleshoes.com
 nuclearads.com
 nucleinhoopedazotes.cfd
@@ -109180,6 +109199,7 @@ offhandyonkers.qpon
 office-events-data.trafficmanager.net
 office.ad1.ru
 officecornsoftware.com
+officehub.nel.measure.office.net.cardano.com
 officeklafter.com
 officerpersonalimmersed.com
 officestylist.com
@@ -113529,6 +113549,7 @@ paslsa.com
 pass-1234.com
 passendo.com
 passengercomprehend.com
+passersspiered.qpon
 passeura.com
 passfixx.com
 passingcounselrueful.com
@@ -116726,6 +116747,7 @@ popxyz.com
 poqiod.com
 poqjnkdsou.net
 poqup.com
+poqwepljjnepo.online
 poqwnllkm.com
 poqwua.cn
 porchadvertise.com
@@ -125025,6 +125047,7 @@ robbbinhodd.com
 robbdowtndoib.website
 robberrelative.com
 robberyfilcheurope.com
+robbqjyn.com
 robe-denyharm.xyz
 robeheadlong.com
 robertrowe.com
@@ -129141,8 +129164,8 @@ savatehaffet.cfd
 save.accesspay.com.au
 save.salary.com.au
 save.smartsalary.com.au
-Savegas.AI
 savegas.ai
+Savegas.AI
 saversludgesauter.cyou
 saveterracehangnail.com
 saveu5-normal-lq.zijieapi.com
@@ -129819,6 +129842,7 @@ sculptorhomeworkpersecute.com
 scultcarrell.qpon
 scupio.com
 scupio.net
+scurdycoercessago.cfd
 scurra.space
 scurrypaleron.click
 scutesetherol.cfd
@@ -130732,6 +130756,7 @@ sendovn.shop
 sendtraffic.com
 sendwebpush.com
 sendword.ir
+senegalimproof.cfd
 seneptm.eposcard.co.jp
 sengimirexes.shop
 senhorcoost.com
@@ -136470,6 +136495,7 @@ shavingwitchcraft.com
 shawmrebind.shop
 shawon.kitchenbazarbd.com
 shawon1.kitchenbazarbd.com
+shawskinboteembolon.cyou
 shazzat.prinush.com
 shb8-vay.com
 shbcredit.net
@@ -137626,6 +137652,7 @@ signifyd.com
 signin.authen-connexion.info
 signingunwilling.com
 signingvehemenceraffle.com
+signmanswitzer.qpon
 signorafusel.qpon
 signumvampingtiptoes.cyou
 signup-way.com
@@ -142774,8 +142801,8 @@ snipconcher.cfd
 snipe.mfaber.at
 snipe.mizzuu.co
 snipedsyud.qpon
-Sniper.fujibee777.com
 sniper.fujibee777.com
+Sniper.fujibee777.com
 sniperlog.ru
 snipersex.com
 sniphub.com
@@ -161718,6 +161745,7 @@ tb.tannenbusch.de
 tb.thebrandfactorybd.com
 tb01.vtetftradex.com
 tb1mdkeni.com
+tb3hrrmcgfumj5fvk.cfd
 tb4awyc7.vip1xbet.net
 tb4gv2cp5z.com
 tb55788.com
@@ -162585,6 +162613,7 @@ tentaclespencil.com
 tentaculos.net
 tenterscarred.qpon
 tentflooring.biljax.com
+tentilyrouth.qpon
 tentionswaver.qpon
 tenuisoromo.cfd
 tenutiwisdoms.cfd
@@ -163338,6 +163367,7 @@ thisinhthanhlich2024.com
 thisrocks.top
 thj.astrakhan.ru
 thj36m3dm.com
+thjfqbwhlegns.website
 thjhaj.zooart.com.pl
 thjxvlrjnbqbs.store
 thk.kidshubs.online
@@ -176216,6 +176246,7 @@ vakbsnowixqns.com
 vakextnkluekz.site
 val.argsleg.pics
 val.valkenstol.de
+valancekuvasz.cyou
 valdes.net.anwalt.de
 vale.valevaleriapottery.com
 valeenjoy.com
@@ -177269,6 +177300,7 @@ vfw-us-west.amazon-adsystem.com
 vfw-us.amazon-adsystem.com
 vfw.amazon-adsystem.com
 vfwm-eu.amazon-adsystem.com
+vfwm-us-west.amazon-adsystem.com
 vfwm-us.amazon-adsystem.com
 vfwm.amazon-adsystem.com
 vfwpaocvysbpo.site
@@ -190650,8 +190682,8 @@ www.pendletqz.com
 www.pentan.cc
 www.pepeglobalone.com
 www.pepperst-one.cc
-WWW.pepperstonecrm.com
 www.pepperstonecrm.com
+WWW.pepperstonecrm.com
 www.pepperstonecrmb.com
 www.pepperstonedcrm.com
 www.peppvipweb.com
@@ -195036,6 +195068,7 @@ xfyxtg.buyautoparts.com
 xfztgxt.com
 xg.kxapctq.cn
 xg.wdswgjn.cn
+xg114bmq7634uen7f7gr8.rest
 xg168.reform9.com
 xg66c.com
 xga.xilly.net
