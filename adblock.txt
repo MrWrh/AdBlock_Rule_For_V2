@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-01 01:47:27
+# Generated on: 2026-08-01 03:18:52
 # Generated AdBlock rules
-# Total entries: 201893
+# Total entries: 201921
 
 0.avmarket.rs
 0.myikas.com
@@ -3907,9 +3907,9 @@
 87uq.com
 87zfpymtrwzijl.rest
 88.212.109.208.host.secureserver.net
-88.vv6666.top
-88.VV6666.top
 88.VV6666.TOP
+88.VV6666.top
+88.vv6666.top
 8800source.com
 882793fb7a.com
 883.engine.mobileapptracking.com
@@ -7340,6 +7340,7 @@ abruptusers.com
 abs-static.org
 abs.firstvds.ru
 abs.proxistore.com
+abscisssashaysoculina.cfd
 absentairport.com
 absentbors.qpon
 absentlylaserlardy.com
@@ -13030,6 +13031,7 @@ alexandria.marfeelcdn.com
 alexatracker.com
 alexfj.elten-store.de
 alexiasparamamidate.cfd
+alexisskipped.cfd
 alfa.arteidesign.com.br
 alfainternet.su
 alfalfaemployeeresource.com
@@ -13538,9 +13540,9 @@ ambassador.referralhero.com
 ambassadors.childhoodpotential.com
 ambassadors.guideandgrow.com
 amber-fossil-mosquito.garden
-amber.co
 AMBER.CO
 Amber.co
+amber.co
 ambercrow.com
 ambiciubzprxl.website
 ambient-platform.com
@@ -15349,6 +15351,7 @@ andall.servicesql.info
 andbeyond.media
 andelect.cfd
 andersenit.dk
+andfauna.net
 andhrapanful.cfd
 andjemztech.com
 andlc.hoorayheroes.co.uk
@@ -17889,8 +17892,8 @@ app.rrrrfgnj.com
 app.rtuidx.com
 app.rtusws.com
 app.rtwifjh.com
-APP.SA-platform.com
 app.sa-platform.com
+APP.SA-platform.com
 app.saf.sharjahart.org
 app.sagyugf.com
 app.sayuety.com
@@ -21406,6 +21409,7 @@ balsam18.com
 balteraided.qpon
 balteusngapi.cfd
 balteusrail.qpon
+balubaeirenic.qpon
 balunkalends.com
 balvalur.com
 balvehgmhw.com
@@ -21683,6 +21687,7 @@ barracuda.civicdatalibrary.org
 barracuda.verto.exchange
 barrasdockage.com
 barrelaffloofatrophy.qpon
+barrelcider.com
 barren-theory.com
 barreshasidic.cfd
 barresrelists.com
@@ -22371,6 +22376,7 @@ beamedvedro.qpon
 beamvolcano.com
 beamyfogas.qpon
 beancontrol.com
+beanedrollman.shop
 beanstalkdata.com
 beap-bc.yahoo.com
 beap.gemini.yahoo.com
@@ -26118,6 +26124,7 @@ bsbrcdna.com
 bsc-defi.com
 bschuyenkhoamat.biz
 bsdgjmy.com
+bsdoekrfzlsgj.com
 bsep.gmo.com.tw
 bserver.gp-guia.net
 bservr.com
@@ -27617,6 +27624,7 @@ c607b31b1a.com
 c615.denverpost.com
 c635e33b2e.com
 c64ihqx0gj.com
+c65cb58426.com
 c66ab37744.86d0868ed3.com
 c677.wisn.com
 c6fuo6cx2rz5ywyh.cfd
@@ -31153,8 +31161,8 @@ citiae.com
 citiaw.com
 citibh.com
 citics221.com
-Citigroup.Bo
 CitiGroup.BO
+Citigroup.Bo
 Citigroup.BO
 citiservi.es
 citivay.org
@@ -38899,6 +38907,7 @@ daccp.cn
 daccroi.com
 dacedsfa.cn
 dacforex.com
+daciantackers.shop
 daciuehpyf.com
 dackpartner-web.s3.amazonaws.com
 dacoityyawnups.cyou
@@ -44988,6 +44997,7 @@ dialer.leads360.com
 dialer.velocify.com
 dialercalinut.cyou
 dialergruf.cyou
+diallelpantoumexceed.cfd
 dialling-abutory.com
 dialog.dqs.de
 dialog.losberger.com
@@ -58446,6 +58456,7 @@ freshlymaunge.cfd
 freshmanhow.com
 freshmarketer.com
 fresnel-events.vimeocdn.com
+fresnomaniere.cyou
 fressermafurra.cfd
 frestacero.com
 fretishtummed.qpon
@@ -59115,8 +59126,8 @@ future-price.co.uk
 future.coniferhealth.com
 future.curlysecret.com
 future.lmstaeoiaes.com
-Future.lmstaoes.com
 future.lmstaoes.com
+Future.lmstaoes.com
 future.lmsteames.com
 future.uwindsor.ca
 futureads.io
@@ -59348,8 +59359,8 @@ fxpro11.com
 fxprofx211.com
 fxprofx221.com
 fxprofxn404.com
-FXPROTW.COM
 fxprotw.com
+FXPROTW.COM
 fxproxp11.com
 fxproxp26.com
 fxproxp888.com
@@ -59376,8 +59387,8 @@ fxtwer.com
 fxuenhhaucscs.online
 fxuzrinlbacql.site
 fxviersitw886.com
-fxview-tw.com
 Fxview-tw.com
+fxview-tw.com
 fxwklbyr.meadowprocessingframework.garden
 fxwlyddrjhupc.store
 fxxogvmdpnwgw.online
@@ -77687,6 +77698,7 @@ itbitsw.com
 itbitusid.com
 itbmu.bootlegger.com
 itbtdirbwlzmy.store
+itchbuirdly.qpon
 itchingaxing.qpon
 itchinglikely.com
 itchingunethical.com
@@ -84832,8 +84844,8 @@ lekven.jetcost.co.uk
 lel704cjev.com
 lelong.shop
 leluhrmmslpud.store
-Lem-Coin.Com
 lem-coin.com
+Lem-Coin.Com
 lem.nouvelobs.com
 lemaneaflipe.cyou
 lembsmhpronni.website
@@ -91785,6 +91797,7 @@ loginrubbishobey.com
 loginside.co.kr
 logistics.dbschenker.com
 logistics.osmworldwide.com
+logjamstill.cfd
 logkm.dantocmiennui.vn
 loglady.publicbroadcasting.net
 loglady.skypicker.com
@@ -98335,8 +98348,8 @@ metaapi.estudioabrassear.com.br
 metab0ts.click
 metabatted.com
 metabit.metbito.com
-metabit30.mettbit.com
 MetaBit30.mettbit.com
+metabit30.mettbit.com
 metabit52.metbito.com
 metabit58.metbito.com
 metabit70.metbito.com
@@ -102412,6 +102425,7 @@ moobot.serveftp.com
 moobtcnse.xyz
 mooddivided.com
 moodeign.cyou
+moodierholibut.qpon
 moodku.com
 moodytrustworthy.com
 moodyyobs.shop
@@ -111580,8 +111594,8 @@ ouchruse.com
 ouchvibration.com
 oucouksirt.com
 oucpambrmtexm.online
-OUD.genesbo.com
 oud.genesbo.com
+OUD.genesbo.com
 oudjmuimzsshw.space
 oudw850vbx.com
 oueia.xyz
@@ -114456,6 +114470,7 @@ permutive.app
 permutive.com
 pernineatwindazotea.qpon
 pernyiunlatch.cyou
+peronetonkin.cfd
 peropustautogs.cyou
 peroutsell.qpon
 perpenttrilli.cfd
@@ -115049,6 +115064,7 @@ phytometextlet.cyou
 phytonsfurner.com
 phywi.org
 phzlhhfidmntxc.com
+phztnfimeghth.space
 pi-stats.com
 pi.ias.xiaomi.com
 pi.ispot.tv
@@ -116147,6 +116163,7 @@ plgfbhohqpaiq.website
 plgtxprvrgume.site
 plhtxf.firstnavi.jp
 pliablepeised.shop
+pliableunsnaky.qpon
 pliantdummyexasperation.com
 pliantethanyowing.qpon
 pliblcc.com
@@ -117796,6 +117813,7 @@ prizeryartful.cyou
 prizingupfurl.com
 prksism.com
 prkudpsduulrx.online
+prkvciyiwymts.space
 prkvlr.camper.com
 prl.adasgxsp.cc
 prl0ivfr.hazaratbet.games
@@ -119338,6 +119356,7 @@ pvrrx.yumwoof.com
 pvrugd.nieruchomosci-online.pl
 pvsa.gxfugy.cn
 pvsbdkpkydhaj.website
+pvtcfeojlwxrx.online
 pvtd.cn
 pvtest.zol.com.cn
 pvtjt.ancestralsupplements.com
@@ -119602,6 +119621,7 @@ pzd.rakuten.co.jp
 pzdnf.salonweardirect.co.uk
 pzemxqyyaynor.site
 pzemzwvodejwz.website
+pzflzyuagcpai.online
 pzfov.salomon.com
 pzgignprvvgvn.space
 pzhj.barcelona11.com
@@ -121069,6 +121089,7 @@ qtpyyizgteovh.space
 qtq33-33m.345677.xyz
 qtqcd.bonmarche.co.uk
 qtqkpddcbddmy.space
+qtqlkzfpfpxow.website
 qtqlvy3cww2cnkipfr442vt.cfd
 qtqqn.thriftvintagefashion.com
 qtqv3cy43w.com
@@ -121933,6 +121954,7 @@ r8l.c6z68f48gklgru273uqh6owi42qpv9ijxkb.cyou
 r8ln4v4nef.com
 r8pzycfvwbtwjhi9lfzmiqp461vxph2.rest
 r932o.com
+r96h7g97rik8eq8ow.cfd
 r973.timesheraldonline.com
 r9chy91i.unseen-zorenka.digital
 r9ljguu1k4.ru
@@ -129231,8 +129253,8 @@ savatehaffet.cfd
 save.accesspay.com.au
 save.salary.com.au
 save.smartsalary.com.au
-Savegas.AI
 savegas.ai
+Savegas.AI
 saversludgesauter.cyou
 saveterracehangnail.com
 saveu5-normal-lq.zijieapi.com
@@ -137598,6 +137620,7 @@ sicknessbingo.com
 sickshareping.com
 sicksmash.com
 siclikeinhumepick.cfd
+sicqybon.com
 sid.nordstrom.com
 sid.starstudd.com
 siddik.indianbookshopbd.com
@@ -142874,8 +142897,8 @@ snipconcher.cfd
 snipe.mfaber.at
 snipe.mizzuu.co
 snipedsyud.qpon
-sniper.fujibee777.com
 Sniper.fujibee777.com
+sniper.fujibee777.com
 sniperlog.ru
 snipersex.com
 sniphub.com
@@ -157712,6 +157735,7 @@ suburbincriminatesubdue.com
 subwayeachaccompaniment.com
 subwayhumility.com
 subx.alpinawein.de
+succahodorant.cyou
 succeedknockweapons.com
 success.act-on.com
 success.azzure-it.com
@@ -172586,6 +172610,7 @@ u655vlo5.xyz
 u660.theheraldreview.com
 u67qpnaexu.com
 u6ggk611.elizabethspizzadenton.com
+u6qzzhptfetuto.rest
 u6uy9lzdcj.com
 u6yzoru6u.com
 u7do.sbs
@@ -175865,6 +175890,7 @@ uxahhowennlqf.website
 uxazhgibyblus.store
 uxbd4id.xyz
 uxbygjzvingbv.online
+uxcdqabxbsq.com
 uxcjzhltqcgxy.space
 uxcnhsf.cn
 uxddr.goatedcollection.com
@@ -178140,6 +178166,7 @@ violentlybashfulpert.com
 violet-attitude.pro
 violetcommercial.com
 violetlimitdownstairs.com
+violetscelesta.qpon
 violineguldens.cyou
 violinspickets.cfd
 violoncello21.top
@@ -190763,8 +190790,8 @@ www.pendletqz.com
 www.pentan.cc
 www.pepeglobalone.com
 www.pepperst-one.cc
-WWW.pepperstonecrm.com
 www.pepperstonecrm.com
+WWW.pepperstonecrm.com
 www.pepperstonecrmb.com
 www.pepperstonedcrm.com
 www.peppvipweb.com
@@ -199020,6 +199047,7 @@ yuastejdigmex.site
 yubingyuan.top
 yubqwyo.cc
 yubziosgvkweu.online
+yucalarvate.qpon
 yuckelobongo.com
 yucpihodztolh.space
 yucvgdirvufyw.space
@@ -199490,9 +199518,9 @@ z.bodyworksmedcenter.com
 z.cdn.adpool.bet
 z.cdn.braun634.com
 z.cdn.protect-ad.com
-Z.COM
-z.com
 Z.com
+z.com
+Z.COM
 z.grfyw.com
 z.jjbuttercup.com
 z.nowscore.com
