@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-03 15:30:53
+# Generated on: 2026-08-03 18:56:26
 # Generated AdBlock rules
-# Total entries: 202029
+# Total entries: 202062
 
 0.avmarket.rs
 0.myikas.com
@@ -3906,8 +3906,8 @@
 87zfpymtrwzijl.rest
 88.212.109.208.host.secureserver.net
 88.vv6666.top
-88.VV6666.top
 88.VV6666.TOP
+88.VV6666.top
 8800source.com
 882793fb7a.com
 883.engine.mobileapptracking.com
@@ -17904,8 +17904,8 @@ app.rrrrfgnj.com
 app.rtuidx.com
 app.rtusws.com
 app.rtwifjh.com
-app.sa-platform.com
 APP.SA-platform.com
+app.sa-platform.com
 app.saf.sharjahart.org
 app.sagyugf.com
 app.sayuety.com
@@ -22927,8 +22927,8 @@ betellmacrli.cyou
 betemolgar.com
 beterrakionan.com
 betesknublitster.qpon
-betexplc.com
 Betexplc.com
+betexplc.com
 betfairae.com
 betfairos.com
 betfairse.com
@@ -24255,6 +24255,7 @@ bkxsdhfljwjlc.online
 bkzfz.aroma360.tw
 bkzgyz.t-2.net
 bkzhiu3yv8gzbml.cfd
+bkzlvrghxpvgp.space
 bkzojuncitbqa.space
 bl.emotionalworld.cn
 bl.wavecdn.de
@@ -31168,9 +31169,9 @@ citiae.com
 citiaw.com
 citibh.com
 citics221.com
-Citigroup.Bo
 CitiGroup.BO
 Citigroup.BO
+Citigroup.Bo
 citiservi.es
 citivay.org
 citizenagreementacting.com
@@ -31310,6 +31311,7 @@ ck.zzipps.com
 ck0ny34p.1xprobet.app
 ck33.top
 ck4g3p2x92.com
+ck7uo6g36.com
 ckaibkxlldgui.site
 ckauyijrivige.site
 ckbgvpjrjcwai.site
@@ -32969,8 +32971,8 @@ coinftw.com
 coinftwis.com
 coinftws.com
 coinftwvip.com
-Coingroup.BO
 COINGROUP.BO
+Coingroup.BO
 coingtp.top
 coinha.leyiu.com
 coinhakobb.com
@@ -35920,8 +35922,8 @@ crypto-scwallets.com
 crypto-scwalletx.com
 crypto-world.ink
 crypto.betfakade.com
-crypto.com
 Crypto.com
+crypto.com
 crypto.lion.expert
 crypto.lion.institute
 crypto.lion.training
@@ -43185,6 +43187,7 @@ datk.bridgeoos.com
 datoporn.com
 datos.camaramadrid.es
 datos.masterminddoc.ai
+dattomesarchstupe.cfd
 datum.appfleet.com
 datum.jsdelivr.com
 datvantage.com
@@ -43391,6 +43394,7 @@ dbzpek.nike.com
 dbzwgmwxnqiiy.website
 dc-cdp.credit-agricole.it
 dc-dragate-cn.heytapmobi.com
+dc-dragate-sg.heytapmobile.com
 dc-stat-in.heytapmobile.com
 dc-storm.com
 dc-tag.jp
@@ -47885,6 +47889,7 @@ dstfrx.com
 dstha9.com
 dstillery.com
 dstinb.com
+dstjar.com
 dstnwp.com
 dstpwgogbw.com
 dstqck.com
@@ -48090,6 +48095,7 @@ dtpvgzuxgdgmu.website
 dtpvideo52.vercel.app
 dtq9oy2ckjhxu.cloudfront.net
 dtqcpx.eskor.se
+dtqkwdawnkwxm.space
 dtqnopvxbjdcf.website
 dtr-onsite-feed.datarize.ai
 dtr.debeaulieu-paris.com
@@ -56136,6 +56142,7 @@ filamento.figutech.com
 filamentthree.com
 filasofighit.com
 filavietnamve.com
+file-intl-push.heytapdl.com
 file-store2.xyz
 file-store4.xyz
 file-subiz.com
@@ -59155,8 +59162,8 @@ future-price.co.uk
 future.coniferhealth.com
 future.curlysecret.com
 future.lmstaeoiaes.com
-Future.lmstaoes.com
 future.lmstaoes.com
+Future.lmstaoes.com
 future.lmsteames.com
 future.uwindsor.ca
 futureads.io
@@ -59419,8 +59426,8 @@ fxtwer.com
 fxuenhhaucscs.online
 fxuzrinlbacql.site
 fxviersitw886.com
-Fxview-tw.com
 fxview-tw.com
+Fxview-tw.com
 fxwklbyr.meadowprocessingframework.garden
 fxwlyddrjhupc.store
 fxxogvmdpnwgw.online
@@ -67621,6 +67628,7 @@ gtmvilamadalena.academiadorock.com.br
 gtmx.xdaysleft-wear.com
 gtnetwork.toplifeproject.com
 gtnjvdaffxjvj.site
+gtokaapomsclc.space
 gtoksm.fennec.co.kr
 gtop.ro
 gtopstats.com
@@ -73225,7 +73233,16 @@ icorpado.9am.ro
 icorpado.kudika.ro
 icorpado.urbo.ro
 icosa-service-eu.allawnos.com
+icosa-service-fr-01.allawnos.com
+icosa-service-fr-02.allawnos.com
+icosa-service-fr-03.allawnos.com
+icosa-service-in-01.allawnos.com
+icosa-service-in-02.allawnos.com
+icosa-service-in-03.allawnos.com
 icosa-service-in.allawnos.com
+icosa-service-sg-01.allawnos.com
+icosa-service-sg-02.allawnos.com
+icosa-service-sg-03.allawnos.com
 icosa-service-sg.allawnos.com
 icosa-service-us.allawnos.com
 icosa-sg.coloros.com
@@ -82940,6 +82957,7 @@ kqoelg.ultrafootball.com
 kqpfniauomrpx.online
 kqpol.heroesvillains.com
 kqrde.vilagom.hu
+kqrxasqbuxbtx.site
 kqscrl.bonprix.nl
 kqsebncdjeuuj.site
 kqtqgoyjmbtev.site
@@ -84891,8 +84909,8 @@ lekven.jetcost.co.uk
 lel704cjev.com
 lelong.shop
 leluhrmmslpud.store
-Lem-Coin.Com
 lem-coin.com
+Lem-Coin.Com
 lem.nouvelobs.com
 lemaneaflipe.cyou
 lembsmhpronni.website
@@ -104547,8 +104565,8 @@ n.hzhfhkj.cn
 n.juhuasuanguanwang.cn
 n.kasnsnss.com
 n.kettenbach-immobilien.de
-n.kinvestops.com
 N.kinvestops.com
+n.kinvestops.com
 n.knuffelwuff.fr
 n.lexusfinancial.com
 n.merrylants.com
@@ -107995,6 +108013,7 @@ ntepadkozezji.online
 ntf.nexustrades.live
 ntfin.me
 ntfkfspmntojh.site
+ntflzokrfgcra.site
 ntfsformac.cc
 ntfsformac.cn
 ntg.nexustrades.live
@@ -108901,6 +108920,10 @@ obuf.betawarz.com
 obumlnwrmmewj.site
 obuqhpqiqfgoe.love
 obus-cn.dc.heytapmobi.com
+obus-conf-fr.heytapmobile.com
+obus-conf-in.heytapmobile.com
+obus-conf-sg.heytapmobile.com
+obus-conf-us.heytapmobile.com
 obus-config-cn.heytapmobi.com
 obus-dc-eu.heytapmobile.com
 obus-dc-ru.heytapmobile.com
@@ -108926,6 +108949,7 @@ obus-dctech-in.heytapmobile.com
 obus-dctech-sg.heytapmobile.com
 obus-dcyitai-cn.heytapmobi.com
 obus-dcyitai-in.heytapmobi.com
+obus-dcyitai-sg.heytapmobile.com
 obus-in.dc.heytapmobile.com
 obus-jssdk-cn.heytapmobi.com
 obus-jssdk-fr.heytapmobile.com
@@ -111660,8 +111684,8 @@ ouchruse.com
 ouchvibration.com
 oucouksirt.com
 oucpambrmtexm.online
-oud.genesbo.com
 OUD.genesbo.com
+oud.genesbo.com
 oudjmuimzsshw.space
 oudw850vbx.com
 oueia.xyz
@@ -116252,6 +116276,7 @@ plinksplanet.com
 plinthsarbaciastator.cfd
 plinthsgrubby.shop
 plinthsreles.cfd
+plissesfail.cfd
 pljayblicfbcw.website
 pljiquv.destek1.com.tr
 pljuin.lensmode.com
@@ -129329,8 +129354,8 @@ savatehaffet.cfd
 save.accesspay.com.au
 save.salary.com.au
 save.smartsalary.com.au
-Savegas.AI
 savegas.ai
+Savegas.AI
 saversludgesauter.cyou
 saveterracehangnail.com
 saveu5-normal-lq.zijieapi.com
@@ -130278,6 +130303,7 @@ se.mistermenuiserie.com
 se.netpartnering.com
 se.rfvtgbyhn.com
 se05.biz
+sea-log-rcv.vansound.com
 seabank-nganhanghanoi.com
 seabeearmary.cfd
 seafolkyird.cfd
@@ -142874,6 +142900,7 @@ snailscrambledcontrivance.com
 snailthreatenedinvited.com
 snajebrxiyiih.website
 snakemineral.com
+snakergolfedbravi.cfd
 snakeslang.com
 snalytics.accidenthero.at
 snalytics.allianz-assistance.at
@@ -142965,8 +142992,8 @@ snipconcher.cfd
 snipe.mfaber.at
 snipe.mizzuu.co
 snipedsyud.qpon
-sniper.fujibee777.com
 Sniper.fujibee777.com
+sniper.fujibee777.com
 sniperlog.ru
 snipersex.com
 sniphub.com
@@ -158911,6 +158938,7 @@ swwcyk.ahaber.com.tr
 swwcyk.aspor.com.tr
 swwcyk.atv.com.tr
 swwcyk.takvim.com.tr
+swwfrszvldnsq.site
 swwlpm2o.ai-wkk.com
 swwpush.com
 swwsoxhdxvtbg.space
@@ -177795,6 +177823,10 @@ video-adblocker.com
 video-ads-module.ad-tech.nbcuni.com
 video-ads.a2z.com
 video-analytics-api.cloudinary.com
+video-api-fr.heytapmobile.com
+video-api-gl.heytapmobile.com
+video-api-in.heytapmobile.com
+video-api-ru.heytapmobile.com
 video-dsp.pddpic.com
 video-dtp6.vercel.app
 video-files-24.cfd
@@ -190878,8 +190910,8 @@ www.pendletqz.com
 www.pentan.cc
 www.pepeglobalone.com
 www.pepperst-one.cc
-www.pepperstonecrm.com
 WWW.pepperstonecrm.com
+www.pepperstonecrm.com
 www.pepperstonecrmb.com
 www.pepperstonedcrm.com
 www.peppvipweb.com
@@ -191162,8 +191194,8 @@ www.qh625.tw
 www.qhdbsd.com
 www.qhdjffhgh.com
 www.qhfbdh.com
-www.qhfjdkg.com
 WWW.qhfjdkg.com
+www.qhfjdkg.com
 www.qiaoanjin886.top
 www.qidjas.com
 www.qieyruy.com
@@ -192337,8 +192369,8 @@ www.teafihk.com
 www.teafinace.com
 www.teamway.com
 www.teaofpuer.live
-www.teapuer.online
 WWW.teapuer.online
+www.teapuer.online
 www.tebbitdhu.com
 www.tebbitgye.com
 www.tebbitjdw.com
@@ -194798,6 +194830,7 @@ x0t2a0jb.raftarsazmani.xyz
 x1.52aoteman.com
 x1.xemes.cyou
 x1abo.com
+x1cz6f8gb.com
 x2jjzvnd.dichvuff.com
 x2r25eccqcjx5xwrf9l.rest
 x2tsa.com
