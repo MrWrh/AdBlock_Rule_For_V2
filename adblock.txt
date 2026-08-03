@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-04 06:37:01
+# Generated on: 2026-08-04 07:43:29
 # Generated AdBlock rules
-# Total entries: 201785
+# Total entries: 201806
 
 0.avmarket.rs
 0.myikas.com
@@ -3900,9 +3900,9 @@
 87uq.com
 87zfpymtrwzijl.rest
 88.212.109.208.host.secureserver.net
-88.VV6666.TOP
-88.VV6666.top
 88.vv6666.top
+88.VV6666.top
+88.VV6666.TOP
 8800source.com
 882793fb7a.com
 883.engine.mobileapptracking.com
@@ -17895,8 +17895,8 @@ app.rrrrfgnj.com
 app.rtuidx.com
 app.rtusws.com
 app.rtwifjh.com
-app.sa-platform.com
 APP.SA-platform.com
+app.sa-platform.com
 app.saf.sharjahart.org
 app.sagyugf.com
 app.sayuety.com
@@ -22867,8 +22867,8 @@ bestowmeasurement.com
 bestpush.pconline.com.cn
 bestrevenuenetwork.com
 bestrewdeplace.cfd
-bestsgs.io
 Bestsgs.io
+bestsgs.io
 bestshoesboot.com
 bestsrv.de
 bestssrv.com
@@ -22902,8 +22902,8 @@ betellmacrli.cyou
 betemolgar.com
 beterrakionan.com
 betesknublitster.qpon
-Betexplc.com
 betexplc.com
+Betexplc.com
 betfairae.com
 betfairos.com
 betfairse.com
@@ -25552,6 +25552,7 @@ bqxnpvzbrurde.online
 bqybaxcxwbgsm.website
 bqzue.xyz
 br-ad-lgsmartad-com.aws-prd.net
+br-cota.vivoglobal.com
 br-p.vivoglobal.com
 br-rx.atatus.com
 br.adpinfo.com
@@ -31133,8 +31134,8 @@ citiae.com
 citiaw.com
 citibh.com
 citics221.com
-Citigroup.BO
 CitiGroup.BO
+Citigroup.BO
 Citigroup.Bo
 citiservi.es
 citivay.org
@@ -32928,8 +32929,8 @@ coinftw.com
 coinftwis.com
 coinftws.com
 coinftwvip.com
-Coingroup.BO
 COINGROUP.BO
+Coingroup.BO
 coingtp.top
 coinha.leyiu.com
 coinhakobb.com
@@ -59321,8 +59322,8 @@ fxpro11.com
 fxprofx211.com
 fxprofx221.com
 fxprofxn404.com
-FXPROTW.COM
 fxprotw.com
+FXPROTW.COM
 fxproxp11.com
 fxproxp26.com
 fxproxp888.com
@@ -59349,8 +59350,8 @@ fxtwer.com
 fxuenhhaucscs.online
 fxuzrinlbacql.site
 fxviersitw886.com
-Fxview-tw.com
 fxview-tw.com
+Fxview-tw.com
 fxwklbyr.meadowprocessingframework.garden
 fxwlyddrjhupc.store
 fxxogvmdpnwgw.online
@@ -84813,8 +84814,8 @@ lekven.jetcost.co.uk
 lel704cjev.com
 lelong.shop
 leluhrmmslpud.store
-lem-coin.com
 Lem-Coin.Com
+lem-coin.com
 lem.nouvelobs.com
 lemaneaflipe.cyou
 lembsmhpronni.website
@@ -98304,8 +98305,8 @@ metaapi.estudioabrassear.com.br
 metab0ts.click
 metabatted.com
 metabit.metbito.com
-metabit30.mettbit.com
 MetaBit30.mettbit.com
+metabit30.mettbit.com
 metabit52.metbito.com
 metabit58.metbito.com
 metabit70.metbito.com
@@ -102130,6 +102131,8 @@ momoxxx.net
 momrollback.com
 momusesconrail.cyou
 mon-boot.capcutapi.com
+mon-boot.capcutapi.com.edgesuite.net
+mon-boot.capcutapi.com.ttdns2.com
 mon-boot.tiktokv.com
 mon-boot.tiktokv.com.edgekey.net
 mon-csj-maliva-ios.byteoversea.com
@@ -102139,16 +102142,22 @@ mon-i18n.tiktokv.com.dvaitas.lt
 mon-phx.tiktokv.com
 mon-ru.tiktokv.com
 mon-sg.capcutapi.com
+mon-sg.capcutapi.com.edgesuite.net
+mon-sg.capcutapi.com.ttdns2.com
 mon-sg.tiktokv.com
 mon-useast2a.tiktokv.com
 mon-v2-boot.capcutapi.com
+mon-v2-boot.capcutapi.com.edgesuite.net
+mon-v2-boot.capcutapi.com.ttdns2.com
 mon-va-useast2a.byteoversea.com
 mon-va.byteoversea.com
 mon-va.capcutapi.com
+mon-va.capcutapi.com.ttdns2.com
 mon-va.tiktokv.com
 mon.be.xiaomi.com
 mon.byteoversea.com
 mon.capcutapi.us
+mon.capcutapi.us.edgesuite.net
 mon.domdog.io
 mon.ingservices.nl
 mon.isnssdk.com
@@ -102181,7 +102190,11 @@ mon16-normal-no1a.tiktokv.eu
 mon16-normal-no1a.tiktokv.eu.dvaitas.lt
 mon16-normal-no1a.tiktokv.eu.numericable.fr
 mon16-normal-sg.capcutapi.com
+mon16-normal-sg.capcutapi.com.edgesuite.net
 mon16-normal-us-ttp.capcutapi.us
+mon16-normal-us-ttp.capcutapi.us.edgesuite.net
+mon16-normal-us-ttp2.capcutapi.us
+mon16-normal-us-ttp2.capcutapi.us.edgesuite.net
 mon16-normal-useast1a.tiktokv.com
 mon16-normal-useast5.tiktokv.us
 mon16-normal-useast8.tiktokv.us
@@ -111548,8 +111561,8 @@ ouchruse.com
 ouchvibration.com
 oucouksirt.com
 oucpambrmtexm.online
-oud.genesbo.com
 OUD.genesbo.com
+oud.genesbo.com
 oudjmuimzsshw.space
 oudw850vbx.com
 oueia.xyz
@@ -113872,12 +113885,20 @@ pbzsf.snagtights.de
 pc-ads.com
 pc-agency24.de
 pc-mon-boot.capcutapi.com
+pc-mon-boot.capcutapi.com.edgesuite.net
+pc-mon-boot.capcutapi.com.ttdns2.com
 pc-mon-normal-sg.capcutapi.com
+pc-mon-normal-sg.capcutapi.com.edgesuite.net
+pc-mon-normal-sg.capcutapi.com.ttdns2.com
 pc-mon-v2-boot.capcutapi.com
+pc-mon-v2-boot.capcutapi.com.edgesuite.net
+pc-mon-v2-boot.capcutapi.com.ttdns2.com
 pc-mon-va.byteoversea.com
 pc-mon.snssdk.com
 pc-mon.zijieapi.com
 pc-mon16-normal-us-ttp.capcutapi.us
+pc-mon16-normal-us-ttp.capcutapi.us.edgesuite.net
+pc-mon16-normal-us-ttp2.capcutapi.us
 pc-util.gamersky.com
 pc.83786538.com
 pc.aexnfx.com
@@ -142833,8 +142854,8 @@ snipconcher.cfd
 snipe.mfaber.at
 snipe.mizzuu.co
 snipedsyud.qpon
-Sniper.fujibee777.com
 sniper.fujibee777.com
+Sniper.fujibee777.com
 sniperlog.ru
 snipersex.com
 sniphub.com
@@ -190640,8 +190661,8 @@ www.pendletqz.com
 www.pentan.cc
 www.pepeglobalone.com
 www.pepperst-one.cc
-WWW.pepperstonecrm.com
 www.pepperstonecrm.com
+WWW.pepperstonecrm.com
 www.pepperstonecrmb.com
 www.pepperstonedcrm.com
 www.peppvipweb.com
@@ -192099,8 +192120,8 @@ www.teafihk.com
 www.teafinace.com
 www.teamway.com
 www.teaofpuer.live
-www.teapuer.online
 WWW.teapuer.online
+www.teapuer.online
 www.tebbitdhu.com
 www.tebbitgye.com
 www.tebbitjdw.com
@@ -199392,9 +199413,9 @@ z.bodyworksmedcenter.com
 z.cdn.adpool.bet
 z.cdn.braun634.com
 z.cdn.protect-ad.com
-z.com
-Z.com
 Z.COM
+Z.com
+z.com
 z.grfyw.com
 z.jjbuttercup.com
 z.nowscore.com
