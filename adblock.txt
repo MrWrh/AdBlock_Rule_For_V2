@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-11 07:40:30
+# Generated on: 2026-08-11 08:05:49
 # Generated AdBlock rules
-# Total entries: 188770
+# Total entries: 188772
 
 0.avmarket.rs
 0.myikas.com
@@ -3988,6 +3988,7 @@
 95bfbe548450b30c.clicknplay.to
 95instances.net
 95k62nnvnh.com
+95ktftpt6.com
 95ppq87g.de
 95urbehxy2dh.top
 95ziegv587wohx9rzj.cfd
@@ -16863,8 +16864,8 @@ app.rrrrfgnj.com
 app.rtuidx.com
 app.rtusws.com
 app.rtwifjh.com
-app.sa-platform.com
 APP.SA-platform.com
+app.sa-platform.com
 app.saf.sharjahart.org
 app.sagyugf.com
 app.sayuety.com
@@ -28804,9 +28805,9 @@ citiae.com
 citiaw.com
 citibh.com
 citics221.com
+CitiGroup.BO
 Citigroup.Bo
 Citigroup.BO
-CitiGroup.BO
 citiservi.es
 citivay.org
 citizenagreementacting.com
@@ -33019,8 +33020,8 @@ crypto-scwallets.com
 crypto-scwalletx.com
 crypto-world.ink
 crypto.betfakade.com
-crypto.com
 Crypto.com
+crypto.com
 crypto.lion.expert
 crypto.lion.institute
 crypto.lion.training
@@ -41715,6 +41716,7 @@ dhqpj.everydayreliefhub.com
 dhqpzpikvmfaq.site
 dhqqtrblvxyex.online
 dhqzlf.beer
+dhrbpvqqoovnxm.com
 dhrdakvoruwao.space
 dhrhzii89gpwo.cloudfront.net
 dhrubo.dhrubomart.com
@@ -43814,8 +43816,8 @@ dqzooska.icu
 dqzuroorrt.com
 dr-marian-tdrirmh.work
 dr.raviveplasticsurgery.com
-Dr.Shop
 Dr.shop
+Dr.Shop
 dr3k6qonw2kee.cloudfront.net
 dr5.biz
 dr6su5ow3i7eo.cloudfront.net
@@ -54639,8 +54641,8 @@ future-price.co.uk
 future.coniferhealth.com
 future.curlysecret.com
 future.lmstaeoiaes.com
-Future.lmstaoes.com
 future.lmstaoes.com
+Future.lmstaoes.com
 future.lmsteames.com
 future.uwindsor.ca
 futureads.io
@@ -91135,8 +91137,8 @@ metaapi.estudioabrassear.com.br
 metab0ts.click
 metabatted.com
 metabit.metbito.com
-MetaBit30.mettbit.com
 metabit30.mettbit.com
+MetaBit30.mettbit.com
 metabit52.metbito.com
 metabit58.metbito.com
 metabit70.metbito.com
@@ -103175,8 +103177,8 @@ ouchruse.com
 ouchvibration.com
 oucouksirt.com
 oucpambrmtexm.online
-OUD.genesbo.com
 oud.genesbo.com
+OUD.genesbo.com
 oudjmuimzsshw.space
 oudw850vbx.com
 oueia.xyz
@@ -132447,8 +132449,8 @@ sniga.segomotools.com
 snigelweb.com
 snipe.mfaber.at
 snipe.mizzuu.co
-sniper.fujibee777.com
 Sniper.fujibee777.com
+sniper.fujibee777.com
 sniperlog.ru
 snipersex.com
 sniphub.com
@@ -178358,8 +178360,8 @@ www.qh625.tw
 www.qhdbsd.com
 www.qhdjffhgh.com
 www.qhfbdh.com
-www.qhfjdkg.com
 WWW.qhfjdkg.com
+www.qhfjdkg.com
 www.qiaoanjin886.top
 www.qidjas.com
 www.qieyruy.com
@@ -179545,8 +179547,8 @@ www.teafihk.com
 www.teafinace.com
 www.teamway.com
 www.teaofpuer.live
-WWW.teapuer.online
 www.teapuer.online
+WWW.teapuer.online
 www.tebbitdhu.com
 www.tebbitgye.com
 www.tebbitjdw.com
@@ -186543,9 +186545,9 @@ z.bodyworksmedcenter.com
 z.cdn.adpool.bet
 z.cdn.braun634.com
 z.cdn.protect-ad.com
+Z.com
 Z.COM
 z.com
-Z.com
 z.grfyw.com
 z.jjbuttercup.com
 z.nowscore.com
