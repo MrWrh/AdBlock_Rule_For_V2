@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-14 17:03:51
+# Generated on: 2026-08-14 18:19:46
 # Generated AdBlock rules
-# Total entries: 192736
+# Total entries: 192737
 
 0.avmarket.rs
 0.myikas.com
@@ -114323,6 +114323,7 @@ qnzczf.idc-otsuka.jp
 qnzkkbshdriki.site
 qnzlsvmomqihe.space
 qnzma.beforeyouspeakcoffee.com
+qo66feqfhs.com
 qoa0vy22fy.com
 qoaaa.com
 qoairs.scholl-shoes.com
@@ -135743,8 +135744,8 @@ sniga.segomotools.com
 snigelweb.com
 snipe.mfaber.at
 snipe.mizzuu.co
-sniper.fujibee777.com
 Sniper.fujibee777.com
+sniper.fujibee777.com
 sniperlog.ru
 snipersex.com
 sniphub.com
@@ -190462,8 +190463,8 @@ z.bodyworksmedcenter.com
 z.cdn.adpool.bet
 z.cdn.braun634.com
 z.cdn.protect-ad.com
-Z.COM
 z.com
+Z.COM
 Z.com
 z.grfyw.com
 z.jjbuttercup.com
