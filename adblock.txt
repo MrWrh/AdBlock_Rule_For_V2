@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-15 16:22:18
+# Generated on: 2026-08-15 16:59:32
 # Generated AdBlock rules
-# Total entries: 193020
+# Total entries: 193029
 
 0.avmarket.rs
 0.myikas.com
@@ -80445,8 +80445,8 @@ lekven.jetcost.co.uk
 lel704cjev.com
 lelong.shop
 leluhrmmslpud.store
-Lem-Coin.Com
 lem-coin.com
+Lem-Coin.Com
 lem.nouvelobs.com
 lembsmhpronni.website
 lemetri.info
@@ -86659,7 +86659,6 @@ lofi.zentopia.com
 lofo3l15c674.platform.replai.io
 loftyknifeeducate.com
 lofybdv.megaparii.pro
-log-abroad.avlyun.sec.miui.com
 log-ana.h3z.jp
 log-api-mn.huxiu.com
 log-api.cli.im
@@ -86672,6 +86671,12 @@ log-boot.capcutapi.com
 log-boot.tiktokv.com
 log-bridge-mobile.kr.karrotmarket.com
 log-collector.shopee.vn
+log-dr.tiktokv.com
+log-dr16-normal-no1a.tiktokv.eu
+log-dr16-normal-useast1a.tiktokv.com
+log-dr16-normal-useast5.tiktokv.us
+log-dr16-normal-useast8.tiktokv.us
+log-dr16-normal-useastred.tiktokv.eu
 log-dra.platform.hihonorcloud.com
 log-drcn.platform.hihonorcloud.com
 log-dre.platform.hihonorcloud.com
@@ -93551,8 +93556,8 @@ metaapi.estudioabrassear.com.br
 metab0ts.click
 metabatted.com
 metabit.metbito.com
-MetaBit30.mettbit.com
 metabit30.mettbit.com
+MetaBit30.mettbit.com
 metabit52.metbito.com
 metabit58.metbito.com
 metabit70.metbito.com
@@ -99443,8 +99448,8 @@ n.hzhfhkj.cn
 n.juhuasuanguanwang.cn
 n.kasnsnss.com
 n.kettenbach-immobilien.de
-n.kinvestops.com
 N.kinvestops.com
+n.kinvestops.com
 n.knuffelwuff.fr
 n.lexusfinancial.com
 n.merrylants.com
@@ -119933,6 +119938,8 @@ rtzixna.site-shartbandi.christmas
 rtztthwgifaal.site
 rtzxp.uppababy.ca
 ru-ad-lgsmartad-com.aws-prd.net
+ru-album-api.vivoglobal.com
+ru-analyzer-appstore.vivoglobal.com
 ru-api.xmpush.global.xiaomi.com
 ru-commonitor-stsdk.vivoglobal.com
 ru-comonrt-stsdk.vivoglobal.com
@@ -137291,6 +137298,7 @@ sponsored-ads.amazon.com
 sponsored-ads.amazon.com.au
 sponsored-ads.amazon.com.br
 sponsored-ads.amazon.com.mx
+sponsored-ads.amazon.com.tr
 sponsored-ads.amazon.eg
 sponsored-ads.amazon.es
 sponsored-ads.amazon.fr
@@ -173779,6 +173787,7 @@ westernunion-247online-banking.weebly.com
 westernunion-onlinebanking.weebly.com
 westernunionbankvn.wixsite.com
 westernunions6886z.weebly.com
+westeurope-5.in.applicationinsights.azure.com.fiege.de
 westfile-dl.click
 westgarybank.com
 westlawinterne.cyou
@@ -182444,8 +182453,8 @@ www.qh625.tw
 www.qhdbsd.com
 www.qhdjffhgh.com
 www.qhfbdh.com
-www.qhfjdkg.com
 WWW.qhfjdkg.com
+www.qhfjdkg.com
 www.qiaoanjin886.top
 www.qidjas.com
 www.qieyruy.com
@@ -190735,8 +190744,8 @@ z.bodyworksmedcenter.com
 z.cdn.adpool.bet
 z.cdn.braun634.com
 z.cdn.protect-ad.com
-Z.com
 Z.COM
+Z.com
 z.com
 z.grfyw.com
 z.jjbuttercup.com
