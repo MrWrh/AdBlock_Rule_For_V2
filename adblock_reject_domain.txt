@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2026-08-17 18:14:31 (GMT+8)
-# Total entries: 192293
+# Generated on: 2026-08-17 18:51:59 (GMT+8)
+# Total entries: 192294
 
 "0.avmarket.rs",
 "0.myikas.com",
@@ -121999,8 +121999,8 @@
 "save.accesspay.com.au",
 "save.salary.com.au",
 "save.smartsalary.com.au",
-"Savegas.AI",
 "savegas.ai",
+"Savegas.AI",
 "saversludgesauter.cyou",
 "saveterracehangnail.com",
 "saveu5-normal-lq.zijieapi.com",
@@ -135361,8 +135361,8 @@
 "snigelweb.com",
 "snipe.mfaber.at",
 "snipe.mizzuu.co",
-"Sniper.fujibee777.com",
 "sniper.fujibee777.com",
+"Sniper.fujibee777.com",
 "sniperlog.ru",
 "snipersex.com",
 "sniphub.com",
@@ -181516,8 +181516,8 @@
 "www.pentw.cc",
 "www.pepeglobalone.com",
 "www.pepperst-one.cc",
-"WWW.pepperstonecrm.com",
 "www.pepperstonecrm.com",
+"WWW.pepperstonecrm.com",
 "www.pepperstonecrmb.com",
 "www.pepperstonedcrm.com",
 "www.peppvipweb.com",
@@ -181802,8 +181802,8 @@
 "www.qhdbsd.com",
 "www.qhdjffhgh.com",
 "www.qhfbdh.com",
-"WWW.qhfjdkg.com",
 "www.qhfjdkg.com",
+"WWW.qhfjdkg.com",
 "www.qiaoanjin886.top",
 "www.qidjas.com",
 "www.qieyruy.com",
@@ -182995,8 +182995,8 @@
 "www.teafinace.com",
 "www.teamway.com",
 "www.teaofpuer.live",
-"www.teapuer.online",
 "WWW.teapuer.online",
+"www.teapuer.online",
 "www.tebbitdhu.com",
 "www.tebbitgye.com",
 "www.tebbitjdw.com",
@@ -188028,6 +188028,7 @@
 "xz001.cysj99.net",
 "xz0wefju.fun",
 "xz1aa7xc.royalshart.bet",
+"xz6ogoi12.com",
 "xzafpowu.in",
 "xzavier.imtrone.com",
 "xzblht.icu",
@@ -190031,8 +190032,8 @@
 "z.cdn.braun634.com",
 "z.cdn.protect-ad.com",
 "z.com",
-"Z.com",
 "Z.COM",
+"Z.com",
 "z.grfyw.com",
 "z.jjbuttercup.com",
 "z.nowscore.com",
