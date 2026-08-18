@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-19 07:17:43
+# Generated on: 2026-08-19 07:41:17
 # Generated AdBlock rules
-# Total entries: 213805
+# Total entries: 213806
 
 0.avmarket.rs
 0.myikas.com
@@ -167559,6 +167559,7 @@ stepcattle.com
 stepe.soulderma.com.br
 stepioserver.citicrow.com
 stepladder10.top
+stepladder46.top
 stepmedieval.com
 stepminorityinept.com
 stepmothermultiplydust.com
