@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-08-22 07:21:28
+# Generated on: 2026-08-22 07:55:28
 # Generated AdBlock rules
-# Total entries: 214752
+# Total entries: 214753
 
 0.avmarket.rs
 0.myikas.com
@@ -86007,6 +86007,7 @@ kiblahmafia.com
 kibxgtjvdfuw.com
 kic-ngfts.lge.com
 kic-ngfts.lge.com.edgekey.net
+kic-qt2-ngfts.lge.com
 kickhoistsuccess.com
 kiddbs.baby-calendar.jp
 kiddinglyeven.com
@@ -110363,8 +110364,8 @@ n.hzhfhkj.cn
 n.juhuasuanguanwang.cn
 n.kasnsnss.com
 n.kettenbach-immobilien.de
-n.kinvestops.com
 N.kinvestops.com
+n.kinvestops.com
 n.knuffelwuff.fr
 n.lexusfinancial.com
 n.lolaluna.com
@@ -151228,8 +151229,8 @@ sniga.segomotools.com
 snigelweb.com
 snipe.mfaber.at
 snipe.mizzuu.co
-Sniper.fujibee777.com
 sniper.fujibee777.com
+Sniper.fujibee777.com
 sniperlog.ru
 snipersex.com
 sniphub.com
