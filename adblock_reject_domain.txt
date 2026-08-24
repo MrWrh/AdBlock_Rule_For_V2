@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2026-08-24 11:08:53 (GMT+8)
-# Total entries: 214986
+# Generated on: 2026-08-24 12:10:38 (GMT+8)
+# Total entries: 214987
 
 "0.avmarket.rs",
 "0.myikas.com",
@@ -22581,8 +22581,8 @@
 "bestowmeasurement.com",
 "bestpush.pconline.com.cn",
 "bestrevenuenetwork.com",
-"Bestsgs.io",
 "bestsgs.io",
+"Bestsgs.io",
 "bestshoesboot.com",
 "bestsizeservice.top",
 "bestsportsbra.com",
@@ -31018,9 +31018,9 @@
 "citiaw.com",
 "citibh.com",
 "citics221.com",
-"Citigroup.Bo",
 "Citigroup.BO",
 "CitiGroup.BO",
+"Citigroup.Bo",
 "citingsnugly.com",
 "citiservi.es",
 "citivay.org",
@@ -35892,8 +35892,8 @@
 "crypto-scwalletx.com",
 "crypto-world.ink",
 "crypto.betfakade.com",
-"crypto.com",
 "Crypto.com",
+"crypto.com",
 "crypto.lion.expert",
 "crypto.lion.institute",
 "crypto.lion.training",
@@ -61016,8 +61016,8 @@
 "future.coniferhealth.com",
 "future.curlysecret.com",
 "future.lmstaeoiaes.com",
-"Future.lmstaoes.com",
 "future.lmstaoes.com",
+"Future.lmstaoes.com",
 "future.lmsteames.com",
 "future.uwindsor.ca",
 "futureads.io",
@@ -61262,8 +61262,8 @@
 "fxprofx211.com",
 "fxprofx221.com",
 "fxprofxn404.com",
-"FXPROTW.COM",
 "fxprotw.com",
+"FXPROTW.COM",
 "fxproxp11.com",
 "fxproxp26.com",
 "fxproxp888.com",
@@ -135460,8 +135460,8 @@
 "save.accesspay.com.au",
 "save.salary.com.au",
 "save.smartsalary.com.au",
-"Savegas.AI",
 "savegas.ai",
+"Savegas.AI",
 "saveomicron.shop",
 "saver.mychair.shop",
 "saversludgesauter.cyou",
@@ -186386,6 +186386,7 @@
 "umq3dj7m.tampabayspin.com",
 "umqigvethe.com",
 "umqosmlnjdrwl.site",
+"umrd62a7zy.com",
 "umrgdvvdgxjto.store",
 "umrhrnh.lampaoszlopbolt.hu",
 "umrvmb.net.anwalt.de",
