@@ -4,8 +4,8 @@
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
 # Generated AdBlock rules
-# Generated on: 2026-08-26 16:50:59 (GMT+8)
-# Total entries: 214537
+# Generated on: 2026-08-26 17:49:11 (GMT+8)
+# Total entries: 214538
 
 "0.avmarket.rs",
 "0.myikas.com",
@@ -74284,6 +74284,7 @@
 "hi407ezyz.com",
 "hi4c61mi8d.com",
 "hi4ztw3j.vip1xbet.org",
+"hi6uqvisz9.com",
 "hiabeoqxxqnec.online",
 "hiad.myweb.hinet.net",
 "hiad.vmall.com",
@@ -117364,8 +117365,8 @@
 "ouchruse.com",
 "ouchvibration.com",
 "oucouksirt.com",
-"OUD.genesbo.com",
 "oud.genesbo.com",
+"OUD.genesbo.com",
 "oudjmuimzsshw.space",
 "oudw850vbx.com",
 "oueia.xyz",
@@ -135135,8 +135136,8 @@
 "save.accesspay.com.au",
 "save.salary.com.au",
 "save.smartsalary.com.au",
-"savegas.ai",
 "Savegas.AI",
+"savegas.ai",
 "saveomicron.shop",
 "saver.mychair.shop",
 "saversludgesauter.cyou",
@@ -151062,8 +151063,8 @@
 "snigelweb.com",
 "snipe.mfaber.at",
 "snipe.mizzuu.co",
-"Sniper.fujibee777.com",
 "sniper.fujibee777.com",
+"Sniper.fujibee777.com",
 "sniperlog.ru",
 "snipersex.com",
 "sniphub.com",
@@ -203366,8 +203367,8 @@
 "www.qhdbsd.com",
 "www.qhdjffhgh.com",
 "www.qhfbdh.com",
-"WWW.qhfjdkg.com",
 "www.qhfjdkg.com",
+"WWW.qhfjdkg.com",
 "www.qiaoanjin886.top",
 "www.qidjas.com",
 "www.qieyruy.com",
@@ -204556,8 +204557,8 @@
 "www.teafinace.com",
 "www.teamway.com",
 "www.teaofpuer.live",
-"www.teapuer.online",
 "WWW.teapuer.online",
+"www.teapuer.online",
 "www.tebbitdhu.com",
 "www.tebbitgye.com",
 "www.tebbitjdw.com",
@@ -212098,9 +212099,9 @@
 "z.cdn.adpool.bet",
 "z.cdn.braun634.com",
 "z.cdn.protect-ad.com",
-"Z.com",
 "Z.COM",
 "z.com",
+"Z.com",
 "z.grfyw.com",
 "z.jjbuttercup.com",
 "z.mds.co",
