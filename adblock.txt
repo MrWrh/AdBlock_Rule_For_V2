@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_V2ray
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_V2ray/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-10-18 06:24:28
+# Generated on: 2026-10-18 08:15:20
 # Generated AdBlock rules
-# Total entries: 219886
+# Total entries: 219894
 
 0.232.205.92.host.secureserver.net
 0.avmarket.rs
@@ -2303,6 +2303,7 @@
 4l5bbkug99.com
 4lbk4yuhj5upn7vvkl.cfd
 4link.it
+4lqs5j3ckn.com
 4mlhn1ocg4.com
 4mp.xewp5et8izo2eq.cyou
 4mtj1r9x5gnbo4u7.rest
@@ -3517,9 +3518,9 @@
 87uy133bg3x4xmkz.cfd
 88.212.109.208.host.secureserver.net
 88.slotbiruserper.com
-88.vv6666.top
-88.VV6666.top
 88.VV6666.TOP
+88.VV6666.top
+88.vv6666.top
 882793fb7a.com
 883.engine.mobileapptracking.com
 88362zubo95838.com
@@ -11955,6 +11956,7 @@ airpr.com
 airs.adpinfo.com
 airshedcoart.com
 airshedmammets.qpon
+airsick32.com
 airst.giize.com
 airthsmoshavcalles.qpon
 airtickts.com
@@ -17139,6 +17141,7 @@ app-analytics.snapchat.com
 app-artifacts-1305923417.cos.ap-guangzhou.myqcloud.com
 app-download.mitokenex.com
 app-eth.com
+app-events.infoapps.apple.com
 app-log-lab.immomo.com
 app-log-oversea.immomo.com
 app-measurement.com
@@ -18019,8 +18022,8 @@ app.rrrrfgnj.com
 app.rtuidx.com
 app.rtusws.com
 app.rtwifjh.com
-APP.SA-platform.com
 app.sa-platform.com
+APP.SA-platform.com
 app.saf.sharjahart.org
 app.sagyugf.com
 app.sayuety.com
@@ -23033,8 +23036,8 @@ bete-dex.shop
 bete-dex.today
 betemolgar.com
 beterrakionan.com
-Betexplc.com
 betexplc.com
+Betexplc.com
 betfairae.com
 betfairen.com
 betfairos.com
@@ -31682,8 +31685,8 @@ citiae.com
 citiaw.com
 citibh.com
 citics221.com
-Citigroup.Bo
 Citigroup.BO
+Citigroup.Bo
 CitiGroup.BO
 citihkg.com
 citingsnugly.com
@@ -61942,6 +61945,7 @@ freefiremembershipq.com
 freefiremenbershipvn.com
 freefirenhanqua.com
 freefirervmembership.com
+freeform-events.apple.com
 freefr-fixed.mno.link
 freefromads.com
 freefromads.pro
@@ -62917,8 +62921,8 @@ fxuenhhaucscs.online
 fxuuakhpzrcgx.space
 fxuzrinlbacql.site
 fxviersitw886.com
-Fxview-tw.com
 fxview-tw.com
+Fxview-tw.com
 fxwlyddrjhupc.store
 fxxogvmdpnwgw.online
 fxxpproxy.com
@@ -85481,6 +85485,7 @@ jlrgovibptuzp.online
 jlrp6l5xycwtg8ih9m.cfd
 jltczmewqabda.online
 jlujxipdixrw.com
+jlulrz094u.com
 jluqqr.pechilux.ru
 jlvffkip.com
 jlvhwqtkmttgq.site
@@ -91133,8 +91138,8 @@ lel704cjev.com
 lelong.shop
 leluhrmmslpud.store
 lelzbtm2o.com
-lem-coin.com
 Lem-Coin.Com
+lem-coin.com
 lem.nouvelobs.com
 lemansnuclein.cyou
 lembsmhpronni.website
@@ -105945,8 +105950,8 @@ metaapi.communityca.com.br
 metaapi.estudioabrassear.com.br
 metab0ts.click
 metabit.metbito.com
-MetaBit30.mettbit.com
 metabit30.mettbit.com
+MetaBit30.mettbit.com
 metabit52.metbito.com
 metabit58.metbito.com
 metabit70.metbito.com
@@ -120399,8 +120404,8 @@ ouchruse.com
 ouchvibration.com
 ouchwhere.com
 oucouksirt.com
-OUD.genesbo.com
 oud.genesbo.com
+OUD.genesbo.com
 oudjmuimzsshw.space
 oudleonmimics.cfd
 oudqymgszakcb.site
@@ -126840,6 +126845,7 @@ procuratio.nu
 procuratorcauldron.com
 procurement.cipscomms.org
 prod-analytics.royal.drmgms.com
+prod-app-analytics-event-gateway.v.aaplimg.com
 prod-blocking.workers.dev
 prod-clientlog.fastly.newssuite.sinfony.ne.jp
 prod-collector.bigbasket.com
@@ -126851,6 +126857,7 @@ prod-event-relay-sports-api.v.aaplimg.com
 prod-event-relay-stocks-api.v.aaplimg.com
 prod-event-relay-weather-api.v.aaplimg.com
 prod-eventhub-analytics.servicebus.windows.net
+prod-iwork-events.v.aaplimg.com
 prod-mediate-events.applovin.com
 prod-mhaa.mhtr.be
 prod-news-notification-events.v.aaplimg.com
@@ -208365,8 +208372,8 @@ www.qh625.tw
 www.qhdbsd.com
 www.qhdjffhgh.com
 www.qhfbdh.com
-www.qhfjdkg.com
 WWW.qhfjdkg.com
+www.qhfjdkg.com
 www.qiaoanjin886.top
 www.qidjas.com
 www.qieyruy.com
@@ -217345,9 +217352,9 @@ z.bodyworksmedcenter.com
 z.cdn.adpool.bet
 z.cdn.braun634.com
 z.cdn.protect-ad.com
+z.com
 Z.com
 Z.COM
-z.com
 z.grfyw.com
 z.jjbuttercup.com
 z.mds.co
@@ -218075,6 +218082,7 @@ zewkj.com
 zewuwkawo.com
 zexfzson.icu
 zexmoa.qchicken.com.tw
+zexudnxmjadlzg.com
 zexyivyvafozx.space
 zeydoo.com
 zeziswrbpmhez.site
